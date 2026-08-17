@@ -24,7 +24,7 @@
             "last_commit": "2026-06-10T02:53:35Z",
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2147
+            "stars": 2148
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-07-29T05:32:21Z",
             "owner": "worldbench",
             "repo": "awesome-3d-4d-world-models",
-            "stars": 965
+            "stars": 966
           }
         },
         {
@@ -119,10 +119,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T20:00:58Z",
+            "last_commit": "2026-08-17T07:14:02Z",
             "owner": "x-zheng16",
             "repo": "Awesome-Embodied-AI-Safety",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-08-11T07:38:22Z",
             "owner": "H-EmbodVis",
             "repo": "SimWAM",
-            "stars": 78
+            "stars": 89
           }
         },
         {
@@ -400,7 +400,7 @@
             "last_commit": "2026-05-01T04:02:58Z",
             "owner": "lzzzzzm",
             "repo": "II-World",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-02-27T12:40:42Z",
             "owner": "OpenDriveLab",
             "repo": "DriveAGI",
-            "stars": 802
+            "stars": 803
           }
         },
         {
@@ -712,7 +712,7 @@
             "last_commit": "2024-04-12T08:22:17Z",
             "owner": "wzzheng",
             "repo": "OccWorld",
-            "stars": 578
+            "stars": 579
           }
         },
         {
@@ -782,7 +782,7 @@
             "last_commit": "2025-12-12T00:51:43Z",
             "owner": "ucd-dare",
             "repo": "CarDreamer",
-            "stars": 365
+            "stars": 366
           }
         },
         {
@@ -1057,7 +1057,7 @@
             "last_commit": "2026-07-09T10:39:39Z",
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4365
+            "stars": 4366
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2026-07-28T02:36:52Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2055
+            "stars": 2057
           }
         },
         {
@@ -1085,7 +1085,7 @@
             "last_commit": "2026-07-09T16:02:38Z",
             "owner": "Robbyant",
             "repo": "lingbot-va",
-            "stars": 1764
+            "stars": 1770
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-05-28T21:36:00Z",
             "owner": "Snowflake-Labs",
             "repo": "agent-world-model",
-            "stars": 426
+            "stars": 429
           }
         },
         {
@@ -1183,7 +1183,21 @@
             "last_commit": "2026-07-02T08:22:53Z",
             "owner": "CSU-JPG",
             "repo": "MIND",
-            "stars": 76
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation. [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-14T03:36:32Z",
+            "owner": "AMAP-ML",
+            "repo": "DreamX-Phi",
+            "stars": 57
           }
         },
         {
@@ -1211,7 +1225,7 @@
             "last_commit": "2026-07-23T08:16:55Z",
             "owner": "FofGofx",
             "repo": "WorldCache",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -1225,7 +1239,7 @@
             "last_commit": "2026-06-30T09:33:39Z",
             "owner": "20robo",
             "repo": "raenwm",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -1239,7 +1253,21 @@
             "last_commit": "2026-08-13T23:17:20Z",
             "owner": "legel",
             "repo": "deepearth",
-            "stars": 33
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twin: Playing an Unknown Game with a Test-Time Digital Twin. [Paper",
+          "description": "] [Project] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T15:01:35Z",
+            "owner": "Alexyskoutnev",
+            "repo": "TWIN-ARC-AGI-3",
+            "stars": 2
           }
         }
       ],
@@ -1259,7 +1287,7 @@
             "last_commit": "2026-08-16T02:30:50Z",
             "owner": "NVIDIA",
             "repo": "cosmos",
-            "stars": 11527
+            "stars": 11534
           }
         },
         {
@@ -1273,7 +1301,7 @@
             "last_commit": "2026-05-25T06:40:27Z",
             "owner": "danijar",
             "repo": "dreamerv3",
-            "stars": 3669
+            "stars": 3674
           }
         },
         {
@@ -1287,7 +1315,7 @@
             "last_commit": "2026-04-15T17:27:25Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanWorld-1.0",
-            "stars": 2909
+            "stars": 2913
           }
         },
         {
@@ -1315,7 +1343,7 @@
             "last_commit": "2026-03-30T06:32:00Z",
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2302
+            "stars": 2304
           }
         },
         {
@@ -1329,7 +1357,7 @@
             "last_commit": "2025-12-02T10:34:06Z",
             "owner": "alibaba-damo-academy",
             "repo": "RynnVLA-002",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -1343,7 +1371,7 @@
             "last_commit": "2026-03-18T13:35:32Z",
             "owner": "unitreerobotics",
             "repo": "unifolm-world-model-action",
-            "stars": 1095
+            "stars": 1097
           }
         },
         {
@@ -1357,7 +1385,7 @@
             "last_commit": "2026-06-07T17:21:25Z",
             "owner": "nvidia-cosmos",
             "repo": "cosmos-transfer1",
-            "stars": 815
+            "stars": 816
           }
         },
         {
@@ -1385,7 +1413,7 @@
             "last_commit": "2026-05-08T15:04:42Z",
             "owner": "microsoft",
             "repo": "mineworld",
-            "stars": 487
+            "stars": 489
           }
         },
         {
@@ -1497,7 +1525,7 @@
             "last_commit": "2025-12-26T07:59:43Z",
             "owner": "Feliciaxyao",
             "repo": "NavMorph",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -1539,7 +1567,7 @@
             "last_commit": "2025-04-18T02:58:02Z",
             "owner": "LeapLabTHU",
             "repo": "EchoWorld",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -1670,20 +1698,6 @@
         },
         {
           "node_type": "item",
-          "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-30T00:42:48Z",
-            "owner": "Pter61",
-            "repo": "predicir",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[TAWM] Time-Aware World Model for Adaptive Prediction and Control. [Paper",
           "description": "] [Code]",
           "children": [],
@@ -1693,6 +1707,20 @@
             "last_commit": "2025-11-24T04:34:49Z",
             "owner": "anh-nn01",
             "repo": "Time-Aware-World-Model",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-30T00:42:48Z",
+            "owner": "Pter61",
+            "repo": "predicir",
             "stars": 13
           }
         },
@@ -1775,7 +1803,7 @@
             "last_commit": "2025-02-27T23:15:27Z",
             "owner": "facebookresearch",
             "repo": "jepa",
-            "stars": 4089
+            "stars": 4090
           }
         },
         {
@@ -1789,7 +1817,7 @@
             "last_commit": "2024-12-06T16:45:28Z",
             "owner": "eloialonso",
             "repo": "diamond",
-            "stars": 2089
+            "stars": 2090
           }
         },
         {
@@ -2347,9 +2375,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:39:40.514Z",
+    "last_updated": "2026-08-17T16:42:44.129Z",
     "original_repository": "LMD0311/Awesome-World-Model",
-    "original_repository_sha": "74070fcc4b48d08ddc4079d027cc6637ed67bd51",
+    "original_repository_sha": "9a4bfe2021567a75c2d3108000b54a548f409e02",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
