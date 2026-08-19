@@ -1,2382 +1,2529 @@
 {
   "items": [
     {
-      "description": "If you find this repository useful in your research, please kindly consider giving a star ⭐ and a citation:",
-      "items": [],
-      "title": "📚 Citation"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811638645,
+                "language": null,
+                "last_commit": "2026-06-10T02:53:35Z",
+                "owner": "HCPLab-SYSU",
+                "repo": "Embodied_AI_Paper_List",
+                "stars": 2150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3D and 4D World Modeling: A Survey. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005844732,
+                "language": "HTML",
+                "last_commit": "2026-07-29T05:32:21Z",
+                "owner": "worldbench",
+                "repo": "awesome-3d-4d-world-models",
+                "stars": 966
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 794584160,
+                "language": null,
+                "last_commit": "2025-10-30T13:12:14Z",
+                "owner": "GigaAI-research",
+                "repo": "General-World-Models-Survey",
+                "stars": 527
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Comprehensive Survey on World Models for Embodied AI. [Paper",
+              "description": "] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 963308889,
+                "language": null,
+                "last_commit": "2026-08-13T05:07:05Z",
+                "owner": "Li-Zn-H",
+                "repo": "AwesomeWorldModels",
+                "stars": 346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Exploring the Evolution of Physics Cognition in Video Generation: A Survey. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954538244,
+                "language": null,
+                "last_commit": "2026-06-23T15:06:18Z",
+                "owner": "minnie-lin",
+                "repo": "Awesome-Physics-Cognition-based-Video-Generation",
+                "stars": 325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A survey on multimodal large language models for autonomous driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708304033,
+                "language": null,
+                "last_commit": "2024-03-14T05:49:50Z",
+                "owner": "IrohXu",
+                "repo": "Awesome-Multimodal-LLM-Autonomous-Driving",
+                "stars": 313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generative Physical AI in Vision: A Survey. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 907273047,
+                "language": null,
+                "last_commit": "2025-12-23T04:42:52Z",
+                "owner": "BestJunYu",
+                "repo": "Awesome-Physics-aware-Generation",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1193264999,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:03:21Z",
+                "owner": "x-zheng16",
+                "repo": "Awesome-Embodied-AI-Safety",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook. [Paper",
+              "description": "] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1112022463,
+                "language": null,
+                "last_commit": "2025-12-15T03:46:16Z",
+                "owner": "MoyangSensei",
+                "repo": "AwesomeRobustDWM",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Survey"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1105876193,
+                "language": "Python",
+                "last_commit": "2026-03-13T00:55:10Z",
+                "owner": "fudan-generative-vision",
+                "repo": "WAM-Flow",
+                "stars": 355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[UniFuture] UniFuture: A 4D Driving World Model for Future Generation and Perception. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950081757,
+                "language": "Python",
+                "last_commit": "2026-02-26T09:12:01Z",
+                "owner": "dk-liang",
+                "repo": "UniFuture",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1321921283,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:55:32Z",
+                "owner": "H-EmbodVis",
+                "repo": "SimWAM",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1122629189,
+                "language": "Python",
+                "last_commit": "2026-06-13T11:26:06Z",
+                "owner": "dtc111111",
+                "repo": "GaussianDWM",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[WorldDrive] Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1181536271,
+                "language": "Python",
+                "last_commit": "2026-08-03T03:37:20Z",
+                "owner": "TabGuigui",
+                "repo": "WorldDrive",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1225431165,
+                "language": "Python",
+                "last_commit": "2026-07-28T11:00:32Z",
+                "owner": "H-EmbodVis",
+                "repo": "HERMESV2",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1143077620,
+                "language": "Python",
+                "last_commit": "2026-02-05T12:48:48Z",
+                "owner": "mengtan00",
+                "repo": "ResWorld",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vega: Learning to Drive with Natural Language Instructions. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192846762,
+                "language": "Python",
+                "last_commit": "2026-03-27T06:59:49Z",
+                "owner": "zuosc19",
+                "repo": "Vega",
+                "stars": 43
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[FSDrive] FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991088632,
+                "language": "Python",
+                "last_commit": "2026-05-08T05:08:02Z",
+                "owner": "MIV-XJTU",
+                "repo": "FSDrive",
+                "stars": 819
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 917001485,
+                "language": "Python",
+                "last_commit": "2025-06-19T09:49:21Z",
+                "owner": "SenseTime-FVG",
+                "repo": "OpenDWM",
+                "stars": 415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Epona: Autoregressive Diffusion World Model for Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1009038213,
+                "language": "Python",
+                "last_commit": "2025-07-22T06:35:46Z",
+                "owner": "Kevin-thu",
+                "repo": "Epona",
+                "stars": 381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[SSR] Does End-to-End Autonomous Driving Really Need Perception Tasks? [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 862258102,
+                "language": "Python",
+                "last_commit": "2025-03-23T14:54:35Z",
+                "owner": "PeidongLi",
+                "repo": "SSR",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 921468271,
+                "language": "Python",
+                "last_commit": "2026-05-12T03:05:38Z",
+                "owner": "LMD0311",
+                "repo": "HERMES",
+                "stars": 260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[WoTE] End-to-End Driving with Online Trajectory Evaluation via BEV World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957745125,
+                "language": "Python",
+                "last_commit": "2025-06-29T03:43:19Z",
+                "owner": "liyingyanUCAS",
+                "repo": "WoTE",
+                "stars": 259
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 877637581,
+                "language": "Python",
+                "last_commit": "2025-08-22T08:04:03Z",
+                "owner": "3DTopia",
+                "repo": "DynamicCity",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 895535064,
+                "language": "Python",
+                "last_commit": "2026-06-11T04:42:36Z",
+                "owner": "GigaAI-research",
+                "repo": "ReconDreamer",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 970933091,
+                "language": "Python",
+                "last_commit": "2025-05-07T15:37:18Z",
+                "owner": "shalfun",
+                "repo": "DriVerse",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "I2 -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 981900993,
+                "language": "Python",
+                "last_commit": "2026-05-01T04:02:58Z",
+                "owner": "lzzzzzm",
+                "repo": "II-World",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DINO-Foresight: Looking into the Future with DINO. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 904606333,
+                "language": "Python",
+                "last_commit": "2025-11-26T15:15:25Z",
+                "owner": "Sta8is",
+                "repo": "DINO-Foresight",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 902521689,
+                "language": "Python",
+                "last_commit": "2025-12-04T07:17:16Z",
+                "owner": "zuosc19",
+                "repo": "GaussianWorld",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VaViM and VaVAM: Autonomous Driving through Video Generative Modeling. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754994104,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-07-03T10:02:35Z",
+                "owner": "valeoai",
+                "repo": "VideoActionModel",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[UMGen] Generating Multimodal Driving Scenes via Next-Scene Prediction. [Paper",
+              "description": "] [Project] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951761814,
+                "language": "Python",
+                "last_commit": "2025-11-07T08:17:26Z",
+                "owner": "YanhaoWu",
+                "repo": "UMGen",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1062588703,
+                "language": "Python",
+                "last_commit": "2026-06-26T08:26:12Z",
+                "owner": "6550Zhao",
+                "repo": "Policy-World-Model",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1080182190,
+                "language": "Python",
+                "last_commit": "2026-01-14T08:22:22Z",
+                "owner": "MSunDYY",
+                "repo": "SparseWorld",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 936011961,
+                "language": "Python",
+                "last_commit": "2026-03-18T03:40:44Z",
+                "owner": "JLChen-C",
+                "repo": "OccProphet",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991348261,
+                "language": null,
+                "last_commit": "2025-06-08T08:17:52Z",
+                "owner": "antonioo-c",
+                "repo": "GeoDrive",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[PreWorld] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 905243430,
+                "language": "Python",
+                "last_commit": "2025-02-14T07:03:13Z",
+                "owner": "getterupper",
+                "repo": "PreWorld",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 914073389,
+                "language": "Python",
+                "last_commit": "2025-11-18T04:46:15Z",
+                "owner": "HaoranZhuExplorer",
+                "repo": "adljepa",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[PIWM] Dream to Drive with Predictive Individual World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 687291425,
+                "language": "Python",
+                "last_commit": "2025-08-08T09:00:29Z",
+                "owner": "gaoyinfeng",
+                "repo": "PIWM",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FUTURIST: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 910903848,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-19T17:32:13Z",
+                "owner": "Sta8is",
+                "repo": "FUTURIST",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1033551035,
+                "language": "Python",
+                "last_commit": "2026-07-29T08:00:49Z",
+                "owner": "fudan-zvg",
+                "repo": "ImagiDrive",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 879701436,
+                "language": "Python",
+                "last_commit": "2025-06-25T13:10:33Z",
+                "owner": "Li-Zn-H",
+                "repo": "SimWorld",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 933236300,
+                "language": null,
+                "last_commit": "2025-03-26T02:24:47Z",
+                "owner": "xieyuser",
+                "repo": "Semi-SMD",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1015731154,
+                "language": "Python",
+                "last_commit": "2026-07-24T03:12:59Z",
+                "owner": "lynn-yu",
+                "repo": "NRSeg",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MagicDrive: Street View Generation with Diverse 3D Geometry Control. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703433265,
+                "language": "Python",
+                "last_commit": "2025-04-21T10:20:04Z",
+                "owner": "cure-lab",
+                "repo": "MagicDrive",
+                "stars": 1166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 798687584,
+                "language": "Python",
+                "last_commit": "2025-07-02T05:27:25Z",
+                "owner": "OpenDriveLab",
+                "repo": "Vista",
+                "stars": 893
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[GenAD] Generalized Predictive Model for Autonomous Driving. [Paper",
+              "description": "] [Data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632101482,
+                "language": "Python",
+                "last_commit": "2026-02-27T12:40:42Z",
+                "owner": "OpenDriveLab",
+                "repo": "DriveAGI",
+                "stars": 805
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692705523,
+                "language": "Python",
+                "last_commit": "2024-11-29T09:45:52Z",
+                "owner": "JeffWang987",
+                "repo": "DriveDreamer",
+                "stars": 591
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 722421287,
+                "language": "Python",
+                "last_commit": "2024-04-12T08:22:17Z",
+                "owner": "wzzheng",
+                "repo": "OccWorld",
+                "stars": 579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693618593,
+                "language": "Python",
+                "last_commit": "2023-12-15T03:44:01Z",
+                "owner": "shalfun",
+                "repo": "DrivingDiffusion",
+                "stars": 564
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Drive-WM] Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 720275234,
+                "language": "Python",
+                "last_commit": "2023-12-07T02:40:39Z",
+                "owner": "BraveGroup",
+                "repo": "Drive-WM",
+                "stars": 438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving. [Paper",
+              "description": "] [Project] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 917001485,
+                "language": "Python",
+                "last_commit": "2025-06-19T09:49:21Z",
+                "owner": "SenseTime-FVG",
+                "repo": "OpenDWM",
+                "stars": 415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[LAW] Enhancing End-to-End Autonomous Driving with Latent World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813988509,
+                "language": "Python",
+                "last_commit": "2025-06-29T03:48:48Z",
+                "owner": "BraveGroup",
+                "repo": "LAW",
+                "stars": 385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799392105,
+                "language": "Python",
+                "last_commit": "2025-12-12T00:51:43Z",
+                "owner": "ucd-dare",
+                "repo": "CarDreamer",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ViDAR] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728532286,
+                "language": "Python",
+                "last_commit": "2025-07-02T05:29:05Z",
+                "owner": "OpenDriveLab",
+                "repo": "ViDAR",
+                "stars": 352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cam4DOCC: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 725393883,
+                "language": "Python",
+                "last_commit": "2024-05-13T08:30:40Z",
+                "owner": "haomo-ai",
+                "repo": "Cam4DOcc",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 908133244,
+                "language": "Python",
+                "last_commit": "2025-01-15T04:19:03Z",
+                "owner": "YvanYin",
+                "repo": "DrivingWorld",
+                "stars": 246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807377343,
+                "language": "Python",
+                "last_commit": "2024-05-31T01:57:02Z",
+                "owner": "wzzheng",
+                "repo": "OccSora",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LidarDM: Generative LiDAR Simulation in a Generated World. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 780651923,
+                "language": "Python",
+                "last_commit": "2025-08-12T08:18:54Z",
+                "owner": "vzyrianov",
+                "repo": "LidarDM",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[GUMP] Solving Motion Planning Tasks with a Scalable Generative Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 763788247,
+                "language": "Python",
+                "last_commit": "2024-10-30T23:14:06Z",
+                "owner": "HorizonRobotics",
+                "repo": "GUMP",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 822375400,
+                "language": null,
+                "last_commit": "2024-07-09T02:31:16Z",
+                "owner": "zympsyche",
+                "repo": "BevWorld",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 694455975,
+                "language": "Python",
+                "last_commit": "2025-02-06T17:36:52Z",
+                "owner": "fudan-zvg",
+                "repo": "WoVoGen",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Doe-1: Closed-Loop Autonomous Driving with Large World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 901395235,
+                "language": "Python",
+                "last_commit": "2025-01-21T20:55:11Z",
+                "owner": "wzzheng",
+                "repo": "Doe",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SafeDreamer: Safe Reinforcement Learning with World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 744406105,
+                "language": "Python",
+                "last_commit": "2024-04-08T02:08:21Z",
+                "owner": "PKU-Alignment",
+                "repo": "SafeDreamer",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[LatentDriver] Learning Multiple Probabilistic Decisions from Latent World Model in Autonomous Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 857290714,
+                "language": "Python",
+                "last_commit": "2025-09-07T08:26:06Z",
+                "owner": "Sephirex-X",
+                "repo": "LatentDriver",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Delphi] Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 809562597,
+                "language": null,
+                "last_commit": "2024-06-04T18:28:32Z",
+                "owner": "westlake-autolab",
+                "repo": "Delphi",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[DriveSim] Probing Multimodal LLMs as World Models for Driving. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 786932168,
+                "language": null,
+                "last_commit": "2025-02-27T22:19:37Z",
+                "owner": "sreeramsa",
+                "repo": "DriveSim",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Terra ACT-Bench: Towards Action Controllable World Models for Autonomous Driving. [Paper",
+              "description": "] [Code] [Project] [Hugging Face]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 898753323,
+                "language": "Python",
+                "last_commit": "2024-12-23T04:02:11Z",
+                "owner": "turingmotors",
+                "repo": "ACT-Bench",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[MARL-CCE] Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 828213750,
+                "language": null,
+                "last_commit": "2025-07-15T15:41:46Z",
+                "owner": "qiaoguanren",
+                "repo": "Multi-agent-Competitive-Autonomous-Driving",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[MARL-CCE] Modelling-Competitive-Behaviors-in-Autonomous-Driving-Under-Generative-World-Model. [Code",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 828213750,
+                "language": null,
+                "last_commit": "2025-07-15T15:41:46Z",
+                "owner": "qiaoguanren",
+                "repo": "Multi-agent-Competitive-Autonomous-Driving",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 695197271,
+                "language": "Python",
+                "last_commit": "2023-09-29T18:48:13Z",
+                "owner": "zhejz",
+                "repo": "TrafficBots",
+                "stars": 74
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2023"
+        }
+      ],
       "title": "Papers"
     },
     {
-      "description": "",
+      "description": "Due to the large number of relevant papers, we will no longer update the list of related papers (related to general world models and robotics), but we still welcome contributions from the community. If you have a paper you’d like to add, please feel free to submit a pull request.",
       "items": [
         {
-          "node_type": "item",
-          "title": "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-10T02:53:35Z",
-            "owner": "HCPLab-SYSU",
-            "repo": "Embodied_AI_Paper_List",
-            "stars": 2149
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Lingbot-World] Advancing Open-source World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1143912065,
+                "language": "Python",
+                "last_commit": "2026-07-09T10:39:39Z",
+                "owner": "Robbyant",
+                "repo": "lingbot-world",
+                "stars": 4374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Helios] Real Real-Time Long Video Generation Model. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1170755412,
+                "language": "Python",
+                "last_commit": "2026-07-28T02:36:52Z",
+                "owner": "PKU-YuanGroup",
+                "repo": "Helios",
+                "stars": 2066
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Lingbot-VA] Causal World Modeling for Robot Control. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1145409147,
+                "language": "Python",
+                "last_commit": "2026-07-09T16:02:38Z",
+                "owner": "Robbyant",
+                "repo": "lingbot-va",
+                "stars": 1777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1152542153,
+                "language": "Python",
+                "last_commit": "2026-05-28T21:36:00Z",
+                "owner": "Snowflake-Labs",
+                "repo": "agent-world-model",
+                "stars": 429
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[VEGA-3D] Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1186120003,
+                "language": "Python",
+                "last_commit": "2026-06-18T14:20:22Z",
+                "owner": "H-EmbodVis",
+                "repo": "VEGA-3D",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[HyDRA] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1184190081,
+                "language": "Python",
+                "last_commit": "2026-07-23T08:45:18Z",
+                "owner": "H-EmbodVis",
+                "repo": "HyDRA",
+                "stars": 274
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R2-Dreamer: Redundancy-Reduced World Models without Decoders or Augmentation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158497267,
+                "language": "Python",
+                "last_commit": "2026-05-31T11:46:56Z",
+                "owner": "NM512",
+                "repo": "r2dreamer",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[SeqWM] Empowering Multi-Robot Cooperation via Sequential World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1057952815,
+                "language": "Python",
+                "last_commit": "2026-03-01T10:00:12Z",
+                "owner": "zhaozijie2022",
+                "repo": "seqwm",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inference-time Physics Alignment of Video Generative Models with Latent World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005011848,
+                "language": "Python",
+                "last_commit": "2026-07-17T16:25:09Z",
+                "owner": "facebookresearch",
+                "repo": "WMReward",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIND: Benchmarking Memory Consistency and Action Control in World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1150640230,
+                "language": "Python",
+                "last_commit": "2026-07-02T08:22:53Z",
+                "owner": "CSU-JPG",
+                "repo": "MIND",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1333164825,
+                "language": null,
+                "last_commit": "2026-08-14T03:36:32Z",
+                "owner": "AMAP-ML",
+                "repo": "DreamX-Phi",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[EAWM] From Observations to Events: Event-Aware World Model for Reinforcement Learning. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1102672382,
+                "language": "Python",
+                "last_commit": "2026-05-30T16:37:00Z",
+                "owner": "MarquisDarwin",
+                "repo": "EAWM",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching. [Paper",
+              "description": "] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1174363827,
+                "language": "Python",
+                "last_commit": "2026-07-23T08:16:55Z",
+                "owner": "FofGofx",
+                "repo": "WorldCache",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RAE-NWM: Navigation World Model in Dense Visual Representation Space. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1177514224,
+                "language": "Python",
+                "last_commit": "2026-06-30T09:33:39Z",
+                "owner": "20robo",
+                "repo": "raenwm",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Self-Supervised Multi-Modal World Model with 4D Space-Time Embedding. [Paper",
+              "description": "] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965147585,
+                "language": "Python",
+                "last_commit": "2026-08-13T23:17:20Z",
+                "owner": "legel",
+                "repo": "deepearth",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Twin: Playing an Unknown Game with a Test-Time Digital Twin. [Paper",
+              "description": "] [Project] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1317826185,
+                "language": "Python",
+                "last_commit": "2026-08-02T15:01:35Z",
+                "owner": "Alexyskoutnev",
+                "repo": "TWIN-ARC-AGI-3",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2026"
         },
         {
-          "node_type": "item",
-          "title": "3D and 4D World Modeling: A Survey. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-29T05:32:21Z",
-            "owner": "worldbench",
-            "repo": "awesome-3d-4d-world-models",
-            "stars": 966
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cosmos World Foundation Model Platform for Physical AI. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 910176789,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-18T10:13:08Z",
+                "owner": "NVIDIA",
+                "repo": "cosmos",
+                "stars": 11557
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[DreamerV3] Mastering Diverse Domains through World Models. [Paper",
+              "description": "] [JAX Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588898844,
+                "language": "Python",
+                "last_commit": "2026-05-25T06:40:27Z",
+                "owner": "danijar",
+                "repo": "dreamerv3",
+                "stars": 3685
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1022300160,
+                "language": "Python",
+                "last_commit": "2026-04-15T17:27:25Z",
+                "owner": "Tencent-Hunyuan",
+                "repo": "HunyuanWorld-1.0",
+                "stars": 2914
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LongLive: Real-time Interactive Long Video Generation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1062167576,
+                "language": "Python",
+                "last_commit": "2026-08-07T02:35:21Z",
+                "owner": "NVlabs",
+                "repo": "LongLive",
+                "stars": 2547
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 978649191,
+                "language": "Python",
+                "last_commit": "2026-03-30T06:32:00Z",
+                "owner": "SkyworkAI",
+                "repo": "Matrix-Game",
+                "stars": 2305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WorldVLA: Towards Autoregressive Action World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1006839665,
+                "language": "Python",
+                "last_commit": "2025-12-02T10:34:06Z",
+                "owner": "alibaba-damo-academy",
+                "repo": "RynnVLA-002",
+                "stars": 1114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UnifoLM-WMA-0: A World-Model-Action (WMA) Framework under UnifoLM Family. [Code",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1055591911,
+                "language": "Python",
+                "last_commit": "2026-03-18T13:35:32Z",
+                "owner": "unitreerobotics",
+                "repo": "unifolm-world-model-action",
+                "stars": 1099
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cosmos-Transfer1 [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 941557915,
+                "language": "Python",
+                "last_commit": "2026-06-07T17:21:25Z",
+                "owner": "nvidia-cosmos",
+                "repo": "cosmos-transfer1",
+                "stars": 816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yume: An Interactive World Generation Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1019422022,
+                "language": "Python",
+                "last_commit": "2026-01-14T04:05:11Z",
+                "owner": "stdstu12",
+                "repo": "YUME",
+                "stars": 683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 936035561,
+                "language": "Python",
+                "last_commit": "2026-05-08T15:04:42Z",
+                "owner": "microsoft",
+                "repo": "mineworld",
+                "stars": 489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Astra: General Interactive World Model with Autoregressive Denoising. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1078008969,
+                "language": "Python",
+                "last_commit": "2026-06-09T17:27:42Z",
+                "owner": "EternalEvan",
+                "repo": "Astra",
+                "stars": 333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1050810441,
+                "language": "Python",
+                "last_commit": "2026-04-15T18:36:24Z",
+                "owner": "galilai-group",
+                "repo": "llm-jepa",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[FAR] Long-Context Autoregressive Video Modeling with Next-Frame Prediction. [Paper",
+              "description": "] [Project] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954555336,
+                "language": "Python",
+                "last_commit": "2025-04-23T10:19:48Z",
+                "owner": "showlab",
+                "repo": "FAR",
+                "stars": 313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[UWM] Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 960200028,
+                "language": "Python",
+                "last_commit": "2025-10-08T19:39:50Z",
+                "owner": "WEIRDLabUW",
+                "repo": "unified-world-model",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LS-Imagine: Open-World Reinforcement Learning over Long Short-Term Imagination. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 867680919,
+                "language": "Python",
+                "last_commit": "2026-05-22T06:54:05Z",
+                "owner": "qiwang067",
+                "repo": "LS-Imagine",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 875530471,
+                "language": "Python",
+                "last_commit": "2026-03-24T22:05:03Z",
+                "owner": "B0B8K1ng",
+                "repo": "WMNavigation",
+                "stars": 177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models. [Paper",
+              "description": "] [Data&Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 983435192,
+                "language": "Python",
+                "last_commit": "2025-06-13T08:35:04Z",
+                "owner": "AgibotTech",
+                "repo": "EWMBench",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 891938771,
+                "language": "Python",
+                "last_commit": "2025-12-26T07:59:43Z",
+                "owner": "Feliciaxyao",
+                "repo": "NavMorph",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997266472,
+                "language": "Python",
+                "last_commit": "2025-07-06T01:58:49Z",
+                "owner": "Hoyyyaard",
+                "repo": "3DFlowAction",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VFMF: World Modeling by Forecasting Vision Foundation Model Features. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1114623434,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-25T17:48:55Z",
+                "owner": "gboduljak",
+                "repo": "vfmf",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952530369,
+                "language": "Python",
+                "last_commit": "2025-04-18T02:58:02Z",
+                "owner": "LeapLabTHU",
+                "repo": "EchoWorld",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005978706,
+                "language": "Python",
+                "last_commit": "2025-06-26T02:41:59Z",
+                "owner": "April-Yz",
+                "repo": "ManiGaussian_Bimanual",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[GWM] Graph World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 990945727,
+                "language": "Python",
+                "last_commit": "2025-09-20T01:26:54Z",
+                "owner": "ulab-uiuc",
+                "repo": "GWM",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[HMA] Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 908091107,
+                "language": "Python",
+                "last_commit": "2025-02-17T18:00:31Z",
+                "owner": "liruiw",
+                "repo": "HMA",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958933894,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-12T08:01:11Z",
+                "owner": "UCSB-AI",
+                "repo": "Morph4D",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[M3W] Learning and Planning Multi-Agent Tasks via an MoE-based World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1057276472,
+                "language": "Python",
+                "last_commit": "2026-03-01T09:59:35Z",
+                "owner": "zhaozijie2022",
+                "repo": "m3w-marl",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DC-MPC: Discrete Codebook World Models for Continuous Control. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940707051,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-03-15T14:12:27Z",
+                "owner": "aidanscannell",
+                "repo": "dcmpc",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RoboScape: Physics-informed Embodied World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1010505267,
+                "language": null,
+                "last_commit": "2025-06-29T08:02:24Z",
+                "owner": "tsinghua-fib-lab",
+                "repo": "RoboScape",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[LoopNav] Toward Memory-Aided World Models: Benchmarking via Spatial Consistency. [Paper",
+              "description": "] [Code] [Data]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 984603372,
+                "language": "Python",
+                "last_commit": "2026-05-08T03:56:56Z",
+                "owner": "Kevin-lkw",
+                "repo": "LoopNav",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[SGF] Simple, Good, Fast: Self-Supervised World Models Free of Baggage. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 928428675,
+                "language": "Python",
+                "last_commit": "2025-06-11T09:28:52Z",
+                "owner": "jrobine",
+                "repo": "sgf",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[TAWM] Time-Aware World Model for Adaptive Prediction and Control. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992919536,
+                "language": "Python",
+                "last_commit": "2025-11-24T04:34:49Z",
+                "owner": "anh-nn01",
+                "repo": "Time-Aware-World-Model",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 948511388,
+                "language": null,
+                "last_commit": "2025-03-30T00:42:48Z",
+                "owner": "Pter61",
+                "repo": "predicir",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "M^3 : A Modular World Model over Streams of Tokens. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 924367412,
+                "language": "Python",
+                "last_commit": "2026-08-12T07:02:16Z",
+                "owner": "leor-c",
+                "repo": "Simulus",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1110021710,
+                "language": "Python",
+                "last_commit": "2025-12-04T16:52:48Z",
+                "owner": "chandar-lab",
+                "repo": "visa-for-mindjourney",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1056654576,
+                "language": null,
+                "last_commit": "2025-09-25T14:59:11Z",
+                "owner": "tsinghua-fib-lab",
+                "repo": "Longscape",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2025"
         },
         {
-          "node_type": "item",
-          "title": "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-10-30T13:12:14Z",
-            "owner": "GigaAI-research",
-            "repo": "General-World-Models-Survey",
-            "stars": 527
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[LWM] World Model on Million-Length Video And Language With RingAttention. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754447605,
+                "language": "Python",
+                "last_commit": "2024-10-19T03:27:38Z",
+                "owner": "LargeWorldModel",
+                "repo": "LWM",
+                "stars": 7426
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "V-JEPA: Video Joint Embedding Predictive Architecture. [Blog",
+              "description": "] [Paper] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756397201,
+                "language": "Python",
+                "last_commit": "2025-02-27T23:15:27Z",
+                "owner": "facebookresearch",
+                "repo": "jepa",
+                "stars": 4094
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Diamond] Diffusion for World Modeling: Visual Details Matter in Atari. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 803024793,
+                "language": "Python",
+                "last_commit": "2024-12-06T16:45:28Z",
+                "owner": "eloialonso",
+                "repo": "diamond",
+                "stars": 2092
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 783303222,
+                "language": "Python",
+                "last_commit": "2026-04-14T03:25:38Z",
+                "owner": "PKU-YuanGroup",
+                "repo": "MagicTime",
+                "stars": 1339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TD-MPC2: Scalable, Robust World Models for Continuous Control. [Paper",
+              "description": "] [Torch Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710079101,
+                "language": "Python",
+                "last_commit": "2026-07-13T22:26:51Z",
+                "owner": "nicklashansen",
+                "repo": "tdmpc2",
+                "stars": 925
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pandora: Towards General World Model with Natural Language Actions and Video States. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 804492748,
+                "language": "Python",
+                "last_commit": "2024-09-23T06:07:54Z",
+                "owner": "maitrix-org",
+                "repo": "Pandora",
+                "stars": 538
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AVID: Adapting Video Diffusion Models to World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503315788,
+                "language": "Python",
+                "last_commit": "2024-12-16T12:36:39Z",
+                "owner": "microsoft",
+                "repo": "causica",
+                "stars": 533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[R2I] Mastering Memory Tasks with World Models. [Paper",
+              "description": "] [JAX Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728532286,
+                "language": "Python",
+                "last_commit": "2025-07-02T05:29:05Z",
+                "owner": "OpenDriveLab",
+                "repo": "ViDAR",
+                "stars": 352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 770859112,
+                "language": "Python",
+                "last_commit": "2026-03-29T15:28:54Z",
+                "owner": "GuanxingLu",
+                "repo": "ManiGaussian",
+                "stars": 282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843275579,
+                "language": "Python",
+                "last_commit": "2026-07-18T03:41:35Z",
+                "owner": "Aria-Zhangjl",
+                "repo": "StoryWeaver",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 744931668,
+                "language": null,
+                "last_commit": "2024-01-19T03:03:56Z",
+                "owner": "JeffWang987",
+                "repo": "WorldDreamer",
+                "stars": 207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PreLAR: World Model Pre-training with Learnable Action Representation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823709119,
+                "language": "Python",
+                "last_commit": "2025-04-15T09:15:36Z",
+                "owner": "VIPL-EPP",
+                "repo": "PreLAR",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[WKM] Agent Planning with World Knowledge Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 795790529,
+                "language": "Python",
+                "last_commit": "2024-12-17T07:43:40Z",
+                "owner": "zjunlp",
+                "repo": "WKM",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Δ-IRIS] Efficient World Models with Context-Aware Tokenization. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807541636,
+                "language": "Python",
+                "last_commit": "2024-09-22T09:41:10Z",
+                "owner": "vmicheli",
+                "repo": "delta-iris",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[WebDreamer] Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 884423230,
+                "language": "Python",
+                "last_commit": "2025-10-05T22:44:57Z",
+                "owner": "OSU-NLP-Group",
+                "repo": "WebDreamer",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[GenRL] Multimodal foundation world models for generalist embodied agents. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820063399,
+                "language": "Python",
+                "last_commit": "2025-04-04T16:43:15Z",
+                "owner": "mazpie",
+                "repo": "genrl",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evaluating the World Model Implicit in a Generative Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820063399,
+                "language": "Python",
+                "last_commit": "2025-04-04T16:43:15Z",
+                "owner": "mazpie",
+                "repo": "genrl",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HarmonyDream: Task Harmonization Inside World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 810085617,
+                "language": "Python",
+                "last_commit": "2024-06-27T05:30:00Z",
+                "owner": "thuml",
+                "repo": "HarmonyDream",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CityBench: Evaluating the Capabilities of Large Language Model as World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811215026,
+                "language": "Python",
+                "last_commit": "2025-07-15T08:38:07Z",
+                "owner": "tsinghua-fib-lab",
+                "repo": "CityBench",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Owl-1: Omni World Model for Consistent Long Video Generation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 902426914,
+                "language": null,
+                "last_commit": "2024-12-13T02:48:23Z",
+                "owner": "huang-yh",
+                "repo": "Owl",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 748585227,
+                "language": "Python",
+                "last_commit": "2025-04-30T07:41:50Z",
+                "owner": "zoharri",
+                "repo": "mamba",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[LLM-Sim] Can Language Models Serve as Text-Based World Simulators? [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813186723,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-12T19:13:34Z",
+                "owner": "cognitiveailab",
+                "repo": "GPT-simulator",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[LLMCWM] Language Agents Meet Causality -- Bridging LLMs and Causal World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 878570041,
+                "language": "Python",
+                "last_commit": "2025-05-06T17:56:43Z",
+                "owner": "j0hngou",
+                "repo": "LLMCWM",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CoWorld] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. [Paper",
+              "description": "] [Website] [Torch Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 781494921,
+                "language": "Python",
+                "last_commit": "2025-10-24T16:26:14Z",
+                "owner": "qiwang067",
+                "repo": "CoWorld",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[HRSSM] Learning Latent Dynamic Robust Representations for World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 798575971,
+                "language": "Python",
+                "last_commit": "2024-05-11T04:35:06Z",
+                "owner": "bit1029public",
+                "repo": "HRSSM",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dreaming of Many Worlds: Learning Contextual World Models Aids Zero-Shot Generalization. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 720777692,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-09-23T17:14:47Z",
+                "owner": "sai-prasanna",
+                "repo": "dreaming_of_many_worlds",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[REM] Improving Token-Based World Models with Parallel Observation Prediction. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754168367,
+                "language": "Python",
+                "last_commit": "2026-02-23T16:13:54Z",
+                "owner": "leor-c",
+                "repo": "REM",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[MUN]Learning World Models for Unconstrained Goal Navigation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 880473011,
+                "language": "Python",
+                "last_commit": "2024-12-14T18:22:51Z",
+                "owner": "RU-Automated-Reasoning-Group",
+                "repo": "MUN",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transformers and Slot Encoding for Sample Efficient Physical World Modelling. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807694345,
+                "language": "Python",
+                "last_commit": "2024-05-31T13:50:46Z",
+                "owner": "torchipeppo",
+                "repo": "transformers-and-slot-encoding-for-wm",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024"
         },
         {
-          "node_type": "item",
-          "title": "A Comprehensive Survey on World Models for Embodied AI. [Paper",
-          "description": "] [Project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-13T05:07:05Z",
-            "owner": "Li-Zn-H",
-            "repo": "AwesomeWorldModels",
-            "stars": 346
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[IRIS] Transformers are Sample Efficient World Models. [Paper",
+              "description": "] [Torch Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527889855,
+                "language": "Python",
+                "last_commit": "2024-10-14T15:36:18Z",
+                "owner": "eloialonso",
+                "repo": "iris",
+                "stars": 899
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Dynalang] Learning to Model the World with Language. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669925744,
+                "language": "Python",
+                "last_commit": "2026-01-07T07:29:56Z",
+                "owner": "jlin816",
+                "repo": "dynalang",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STORM: Efficient Stochastic Transformer based World Models for Reinforcement Learning. [Paper",
+              "description": "] [Torch Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 704696444,
+                "language": "Python",
+                "last_commit": "2026-03-18T16:10:26Z",
+                "owner": "weipu-zhang",
+                "repo": "STORM",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[TWM] Transformer-based World Models Are Happy with 100k Interactions. [Paper",
+              "description": "] [Torch Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542571624,
+                "language": "Python",
+                "last_commit": "2023-04-04T19:30:44Z",
+                "owner": "jrobine",
+                "repo": "twm",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FOCUS: Object-Centric World Models for Robotics Manipulation [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 892216070,
+                "language": "Python",
+                "last_commit": "2025-08-26T10:21:47Z",
+                "owner": "StefanoFerraro",
+                "repo": "FOCUS",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2023"
         },
         {
-          "node_type": "item",
-          "title": "Exploring the Evolution of Physics Cognition in Video Generation: A Survey. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-23T15:06:18Z",
-            "owner": "minnie-lin",
-            "repo": "Awesome-Physics-Cognition-based-Video-Generation",
-            "stars": 325
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[TD-MPC] Temporal Difference Learning for Model Predictive Control. [Paper",
+              "description": "][Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 462181426,
+                "language": "Python",
+                "last_commit": "2023-11-25T22:18:43Z",
+                "owner": "nicklashansen",
+                "repo": "tdmpc",
+                "stars": 522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DayDreamer: World Models for Physical Robot Learning. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 536161249,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-12-19T15:17:52Z",
+                "owner": "danijar",
+                "repo": "daydreamer",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Hierarchical Planning from Pixels. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527517092,
+                "language": "Python",
+                "last_commit": "2022-12-21T15:32:46Z",
+                "owner": "danijar",
+                "repo": "director",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496643758,
+                "language": "Python",
+                "last_commit": "2024-10-25T01:41:19Z",
+                "owner": "panmt",
+                "repo": "Iso-Dream",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422038496,
+                "language": "Python",
+                "last_commit": "2022-12-26T02:52:14Z",
+                "owner": "fdeng18",
+                "repo": "dreamer-pro",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2022"
         },
         {
-          "node_type": "item",
-          "title": "A survey on multimodal large language models for autonomous driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-14T05:49:50Z",
-            "owner": "IrohXu",
-            "repo": "Awesome-Multimodal-LLM-Autonomous-Driving",
-            "stars": 313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Generative Physical AI in Vision: A Survey. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-12-23T04:42:52Z",
-            "owner": "BestJunYu",
-            "repo": "Awesome-Physics-aware-Generation",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T20:00:25Z",
-            "owner": "x-zheng16",
-            "repo": "Awesome-Embodied-AI-Safety",
-            "stars": 128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook. [Paper",
-          "description": "] [Project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-12-15T03:46:16Z",
-            "owner": "MoyangSensei",
-            "repo": "AwesomeRobustDWM",
-            "stars": 21
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[DreamerV1] Dream to Control: Learning Behaviors by Latent Imagination. [Paper",
+              "description": "] [TF Code] [Torch Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236560315,
+                "language": "Python",
+                "last_commit": "2021-09-10T20:49:29Z",
+                "owner": "danijar",
+                "repo": "dreamer",
+                "stars": 620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Plan2Explore] Planning to Explore via Self-Supervised World Models. [Paper",
+              "description": "] [TF Code] [Torch Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258072356,
+                "language": "Python",
+                "last_commit": "2023-02-10T23:35:17Z",
+                "owner": "ramanans1",
+                "repo": "plan2explore",
+                "stars": 242
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2020"
         }
       ],
-      "title": "Survey"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-13T00:55:10Z",
-            "owner": "fudan-generative-vision",
-            "repo": "WAM-Flow",
-            "stars": 355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[UniFuture] UniFuture: A 4D Driving World Model for Future Generation and Perception. [Paper",
-          "description": "] [Code] [Project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-26T09:12:01Z",
-            "owner": "dk-liang",
-            "repo": "UniFuture",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T07:38:22Z",
-            "owner": "H-EmbodVis",
-            "repo": "SimWAM",
-            "stars": 105
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-13T11:26:06Z",
-            "owner": "dtc111111",
-            "repo": "GaussianDWM",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[WorldDrive] Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T03:37:20Z",
-            "owner": "TabGuigui",
-            "repo": "WorldDrive",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation. [Paper",
-          "description": "] [Code] [Project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T11:00:32Z",
-            "owner": "H-EmbodVis",
-            "repo": "HERMESV2",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-05T12:48:48Z",
-            "owner": "mengtan00",
-            "repo": "ResWorld",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vega: Learning to Drive with Natural Language Instructions. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-27T06:59:49Z",
-            "owner": "zuosc19",
-            "repo": "Vega",
-            "stars": 43
-          }
-        }
-      ],
-      "title": "2026"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[FSDrive] FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-08T05:08:02Z",
-            "owner": "MIV-XJTU",
-            "repo": "FSDrive",
-            "stars": 818
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-19T09:49:21Z",
-            "owner": "SenseTime-FVG",
-            "repo": "OpenDWM",
-            "stars": 414
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Epona: Autoregressive Diffusion World Model for Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-22T06:35:46Z",
-            "owner": "Kevin-thu",
-            "repo": "Epona",
-            "stars": 380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[SSR] Does End-to-End Autonomous Driving Really Need Perception Tasks? [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-23T14:54:35Z",
-            "owner": "PeidongLi",
-            "repo": "SSR",
-            "stars": 272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation. [Paper",
-          "description": "] [Code] [Project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-12T03:05:38Z",
-            "owner": "LMD0311",
-            "repo": "HERMES",
-            "stars": 260
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[WoTE] End-to-End Driving with Online Trajectory Evaluation via BEV World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-29T03:43:19Z",
-            "owner": "liyingyanUCAS",
-            "repo": "WoTE",
-            "stars": 259
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-22T08:04:03Z",
-            "owner": "3DTopia",
-            "repo": "DynamicCity",
-            "stars": 247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-11T04:42:36Z",
-            "owner": "GigaAI-research",
-            "repo": "ReconDreamer",
-            "stars": 223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-07T15:37:18Z",
-            "owner": "shalfun",
-            "repo": "DriVerse",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "I2 -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-01T04:02:58Z",
-            "owner": "lzzzzzm",
-            "repo": "II-World",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DINO-Foresight: Looking into the Future with DINO. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-26T15:15:25Z",
-            "owner": "Sta8is",
-            "repo": "DINO-Foresight",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-04T07:17:16Z",
-            "owner": "zuosc19",
-            "repo": "GaussianWorld",
-            "stars": 169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VaViM and VaVAM: Autonomous Driving through Video Generative Modeling. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-07-03T10:02:35Z",
-            "owner": "valeoai",
-            "repo": "VideoActionModel",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[UMGen] Generating Multimodal Driving Scenes via Next-Scene Prediction. [Paper",
-          "description": "] [Project] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-07T08:17:26Z",
-            "owner": "YanhaoWu",
-            "repo": "UMGen",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-26T08:26:12Z",
-            "owner": "6550Zhao",
-            "repo": "Policy-World-Model",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-14T08:22:22Z",
-            "owner": "MSunDYY",
-            "repo": "SparseWorld",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T03:40:44Z",
-            "owner": "JLChen-C",
-            "repo": "OccProphet",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-06-08T08:17:52Z",
-            "owner": "antonioo-c",
-            "repo": "GeoDrive",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[PreWorld] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-14T07:03:13Z",
-            "owner": "getterupper",
-            "repo": "PreWorld",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-18T04:46:15Z",
-            "owner": "HaoranZhuExplorer",
-            "repo": "adljepa",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[PIWM] Dream to Drive with Predictive Individual World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-08T09:00:29Z",
-            "owner": "gaoyinfeng",
-            "repo": "PIWM",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FUTURIST: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-08-19T17:32:13Z",
-            "owner": "Sta8is",
-            "repo": "FUTURIST",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-29T08:00:49Z",
-            "owner": "fudan-zvg",
-            "repo": "ImagiDrive",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-25T13:10:33Z",
-            "owner": "Li-Zn-H",
-            "repo": "SimWorld",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-26T02:24:47Z",
-            "owner": "xieyuser",
-            "repo": "Semi-SMD",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T03:12:59Z",
-            "owner": "lynn-yu",
-            "repo": "NRSeg",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[ORAD-3D] Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks. [Paper",
-          "description": "] [Code]",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "[RAMBLE] From Imitation to Exploration: End-to-end Autonomous Driving based on World Model. [Paper",
-          "description": "] [Code]",
-          "children": []
-        }
-      ],
-      "title": "2025"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MagicDrive: Street View Generation with Diverse 3D Geometry Control. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-21T10:20:04Z",
-            "owner": "cure-lab",
-            "repo": "MagicDrive",
-            "stars": 1166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-02T05:27:25Z",
-            "owner": "OpenDriveLab",
-            "repo": "Vista",
-            "stars": 893
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[GenAD] Generalized Predictive Model for Autonomous Driving. [Paper",
-          "description": "] [Data]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-27T12:40:42Z",
-            "owner": "OpenDriveLab",
-            "repo": "DriveAGI",
-            "stars": 804
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-29T09:45:52Z",
-            "owner": "JeffWang987",
-            "repo": "DriveDreamer",
-            "stars": 591
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-12T08:22:17Z",
-            "owner": "wzzheng",
-            "repo": "OccWorld",
-            "stars": 579
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-15T03:44:01Z",
-            "owner": "shalfun",
-            "repo": "DrivingDiffusion",
-            "stars": 564
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[Drive-WM] Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-07T02:40:39Z",
-            "owner": "BraveGroup",
-            "repo": "Drive-WM",
-            "stars": 438
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving. [Paper",
-          "description": "] [Project] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-19T09:49:21Z",
-            "owner": "SenseTime-FVG",
-            "repo": "OpenDWM",
-            "stars": 414
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[LAW] Enhancing End-to-End Autonomous Driving with Latent World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-29T03:48:48Z",
-            "owner": "BraveGroup",
-            "repo": "LAW",
-            "stars": 385
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-12T00:51:43Z",
-            "owner": "ucd-dare",
-            "repo": "CarDreamer",
-            "stars": 366
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[ViDAR] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-02T05:29:05Z",
-            "owner": "OpenDriveLab",
-            "repo": "ViDAR",
-            "stars": 352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cam4DOCC: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-13T08:30:40Z",
-            "owner": "haomo-ai",
-            "repo": "Cam4DOcc",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-15T04:19:03Z",
-            "owner": "YvanYin",
-            "repo": "DrivingWorld",
-            "stars": 246
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-31T01:57:02Z",
-            "owner": "wzzheng",
-            "repo": "OccSora",
-            "stars": 204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LidarDM: Generative LiDAR Simulation in a Generated World. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-12T08:18:54Z",
-            "owner": "vzyrianov",
-            "repo": "LidarDM",
-            "stars": 188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[GUMP] Solving Motion Planning Tasks with a Scalable Generative Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-30T23:14:06Z",
-            "owner": "HorizonRobotics",
-            "repo": "GUMP",
-            "stars": 175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-07-09T02:31:16Z",
-            "owner": "zympsyche",
-            "repo": "BevWorld",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-06T17:36:52Z",
-            "owner": "fudan-zvg",
-            "repo": "WoVoGen",
-            "stars": 114
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Doe-1: Closed-Loop Autonomous Driving with Large World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-21T20:55:11Z",
-            "owner": "wzzheng",
-            "repo": "Doe",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SafeDreamer: Safe Reinforcement Learning with World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-08T02:08:21Z",
-            "owner": "PKU-Alignment",
-            "repo": "SafeDreamer",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[LatentDriver] Learning Multiple Probabilistic Decisions from Latent World Model in Autonomous Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-07T08:26:06Z",
-            "owner": "Sephirex-X",
-            "repo": "LatentDriver",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[Delphi] Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-04T18:28:32Z",
-            "owner": "westlake-autolab",
-            "repo": "Delphi",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[DriveSim] Probing Multimodal LLMs as World Models for Driving. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-02-27T22:19:37Z",
-            "owner": "sreeramsa",
-            "repo": "DriveSim",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Terra ACT-Bench: Towards Action Controllable World Models for Autonomous Driving. [Paper",
-          "description": "] [Code] [Project] [Hugging Face]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-23T04:02:11Z",
-            "owner": "turingmotors",
-            "repo": "ACT-Bench",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[MARL-CCE] Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-15T15:41:46Z",
-            "owner": "qiaoguanren",
-            "repo": "Multi-agent-Competitive-Autonomous-Driving",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[MARL-CCE] Modelling-Competitive-Behaviors-in-Autonomous-Driving-Under-Generative-World-Model. [Code",
-          "description": "]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-15T15:41:46Z",
-            "owner": "qiaoguanren",
-            "repo": "Multi-agent-Competitive-Autonomous-Driving",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "2024"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-29T18:48:13Z",
-            "owner": "zhejz",
-            "repo": "TrafficBots",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UniWorld: Autonomous Driving Pre-training via World Models. [Paper",
-          "description": "] [Code]",
-          "children": []
-        }
-      ],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Other World Model Paper"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[Lingbot-World] Advancing Open-source World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-09T10:39:39Z",
-            "owner": "Robbyant",
-            "repo": "lingbot-world",
-            "stars": 4371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[Helios] Real Real-Time Long Video Generation Model. [Paper",
-          "description": "] [Code] [Project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T02:36:52Z",
-            "owner": "PKU-YuanGroup",
-            "repo": "Helios",
-            "stars": 2059
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[Lingbot-VA] Causal World Modeling for Robot Control. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-09T16:02:38Z",
-            "owner": "Robbyant",
-            "repo": "lingbot-va",
-            "stars": 1773
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-28T21:36:00Z",
-            "owner": "Snowflake-Labs",
-            "repo": "agent-world-model",
-            "stars": 429
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[VEGA-3D] Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-18T14:20:22Z",
-            "owner": "H-EmbodVis",
-            "repo": "VEGA-3D",
-            "stars": 421
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[HyDRA] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. [Paper",
-          "description": "] [Code] [Project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T08:45:18Z",
-            "owner": "H-EmbodVis",
-            "repo": "HyDRA",
-            "stars": 274
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R2-Dreamer: Redundancy-Reduced World Models without Decoders or Augmentation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-31T11:46:56Z",
-            "owner": "NM512",
-            "repo": "r2dreamer",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[SeqWM] Empowering Multi-Robot Cooperation via Sequential World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-01T10:00:12Z",
-            "owner": "zhaozijie2022",
-            "repo": "seqwm",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inference-time Physics Alignment of Video Generative Models with Latent World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-17T16:25:09Z",
-            "owner": "facebookresearch",
-            "repo": "WMReward",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MIND: Benchmarking Memory Consistency and Action Control in World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-02T08:22:53Z",
-            "owner": "CSU-JPG",
-            "repo": "MIND",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-14T03:36:32Z",
-            "owner": "AMAP-ML",
-            "repo": "DreamX-Phi",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[EAWM] From Observations to Events: Event-Aware World Model for Reinforcement Learning. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-30T16:37:00Z",
-            "owner": "MarquisDarwin",
-            "repo": "EAWM",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching. [Paper",
-          "description": "] [Project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T08:16:55Z",
-            "owner": "FofGofx",
-            "repo": "WorldCache",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RAE-NWM: Navigation World Model in Dense Visual Representation Space. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-30T09:33:39Z",
-            "owner": "20robo",
-            "repo": "raenwm",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Self-Supervised Multi-Modal World Model with 4D Space-Time Embedding. [Paper",
-          "description": "] [Project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T23:17:20Z",
-            "owner": "legel",
-            "repo": "deepearth",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Twin: Playing an Unknown Game with a Test-Time Digital Twin. [Paper",
-          "description": "] [Project] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-02T15:01:35Z",
-            "owner": "Alexyskoutnev",
-            "repo": "TWIN-ARC-AGI-3",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "2026"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cosmos World Foundation Model Platform for Physical AI. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T10:13:08Z",
-            "owner": "NVIDIA",
-            "repo": "cosmos",
-            "stars": 11548
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[DreamerV3] Mastering Diverse Domains through World Models. [Paper",
-          "description": "] [JAX Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-25T06:40:27Z",
-            "owner": "danijar",
-            "repo": "dreamerv3",
-            "stars": 3682
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-15T17:27:25Z",
-            "owner": "Tencent-Hunyuan",
-            "repo": "HunyuanWorld-1.0",
-            "stars": 2914
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LongLive: Real-time Interactive Long Video Generation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-07T02:35:21Z",
-            "owner": "NVlabs",
-            "repo": "LongLive",
-            "stars": 2546
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-30T06:32:00Z",
-            "owner": "SkyworkAI",
-            "repo": "Matrix-Game",
-            "stars": 2304
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WorldVLA: Towards Autoregressive Action World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-02T10:34:06Z",
-            "owner": "alibaba-damo-academy",
-            "repo": "RynnVLA-002",
-            "stars": 1111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UnifoLM-WMA-0: A World-Model-Action (WMA) Framework under UnifoLM Family. [Code",
-          "description": "]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T13:35:32Z",
-            "owner": "unitreerobotics",
-            "repo": "unifolm-world-model-action",
-            "stars": 1098
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cosmos-Transfer1 [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-07T17:21:25Z",
-            "owner": "nvidia-cosmos",
-            "repo": "cosmos-transfer1",
-            "stars": 816
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yume: An Interactive World Generation Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-14T04:05:11Z",
-            "owner": "stdstu12",
-            "repo": "YUME",
-            "stars": 683
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-08T15:04:42Z",
-            "owner": "microsoft",
-            "repo": "mineworld",
-            "stars": 489
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Astra: General Interactive World Model with Autoregressive Denoising. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-09T17:27:42Z",
-            "owner": "EternalEvan",
-            "repo": "Astra",
-            "stars": 333
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-15T18:36:24Z",
-            "owner": "galilai-group",
-            "repo": "llm-jepa",
-            "stars": 326
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[FAR] Long-Context Autoregressive Video Modeling with Next-Frame Prediction. [Paper",
-          "description": "] [Project] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-23T10:19:48Z",
-            "owner": "showlab",
-            "repo": "FAR",
-            "stars": 313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[UWM] Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-08T19:39:50Z",
-            "owner": "WEIRDLabUW",
-            "repo": "unified-world-model",
-            "stars": 251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LS-Imagine: Open-World Reinforcement Learning over Long Short-Term Imagination. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-22T06:54:05Z",
-            "owner": "qiwang067",
-            "repo": "LS-Imagine",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-24T22:05:03Z",
-            "owner": "B0B8K1ng",
-            "repo": "WMNavigation",
-            "stars": 177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models. [Paper",
-          "description": "] [Data&Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-13T08:35:04Z",
-            "owner": "AgibotTech",
-            "repo": "EWMBench",
-            "stars": 131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-26T07:59:43Z",
-            "owner": "Feliciaxyao",
-            "repo": "NavMorph",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-06T01:58:49Z",
-            "owner": "Hoyyyaard",
-            "repo": "3DFlowAction",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VFMF: World Modeling by Forecasting Vision Foundation Model Features. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-07-25T17:48:55Z",
-            "owner": "gboduljak",
-            "repo": "vfmf",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-18T02:58:02Z",
-            "owner": "LeapLabTHU",
-            "repo": "EchoWorld",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-26T02:41:59Z",
-            "owner": "April-Yz",
-            "repo": "ManiGaussian_Bimanual",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[GWM] Graph World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-20T01:26:54Z",
-            "owner": "ulab-uiuc",
-            "repo": "GWM",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[HMA] Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression. [Paper",
-          "description": "] [Code] [Project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-17T18:00:31Z",
-            "owner": "liruiw",
-            "repo": "HMA",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-05-12T08:01:11Z",
-            "owner": "UCSB-AI",
-            "repo": "Morph4D",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[M3W] Learning and Planning Multi-Agent Tasks via an MoE-based World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-01T09:59:35Z",
-            "owner": "zhaozijie2022",
-            "repo": "m3w-marl",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DC-MPC: Discrete Codebook World Models for Continuous Control. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-03-15T14:12:27Z",
-            "owner": "aidanscannell",
-            "repo": "dcmpc",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RoboScape: Physics-informed Embodied World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-06-29T08:02:24Z",
-            "owner": "tsinghua-fib-lab",
-            "repo": "RoboScape",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[LoopNav] Toward Memory-Aided World Models: Benchmarking via Spatial Consistency. [Paper",
-          "description": "] [Code] [Data]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-08T03:56:56Z",
-            "owner": "Kevin-lkw",
-            "repo": "LoopNav",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[SGF] Simple, Good, Fast: Self-Supervised World Models Free of Baggage. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-11T09:28:52Z",
-            "owner": "jrobine",
-            "repo": "sgf",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[TAWM] Time-Aware World Model for Adaptive Prediction and Control. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-24T04:34:49Z",
-            "owner": "anh-nn01",
-            "repo": "Time-Aware-World-Model",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-30T00:42:48Z",
-            "owner": "Pter61",
-            "repo": "predicir",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "M^3 : A Modular World Model over Streams of Tokens. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T07:02:16Z",
-            "owner": "leor-c",
-            "repo": "Simulus",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-04T16:52:48Z",
-            "owner": "chandar-lab",
-            "repo": "visa-for-mindjourney",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-25T14:59:11Z",
-            "owner": "tsinghua-fib-lab",
-            "repo": "Longscape",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GLAM: Global-Local Variation Awareness in Mamba-based World Model. [Paper",
-          "description": "] [Code]",
-          "children": []
-        }
-      ],
-      "title": "2025"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[LWM] World Model on Million-Length Video And Language With RingAttention. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-19T03:27:38Z",
-            "owner": "LargeWorldModel",
-            "repo": "LWM",
-            "stars": 7427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "V-JEPA: Video Joint Embedding Predictive Architecture. [Blog",
-          "description": "] [Paper] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-27T23:15:27Z",
-            "owner": "facebookresearch",
-            "repo": "jepa",
-            "stars": 4092
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[Diamond] Diffusion for World Modeling: Visual Details Matter in Atari. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-06T16:45:28Z",
-            "owner": "eloialonso",
-            "repo": "diamond",
-            "stars": 2091
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-14T03:25:38Z",
-            "owner": "PKU-YuanGroup",
-            "repo": "MagicTime",
-            "stars": 1339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TD-MPC2: Scalable, Robust World Models for Continuous Control. [Paper",
-          "description": "] [Torch Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-13T22:26:51Z",
-            "owner": "nicklashansen",
-            "repo": "tdmpc2",
-            "stars": 925
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pandora: Towards General World Model with Natural Language Actions and Video States. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-23T06:07:54Z",
-            "owner": "maitrix-org",
-            "repo": "Pandora",
-            "stars": 538
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AVID: Adapting Video Diffusion Models to World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-16T12:36:39Z",
-            "owner": "microsoft",
-            "repo": "causica",
-            "stars": 533
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[R2I] Mastering Memory Tasks with World Models. [Paper",
-          "description": "] [JAX Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-02T05:29:05Z",
-            "owner": "OpenDriveLab",
-            "repo": "ViDAR",
-            "stars": 352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-29T15:28:54Z",
-            "owner": "GuanxingLu",
-            "repo": "ManiGaussian",
-            "stars": 282
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-18T03:41:35Z",
-            "owner": "Aria-Zhangjl",
-            "repo": "StoryWeaver",
-            "stars": 227
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-19T03:03:56Z",
-            "owner": "JeffWang987",
-            "repo": "WorldDreamer",
-            "stars": 207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PreLAR: World Model Pre-training with Learnable Action Representation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-15T09:15:36Z",
-            "owner": "VIPL-EPP",
-            "repo": "PreLAR",
-            "stars": 172
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[WKM] Agent Planning with World Knowledge Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-17T07:43:40Z",
-            "owner": "zjunlp",
-            "repo": "WKM",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[Δ-IRIS] Efficient World Models with Context-Aware Tokenization. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-22T09:41:10Z",
-            "owner": "vmicheli",
-            "repo": "delta-iris",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[WebDreamer] Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-05T22:44:57Z",
-            "owner": "OSU-NLP-Group",
-            "repo": "WebDreamer",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[GenRL] Multimodal foundation world models for generalist embodied agents. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-04T16:43:15Z",
-            "owner": "mazpie",
-            "repo": "genrl",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Evaluating the World Model Implicit in a Generative Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-04T16:43:15Z",
-            "owner": "mazpie",
-            "repo": "genrl",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HarmonyDream: Task Harmonization Inside World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-27T05:30:00Z",
-            "owner": "thuml",
-            "repo": "HarmonyDream",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CityBench: Evaluating the Capabilities of Large Language Model as World Model. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-15T08:38:07Z",
-            "owner": "tsinghua-fib-lab",
-            "repo": "CityBench",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Owl-1: Omni World Model for Consistent Long Video Generation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-12-13T02:48:23Z",
-            "owner": "huang-yh",
-            "repo": "Owl",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-30T07:41:50Z",
-            "owner": "zoharri",
-            "repo": "mamba",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[LLM-Sim] Can Language Models Serve as Text-Based World Simulators? [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-06-12T19:13:34Z",
-            "owner": "cognitiveailab",
-            "repo": "GPT-simulator",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[LLMCWM] Language Agents Meet Causality -- Bridging LLMs and Causal World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-06T17:56:43Z",
-            "owner": "j0hngou",
-            "repo": "LLMCWM",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CoWorld] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. [Paper",
-          "description": "] [Website] [Torch Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-24T16:26:14Z",
-            "owner": "qiwang067",
-            "repo": "CoWorld",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[HRSSM] Learning Latent Dynamic Robust Representations for World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-11T04:35:06Z",
-            "owner": "bit1029public",
-            "repo": "HRSSM",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dreaming of Many Worlds: Learning Contextual World Models Aids Zero-Shot Generalization. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-09-23T17:14:47Z",
-            "owner": "sai-prasanna",
-            "repo": "dreaming_of_many_worlds",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[REM] Improving Token-Based World Models with Parallel Observation Prediction. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-23T16:13:54Z",
-            "owner": "leor-c",
-            "repo": "REM",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[MUN]Learning World Models for Unconstrained Goal Navigation. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-14T18:22:51Z",
-            "owner": "RU-Automated-Reasoning-Group",
-            "repo": "MUN",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Transformers and Slot Encoding for Sample Efficient Physical World Modelling. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-31T13:50:46Z",
-            "owner": "torchipeppo",
-            "repo": "transformers-and-slot-encoding-for-wm",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "2024"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[IRIS] Transformers are Sample Efficient World Models. [Paper",
-          "description": "] [Torch Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-14T15:36:18Z",
-            "owner": "eloialonso",
-            "repo": "iris",
-            "stars": 898
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[Dynalang] Learning to Model the World with Language. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-07T07:29:56Z",
-            "owner": "jlin816",
-            "repo": "dynalang",
-            "stars": 421
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "STORM: Efficient Stochastic Transformer based World Models for Reinforcement Learning. [Paper",
-          "description": "] [Torch Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T16:10:26Z",
-            "owner": "weipu-zhang",
-            "repo": "STORM",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[TWM] Transformer-based World Models Are Happy with 100k Interactions. [Paper",
-          "description": "] [Torch Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-04T19:30:44Z",
-            "owner": "jrobine",
-            "repo": "twm",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FOCUS: Object-Centric World Models for Robotics Manipulation [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-26T10:21:47Z",
-            "owner": "StefanoFerraro",
-            "repo": "FOCUS",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[TD-MPC] Temporal Difference Learning for Model Predictive Control. [Paper",
-          "description": "][Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-25T22:18:43Z",
-            "owner": "nicklashansen",
-            "repo": "tdmpc",
-            "stars": 522
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DayDreamer: World Models for Physical Robot Learning. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-12-19T15:17:52Z",
-            "owner": "danijar",
-            "repo": "daydreamer",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep Hierarchical Planning from Pixels. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-21T15:32:46Z",
-            "owner": "danijar",
-            "repo": "director",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-25T01:41:19Z",
-            "owner": "panmt",
-            "repo": "Iso-Dream",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations. [Paper",
-          "description": "] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-26T02:52:14Z",
-            "owner": "fdeng18",
-            "repo": "dreamer-pro",
-            "stars": 38
-          }
-        }
-      ],
-      "title": "2022"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[DreamerV1] Dream to Control: Learning Behaviors by Latent Imagination. [Paper",
-          "description": "] [TF Code] [Torch Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-09-10T20:49:29Z",
-            "owner": "danijar",
-            "repo": "dreamer",
-            "stars": 620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[Plan2Explore] Planning to Explore via Self-Supervised World Models. [Paper",
-          "description": "] [TF Code] [Torch Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-10T23:35:17Z",
-            "owner": "ramanans1",
-            "repo": "plan2explore",
-            "stars": 242
-          }
-        }
-      ],
-      "title": "2020"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:46:33.799Z",
+    "last_updated": "2026-08-19T12:11:08.948Z",
     "original_repository": "LMD0311/Awesome-World-Model",
+    "original_repository_id": 738046322,
     "original_repository_sha": "9a4bfe2021567a75c2d3108000b54a548f409e02",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
