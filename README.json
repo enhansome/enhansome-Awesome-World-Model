@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-13T05:07:05Z",
                 "owner": "Li-Zn-H",
                 "repo": "AwesomeWorldModels",
-                "stars": 346
+                "stars": 347
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-19T08:55:32Z",
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 115
+                "stars": 116
               }
             },
             {
@@ -601,7 +601,7 @@
                 "last_commit": "2025-08-19T17:32:13Z",
                 "owner": "Sta8is",
                 "repo": "FUTURIST",
-                "stars": 47
+                "stars": 48
               }
             },
             {
@@ -1108,7 +1108,7 @@
                 "last_commit": "2026-07-09T10:39:39Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4374
+                "stars": 4375
               }
             },
             {
@@ -1138,7 +1138,7 @@
                 "last_commit": "2026-07-09T16:02:38Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1777
+                "stars": 1776
               }
             },
             {
@@ -1415,7 +1415,7 @@
                 "last_commit": "2026-03-30T06:32:00Z",
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2305
+                "stars": 2306
               }
             },
             {
@@ -1550,7 +1550,7 @@
                 "last_commit": "2025-10-08T19:39:50Z",
                 "owner": "WEIRDLabUW",
                 "repo": "unified-world-model",
-                "stars": 251
+                "stars": 250
               }
             },
             {
@@ -1887,7 +1887,7 @@
                 "last_commit": "2024-10-19T03:27:38Z",
                 "owner": "LargeWorldModel",
                 "repo": "LWM",
-                "stars": 7426
+                "stars": 7425
               }
             },
             {
@@ -2521,7 +2521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:11:08.948Z",
+    "last_updated": "2026-08-19T16:44:24.647Z",
     "original_repository": "LMD0311/Awesome-World-Model",
     "original_repository_id": 738046322,
     "original_repository_sha": "9a4bfe2021567a75c2d3108000b54a548f409e02",
