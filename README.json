@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 1005844732,
                 "language": "HTML",
-                "last_commit": "2026-07-29T05:32:21Z",
+                "last_commit": "2026-08-21T06:18:22Z",
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 966
+                "stars": 967
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-10-30T13:12:14Z",
                 "owner": "GigaAI-research",
                 "repo": "General-World-Models-Survey",
-                "stars": 527
+                "stars": 525
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-06-23T15:06:18Z",
                 "owner": "minnie-lin",
                 "repo": "Awesome-Physics-Cognition-based-Video-Generation",
-                "stars": 326
+                "stars": 327
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2024-03-14T05:49:50Z",
                 "owner": "IrohXu",
                 "repo": "Awesome-Multimodal-LLM-Autonomous-Driving",
-                "stars": 313
+                "stars": 311
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2025-12-23T04:42:52Z",
                 "owner": "BestJunYu",
                 "repo": "Awesome-Physics-aware-Generation",
-                "stars": 299
+                "stars": 298
               }
             },
             {
@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 1193264999,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:03:21Z",
+                "last_commit": "2026-08-21T11:08:45Z",
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
-                "stars": 128
+                "stars": 129
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-03-13T00:55:10Z",
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 355
+                "stars": 357
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-20T03:15:19Z",
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 132
+                "stars": 153
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-06-13T11:26:06Z",
                 "owner": "dtc111111",
                 "repo": "GaussianDWM",
-                "stars": 78
+                "stars": 79
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-05-08T05:08:02Z",
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 819
+                "stars": 821
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2025-06-19T09:49:21Z",
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 416
+                "stars": 418
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2025-08-22T08:04:03Z",
                 "owner": "3DTopia",
                 "repo": "DynamicCity",
-                "stars": 247
+                "stars": 246
               }
             },
             {
@@ -698,7 +698,7 @@
                 "last_commit": "2025-07-02T05:27:25Z",
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 893
+                "stars": 895
               }
             },
             {
@@ -758,7 +758,7 @@
                 "last_commit": "2023-12-15T03:44:01Z",
                 "owner": "shalfun",
                 "repo": "DrivingDiffusion",
-                "stars": 564
+                "stars": 565
               }
             },
             {
@@ -788,7 +788,7 @@
                 "last_commit": "2025-06-19T09:49:21Z",
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 416
+                "stars": 418
               }
             },
             {
@@ -803,7 +803,7 @@
                 "last_commit": "2025-06-29T03:48:48Z",
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 385
+                "stars": 386
               }
             },
             {
@@ -1108,7 +1108,7 @@
                 "last_commit": "2026-07-09T10:39:39Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4376
+                "stars": 4379
               }
             },
             {
@@ -1123,7 +1123,7 @@
                 "last_commit": "2026-07-28T02:36:52Z",
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2065
+                "stars": 2067
               }
             },
             {
@@ -1138,7 +1138,7 @@
                 "last_commit": "2026-07-09T16:02:38Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1784
+                "stars": 1790
               }
             },
             {
@@ -1153,7 +1153,7 @@
                 "last_commit": "2026-05-28T21:36:00Z",
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 429
+                "stars": 432
               }
             },
             {
@@ -1198,7 +1198,7 @@
                 "last_commit": "2026-05-31T11:46:56Z",
                 "owner": "NM512",
                 "repo": "r2dreamer",
-                "stars": 165
+                "stars": 166
               }
             },
             {
@@ -1258,7 +1258,7 @@
                 "last_commit": "2026-08-14T03:36:32Z",
                 "owner": "AMAP-ML",
                 "repo": "DreamX-Phi",
-                "stars": 58
+                "stars": 59
               }
             },
             {
@@ -1303,7 +1303,7 @@
                 "last_commit": "2026-06-30T09:33:39Z",
                 "owner": "20robo",
                 "repo": "raenwm",
-                "stars": 36
+                "stars": 37
               }
             },
             {
@@ -1315,7 +1315,7 @@
                 "archived": false,
                 "id": 965147585,
                 "language": "Python",
-                "last_commit": "2026-08-19T19:26:02Z",
+                "last_commit": "2026-08-21T07:08:44Z",
                 "owner": "legel",
                 "repo": "deepearth",
                 "stars": 34
@@ -1352,10 +1352,10 @@
                 "archived": false,
                 "id": 910176789,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-20T07:14:40Z",
+                "last_commit": "2026-08-21T08:13:37Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11569
+                "stars": 11580
               }
             },
             {
@@ -1385,7 +1385,7 @@
                 "last_commit": "2026-04-15T17:27:25Z",
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2913
+                "stars": 2915
               }
             },
             {
@@ -1400,7 +1400,7 @@
                 "last_commit": "2026-08-07T02:35:21Z",
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2557
+                "stars": 2558
               }
             },
             {
@@ -1415,7 +1415,7 @@
                 "last_commit": "2026-03-30T06:32:00Z",
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2307
+                "stars": 2308
               }
             },
             {
@@ -1460,7 +1460,7 @@
                 "last_commit": "2026-06-07T17:21:25Z",
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 816
+                "stars": 818
               }
             },
             {
@@ -1505,7 +1505,7 @@
                 "last_commit": "2026-06-09T17:27:42Z",
                 "owner": "EternalEvan",
                 "repo": "Astra",
-                "stars": 333
+                "stars": 334
               }
             },
             {
@@ -1610,7 +1610,7 @@
                 "last_commit": "2025-12-26T07:59:43Z",
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
-                "stars": 89
+                "stars": 90
               }
             },
             {
@@ -1640,7 +1640,7 @@
                 "last_commit": "2026-07-25T17:48:55Z",
                 "owner": "gboduljak",
                 "repo": "vfmf",
-                "stars": 55
+                "stars": 56
               }
             },
             {
@@ -1685,7 +1685,7 @@
                 "last_commit": "2025-09-20T01:26:54Z",
                 "owner": "ulab-uiuc",
                 "repo": "GWM",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -1947,7 +1947,7 @@
                 "last_commit": "2026-07-13T22:26:51Z",
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 927
+                "stars": 929
               }
             },
             {
@@ -2493,7 +2493,7 @@
                 "last_commit": "2021-09-10T20:49:29Z",
                 "owner": "danijar",
                 "repo": "dreamer",
-                "stars": 620
+                "stars": 621
               }
             },
             {
@@ -2521,7 +2521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:48:47.481Z",
+    "last_updated": "2026-08-21T16:49:15.520Z",
     "original_repository": "LMD0311/Awesome-World-Model",
     "original_repository_id": 738046322,
     "original_repository_sha": "9a4bfe2021567a75c2d3108000b54a548f409e02",
