@@ -1145,7 +1145,7 @@
                 "last_commit": "2026-08-24T07:26:04Z",
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2072
+                "stars": 2074
               }
             },
             {
@@ -1337,7 +1337,7 @@
                 "archived": false,
                 "id": 965147585,
                 "language": "Python",
-                "last_commit": "2026-08-22T16:46:55Z",
+                "last_commit": "2026-08-24T15:10:33Z",
                 "owner": "legel",
                 "repo": "deepearth",
                 "stars": 34
@@ -1377,7 +1377,7 @@
                 "last_commit": "2026-08-22T03:51:25Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11604
+                "stars": 11605
               }
             },
             {
@@ -1467,7 +1467,7 @@
                 "last_commit": "2026-03-18T13:35:32Z",
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1106
+                "stars": 1107
               }
             },
             {
@@ -1632,7 +1632,7 @@
                 "last_commit": "2025-12-26T07:59:43Z",
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
-                "stars": 90
+                "stars": 91
               }
             },
             {
@@ -2565,7 +2565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:45.592Z",
+    "last_updated": "2026-08-24T16:53:08.420Z",
     "original_repository": "LMD0311/Awesome-World-Model",
     "original_repository_id": 738046322,
     "original_repository_sha": "9a4bfe2021567a75c2d3108000b54a548f409e02",
