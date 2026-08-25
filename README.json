@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T06:18:22Z",
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 967
+                "stars": 968
               }
             },
             {
@@ -336,21 +336,6 @@
             },
             {
               "node_type": "item",
-              "title": "HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 921468271,
-                "language": "Python",
-                "last_commit": "2026-05-12T03:05:38Z",
-                "owner": "LMD0311",
-                "repo": "HERMES",
-                "stars": 260
-              }
-            },
-            {
-              "node_type": "item",
               "title": "[WoTE] End-to-End Driving with Online Trajectory Evaluation via BEV World Model. [Paper",
               "description": "] [Code]",
               "children": [],
@@ -361,6 +346,21 @@
                 "last_commit": "2025-06-29T03:43:19Z",
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
+                "stars": 261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 921468271,
+                "language": "Python",
+                "last_commit": "2026-05-12T03:05:38Z",
+                "owner": "LMD0311",
+                "repo": "HERMES",
                 "stars": 260
               }
             },
@@ -1130,7 +1130,7 @@
                 "last_commit": "2026-07-09T10:39:39Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4386
+                "stars": 4388
               }
             },
             {
@@ -1160,7 +1160,7 @@
                 "last_commit": "2026-07-09T16:02:38Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1799
+                "stars": 1801
               }
             },
             {
@@ -1175,7 +1175,7 @@
                 "last_commit": "2026-05-28T21:36:00Z",
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 433
+                "stars": 434
               }
             },
             {
@@ -1220,7 +1220,7 @@
                 "last_commit": "2026-05-31T11:46:56Z",
                 "owner": "NM512",
                 "repo": "r2dreamer",
-                "stars": 168
+                "stars": 169
               }
             },
             {
@@ -1374,10 +1374,10 @@
                 "archived": false,
                 "id": 910176789,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-22T03:51:25Z",
+                "last_commit": "2026-08-25T03:29:39Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11605
+                "stars": 11613
               }
             },
             {
@@ -1407,7 +1407,7 @@
                 "last_commit": "2026-04-15T17:27:25Z",
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2916
+                "stars": 2917
               }
             },
             {
@@ -1422,7 +1422,7 @@
                 "last_commit": "2026-08-07T02:35:21Z",
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2561
+                "stars": 2562
               }
             },
             {
@@ -1482,7 +1482,7 @@
                 "last_commit": "2026-06-07T17:21:25Z",
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 818
+                "stars": 819
               }
             },
             {
@@ -1924,7 +1924,7 @@
                 "last_commit": "2025-02-27T23:15:27Z",
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4100
+                "stars": 4102
               }
             },
             {
@@ -1969,7 +1969,7 @@
                 "last_commit": "2026-07-13T22:26:51Z",
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 931
+                "stars": 932
               }
             },
             {
@@ -2351,7 +2351,7 @@
                 "last_commit": "2024-10-14T15:36:18Z",
                 "owner": "eloialonso",
                 "repo": "iris",
-                "stars": 901
+                "stars": 900
               }
             },
             {
@@ -2565,7 +2565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:53:08.420Z",
+    "last_updated": "2026-08-25T05:59:41.852Z",
     "original_repository": "LMD0311/Awesome-World-Model",
     "original_repository_id": 738046322,
     "original_repository_sha": "9a4bfe2021567a75c2d3108000b54a548f409e02",
