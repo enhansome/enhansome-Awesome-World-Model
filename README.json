@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 1193264999,
                 "language": "Python",
-                "last_commit": "2026-08-26T11:03:44Z",
+                "last_commit": "2026-08-27T11:02:05Z",
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
-                "stars": 130
+                "stars": 131
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-03-13T00:55:10Z",
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 358
+                "stars": 360
               }
             },
             {
@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 1321921283,
                 "language": "Python",
-                "last_commit": "2026-08-20T03:15:19Z",
+                "last_commit": "2026-08-27T02:15:37Z",
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
                 "stars": 158
@@ -249,7 +249,7 @@
                 "last_commit": "2026-02-05T12:48:48Z",
                 "owner": "mengtan00",
                 "repo": "ResWorld",
-                "stars": 59
+                "stars": 60
               }
             },
             {
@@ -728,7 +728,7 @@
                 "last_commit": "2024-11-29T09:45:52Z",
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 593
+                "stars": 594
               }
             },
             {
@@ -878,7 +878,7 @@
                 "last_commit": "2024-05-31T01:57:02Z",
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -1130,7 +1130,7 @@
                 "last_commit": "2026-07-09T10:39:39Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4392
+                "stars": 4394
               }
             },
             {
@@ -1145,7 +1145,7 @@
                 "last_commit": "2026-08-24T07:26:04Z",
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2076
+                "stars": 2077
               }
             },
             {
@@ -1160,7 +1160,7 @@
                 "last_commit": "2026-07-09T16:02:38Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1806
+                "stars": 1809
               }
             },
             {
@@ -1220,7 +1220,7 @@
                 "last_commit": "2026-05-31T11:46:56Z",
                 "owner": "NM512",
                 "repo": "r2dreamer",
-                "stars": 169
+                "stars": 170
               }
             },
             {
@@ -1235,7 +1235,7 @@
                 "last_commit": "2026-03-01T10:00:12Z",
                 "owner": "zhaozijie2022",
                 "repo": "seqwm",
-                "stars": 110
+                "stars": 111
               }
             },
             {
@@ -1280,7 +1280,7 @@
                 "last_commit": "2026-08-14T03:36:32Z",
                 "owner": "AMAP-ML",
                 "repo": "DreamX-Phi",
-                "stars": 61
+                "stars": 62
               }
             },
             {
@@ -1337,7 +1337,7 @@
                 "archived": false,
                 "id": 965147585,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:10:33Z",
+                "last_commit": "2026-08-27T02:30:26Z",
                 "owner": "legel",
                 "repo": "deepearth",
                 "stars": 34
@@ -1377,7 +1377,7 @@
                 "last_commit": "2026-08-25T12:46:29Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11641
+                "stars": 11653
               }
             },
             {
@@ -1392,7 +1392,7 @@
                 "last_commit": "2026-05-25T06:40:27Z",
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3704
+                "stars": 3706
               }
             },
             {
@@ -1422,7 +1422,7 @@
                 "last_commit": "2026-08-07T02:35:21Z",
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2563
+                "stars": 2565
               }
             },
             {
@@ -1437,7 +1437,7 @@
                 "last_commit": "2026-03-30T06:32:00Z",
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2314
+                "stars": 2316
               }
             },
             {
@@ -1452,7 +1452,7 @@
                 "last_commit": "2025-12-02T10:34:06Z",
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1119
+                "stars": 1120
               }
             },
             {
@@ -1572,7 +1572,7 @@
                 "last_commit": "2025-10-08T19:39:50Z",
                 "owner": "WEIRDLabUW",
                 "repo": "unified-world-model",
-                "stars": 251
+                "stars": 252
               }
             },
             {
@@ -1662,7 +1662,7 @@
                 "last_commit": "2026-07-25T17:48:55Z",
                 "owner": "gboduljak",
                 "repo": "vfmf",
-                "stars": 56
+                "stars": 57
               }
             },
             {
@@ -1682,21 +1682,6 @@
             },
             {
               "node_type": "item",
-              "title": "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1005978706,
-                "language": "Python",
-                "last_commit": "2025-06-26T02:41:59Z",
-                "owner": "April-Yz",
-                "repo": "ManiGaussian_Bimanual",
-                "stars": 46
-              }
-            },
-            {
-              "node_type": "item",
               "title": "[GWM] Graph World Model. [Paper",
               "description": "] [Code]",
               "children": [],
@@ -1707,6 +1692,21 @@
                 "last_commit": "2025-09-20T01:26:54Z",
                 "owner": "ulab-uiuc",
                 "repo": "GWM",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005978706,
+                "language": "Python",
+                "last_commit": "2025-06-26T02:41:59Z",
+                "owner": "April-Yz",
+                "repo": "ManiGaussian_Bimanual",
                 "stars": 46
               }
             },
@@ -1924,7 +1924,7 @@
                 "last_commit": "2025-02-27T23:15:27Z",
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4105
+                "stars": 4106
               }
             },
             {
@@ -1939,7 +1939,7 @@
                 "last_commit": "2024-12-06T16:45:28Z",
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2096
+                "stars": 2097
               }
             },
             {
@@ -2448,7 +2448,7 @@
                 "last_commit": "2022-12-19T15:17:52Z",
                 "owner": "danijar",
                 "repo": "daydreamer",
-                "stars": 456
+                "stars": 457
               }
             },
             {
@@ -2565,9 +2565,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:57:17.175Z",
-    "original_repository": "LMD0311/Awesome-World-Model",
-    "original_repository_id": 738046322,
+    "last_updated": "2026-08-27T11:29:08.164Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 738046322,
+      "language": null,
+      "last_commit": "2026-08-17T08:52:48Z",
+      "owner": "LMD0311",
+      "repo": "Awesome-World-Model",
+      "stars": 2226
+    },
     "original_repository_sha": "9a4bfe2021567a75c2d3108000b54a548f409e02",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
