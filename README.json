@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-27T02:15:37Z",
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 158
+                "stars": 160
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-06-13T11:26:06Z",
                 "owner": "dtc111111",
                 "repo": "GaussianDWM",
-                "stars": 80
+                "stars": 81
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-05-08T05:08:02Z",
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 821
+                "stars": 822
               }
             },
             {
@@ -1130,7 +1130,7 @@
                 "last_commit": "2026-07-09T10:39:39Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4394
+                "stars": 4395
               }
             },
             {
@@ -1145,7 +1145,7 @@
                 "last_commit": "2026-08-24T07:26:04Z",
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2077
+                "stars": 2081
               }
             },
             {
@@ -1160,7 +1160,7 @@
                 "last_commit": "2026-07-09T16:02:38Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1809
+                "stars": 1812
               }
             },
             {
@@ -1377,7 +1377,7 @@
                 "last_commit": "2026-08-25T12:46:29Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11653
+                "stars": 11656
               }
             },
             {
@@ -1392,7 +1392,7 @@
                 "last_commit": "2026-05-25T06:40:27Z",
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3706
+                "stars": 3707
               }
             },
             {
@@ -1407,7 +1407,7 @@
                 "last_commit": "2026-04-15T17:27:25Z",
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2919
+                "stars": 2920
               }
             },
             {
@@ -1924,7 +1924,7 @@
                 "last_commit": "2025-02-27T23:15:27Z",
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4106
+                "stars": 4107
               }
             },
             {
@@ -1939,7 +1939,7 @@
                 "last_commit": "2024-12-06T16:45:28Z",
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2097
+                "stars": 2099
               }
             },
             {
@@ -1969,7 +1969,7 @@
                 "last_commit": "2026-07-13T22:26:51Z",
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 936
+                "stars": 937
               }
             },
             {
@@ -2515,7 +2515,7 @@
                 "last_commit": "2023-01-21T07:43:42Z",
                 "owner": "danijar",
                 "repo": "dreamerv2",
-                "stars": 1056
+                "stars": 1057
               }
             }
           ],
@@ -2537,7 +2537,7 @@
                 "last_commit": "2021-09-10T20:49:29Z",
                 "owner": "danijar",
                 "repo": "dreamer",
-                "stars": 621
+                "stars": 622
               }
             },
             {
@@ -2565,7 +2565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:08.164Z",
+    "last_updated": "2026-08-28T00:51:15.660Z",
     "original_repository_info": {
       "archived": false,
       "id": 738046322,
