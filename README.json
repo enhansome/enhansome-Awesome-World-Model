@@ -212,11 +212,11 @@
                 "id": 1193264999,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T11:01:37Z",
+                "last_commit": "2026-09-05T11:00:49Z",
                 "open_issues": 4,
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-robustness",
@@ -311,7 +311,7 @@
                 "open_issues": 1,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -465,7 +465,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 830,
+                "stars": 831,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -586,7 +586,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "autonomous-driving",
                   "worldmodel"
@@ -816,7 +816,7 @@
                 "open_issues": 3,
                 "owner": "MSunDYY",
                 "repo": "SparseWorld",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1284,7 +1284,7 @@
                 "open_issues": 3,
                 "owner": "ucd-dare",
                 "repo": "CarDreamer",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "autonomous-driving",
                   "foundation-models",
@@ -1340,7 +1340,7 @@
                 "open_issues": 12,
                 "owner": "haomo-ai",
                 "repo": "Cam4DOcc",
-                "stars": 289,
+                "stars": 290,
                 "topics": [
                   "3d-occupancy",
                   "3d-occupancy-prediction",
@@ -1368,7 +1368,7 @@
                 "open_issues": 5,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 247,
+                "stars": 246,
                 "topics": [
                   "autonomous-driving",
                   "driving-world-model",
@@ -1765,7 +1765,7 @@
                 "open_issues": 42,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4415,
+                "stars": 4416,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1792,7 +1792,7 @@
                 "open_issues": 42,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2134,
+                "stars": 2135,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -1834,7 +1834,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1852,
+                "stars": 1854,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1973,7 +1973,7 @@
                 "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "WMReward",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1994,7 +1994,7 @@
                 "open_issues": 1,
                 "owner": "CSU-JPG",
                 "repo": "MIND",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "3d",
                   "aigc",
@@ -2022,7 +2022,7 @@
                 "open_issues": 1,
                 "owner": "AMAP-ML",
                 "repo": "DreamX-Phi",
-                "stars": 65,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2107,7 +2107,7 @@
                 "id": 965147585,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T20:31:11Z",
+                "last_commit": "2026-09-04T20:53:36Z",
                 "open_issues": 4,
                 "owner": "legel",
                 "repo": "deepearth",
@@ -2132,7 +2132,7 @@
                 "open_issues": 0,
                 "owner": "AMAP-ML",
                 "repo": "StateAgent",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-09-04T18:58:36.100Z"
@@ -2153,7 +2153,7 @@
                 "open_issues": 0,
                 "owner": "AtongWang",
                 "repo": "world-model-simulators",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "ai",
                   "awesome-list",
@@ -2274,11 +2274,11 @@
                 "id": 910176789,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T18:57:38Z",
+                "last_commit": "2026-09-04T21:00:57Z",
                 "open_issues": 48,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11734,
+                "stars": 11738,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2299,7 +2299,7 @@
                 "open_issues": 52,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3734,
+                "stars": 3737,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2327,7 +2327,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2928,
+                "stars": 2929,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2354,11 +2354,11 @@
                 "id": 1062167576,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-07T02:35:21Z",
+                "last_commit": "2026-09-05T12:04:46Z",
                 "open_issues": 18,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2600,
+                "stars": 2601,
                 "topics": [
                   "infra",
                   "long",
@@ -2416,7 +2416,7 @@
                 "open_issues": 8,
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1126,
+                "stars": 1127,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2437,7 +2437,7 @@
                 "open_issues": 18,
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1117,
+                "stars": 1118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2513,6 +2513,30 @@
             },
             {
               "node_type": "item",
+              "title": "Astra: General Interactive World Model with Autoregressive Denoising. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2026] Astra : General Interactive World Model with Autoregressive Denoising\"",
+                "homepage": null,
+                "id": 1078008969,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-09T17:27:42Z",
+                "open_issues": 8,
+                "owner": "EternalEvan",
+                "repo": "Astra",
+                "stars": 336,
+                "topics": [
+                  "video-generation",
+                  "world-model"
+                ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
               "title": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures. [Paper",
               "description": "] [Code]",
               "children": [],
@@ -2529,30 +2553,6 @@
                 "repo": "llm-jepa",
                 "stars": 335,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Astra: General Interactive World Model with Autoregressive Denoising. [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR 2026] Astra : General Interactive World Model with Autoregressive Denoising\"",
-                "homepage": null,
-                "id": 1078008969,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-09T17:27:42Z",
-                "open_issues": 8,
-                "owner": "EternalEvan",
-                "repo": "Astra",
-                "stars": 334,
-                "topics": [
-                  "video-generation",
-                  "world-model"
-                ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
             },
@@ -3115,7 +3115,7 @@
                 "open_issues": 64,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4117,
+                "stars": 4118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3238,8 +3238,8 @@
                 "id": 503315788,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T03:12:33Z",
-                "open_issues": 45,
+                "last_commit": "2026-09-04T23:26:10Z",
+                "open_issues": 48,
                 "owner": "microsoft",
                 "repo": "causica",
                 "stars": 534,
@@ -3534,7 +3534,7 @@
                 "open_issues": 5,
                 "owner": "tsinghua-fib-lab",
                 "repo": "CityBench",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4132,7 +4132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:58:36.100Z",
+    "last_updated": "2026-09-05T18:13:55.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4144,7 +4144,7 @@
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2234,
+      "stars": 2235,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
