@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2165,
+                "stars": 2166,
                 "topics": [
                   "agent",
                   "causality",
@@ -129,7 +129,7 @@
                 "open_issues": 0,
                 "owner": "minnie-lin",
                 "repo": "Awesome-Physics-Cognition-based-Video-Generation",
-                "stars": 329,
+                "stars": 328,
                 "topics": [
                   "3d",
                   "4d",
@@ -212,7 +212,7 @@
                 "id": 1193264999,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T11:04:12Z",
+                "last_commit": "2026-09-10T09:23:19Z",
                 "open_issues": 4,
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
@@ -308,7 +308,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T02:15:37Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
                 "stars": 177,
@@ -465,7 +465,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 831,
+                "stars": 833,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -1069,7 +1069,7 @@
                 "open_issues": 8,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1167,
+                "stars": 1168,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -1097,7 +1097,7 @@
                 "open_issues": 23,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 896,
+                "stars": 897,
                 "topics": [
                   "autonomous-driving",
                   "video-generation",
@@ -1284,7 +1284,7 @@
                 "open_issues": 3,
                 "owner": "ucd-dare",
                 "repo": "CarDreamer",
-                "stars": 369,
+                "stars": 370,
                 "topics": [
                   "autonomous-driving",
                   "foundation-models",
@@ -1762,10 +1762,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-09T10:39:39Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4423,
+                "stars": 4434,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1792,7 +1792,7 @@
                 "open_issues": 42,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2142,
+                "stars": 2144,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -1831,10 +1831,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-09T16:02:38Z",
-                "open_issues": 76,
+                "open_issues": 74,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1870,
+                "stars": 1875,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2090,7 +2090,7 @@
                 "open_issues": 2,
                 "owner": "20robo",
                 "repo": "raenwm",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2295,11 +2295,11 @@
                 "id": 910176789,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T15:27:38Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-10T03:48:05Z",
+                "open_issues": 49,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11782,
+                "stars": 11793,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2317,10 +2317,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-25T06:40:27Z",
-                "open_issues": 52,
+                "open_issues": 51,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3758,
+                "stars": 3764,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2376,10 +2376,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T04:05:21Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2610,
+                "stars": 2615,
                 "topics": [
                   "infra",
                   "long",
@@ -2404,7 +2404,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-30T06:32:00Z",
-                "open_issues": 36,
+                "open_issues": 35,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
                 "stars": 2328,
@@ -2418,6 +2418,27 @@
                   "video-generation",
                   "world-model"
                 ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UnifoLM-WMA-0: A World-Model-Action (WMA) Framework under UnifoLM Family. [Code",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1055591911,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-03-18T13:35:32Z",
+                "open_issues": 18,
+                "owner": "unitreerobotics",
+                "repo": "unifolm-world-model-action",
+                "stars": 1135,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
             },
@@ -2444,27 +2465,6 @@
             },
             {
               "node_type": "item",
-              "title": "UnifoLM-WMA-0: A World-Model-Action (WMA) Framework under UnifoLM Family. [Code",
-              "description": "]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1055591911,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-03-18T13:35:32Z",
-                "open_issues": 18,
-                "owner": "unitreerobotics",
-                "repo": "unifolm-world-model-action",
-                "stars": 1127,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
               "title": "Cosmos-Transfer1 [Paper",
               "description": "] [Code]",
               "children": [],
@@ -2479,7 +2479,7 @@
                 "open_issues": 23,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 822,
+                "stars": 823,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2614,7 +2614,7 @@
                 "open_issues": 0,
                 "owner": "WEIRDLabUW",
                 "repo": "unified-world-model",
-                "stars": 255,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2794,7 +2794,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-20T01:26:54Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "ulab-uiuc",
                 "repo": "GWM",
                 "stars": 47,
@@ -3010,27 +3010,6 @@
             },
             {
               "node_type": "item",
-              "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CVPR 2025",
-                "homepage": null,
-                "id": 948511388,
-                "language": null,
-                "license": null,
-                "last_commit": "2025-03-30T00:42:48Z",
-                "open_issues": 4,
-                "owner": "Pter61",
-                "repo": "predicir",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
               "title": "M^3 : A Modular World Model over Streams of Tokens. [Paper",
               "description": "] [Code]",
               "children": [],
@@ -3045,6 +3024,27 @@
                 "open_issues": 0,
                 "owner": "leor-c",
                 "repo": "Simulus",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CVPR 2025",
+                "homepage": null,
+                "id": 948511388,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-03-30T00:42:48Z",
+                "open_issues": 4,
+                "owner": "Pter61",
+                "repo": "predicir",
                 "stars": 13,
                 "topics": []
               },
@@ -3136,7 +3136,7 @@
                 "open_issues": 64,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4130,
+                "stars": 4131,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3214,10 +3214,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-13T22:26:51Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 946,
+                "stars": 951,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -3331,7 +3331,7 @@
                 "open_issues": 3,
                 "owner": "Aria-Zhangjl",
                 "repo": "StoryWeaver",
-                "stars": 226,
+                "stars": 227,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4153,7 +4153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:15:24.764Z",
+    "last_updated": "2026-09-10T19:06:25.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4165,7 +4165,7 @@
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2244,
+      "stars": 2247,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
