@@ -286,7 +286,7 @@
                 "open_issues": 1,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "autonoumous-driving",
                   "vision-language-action-model",
@@ -311,7 +311,7 @@
                 "open_issues": 1,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 177,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -518,7 +518,7 @@
                 "open_issues": 6,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 388,
+                "stars": 389,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -565,7 +565,7 @@
                 "open_issues": 18,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 264,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -816,7 +816,7 @@
                 "open_issues": 3,
                 "owner": "MSunDYY",
                 "repo": "SparseWorld",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1397,7 +1397,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1525,7 +1525,7 @@
                 "open_issues": 1,
                 "owner": "PKU-Alignment",
                 "repo": "SafeDreamer",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "constraint-rl",
                   "constraint-satisfaction-problem",
@@ -1731,7 +1731,7 @@
                 "open_issues": 26,
                 "owner": "wayveai",
                 "repo": "mile",
-                "stars": 435,
+                "stars": 436,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1765,7 +1765,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4442,
+                "stars": 4444,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1834,7 +1834,7 @@
                 "open_issues": 74,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1882,
+                "stars": 1886,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1902,7 +1902,7 @@
                 "open_issues": 1,
                 "owner": "H-EmbodVis",
                 "repo": "HyDRA",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "video-generation",
                   "world-models",
@@ -2299,7 +2299,7 @@
                 "open_issues": 49,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11807,
+                "stars": 11809,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2320,7 +2320,7 @@
                 "open_issues": 51,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3767,
+                "stars": 3768,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2348,7 +2348,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2931,
+                "stars": 2930,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2437,7 +2437,7 @@
                 "open_issues": 18,
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1140,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2548,7 +2548,7 @@
                 "open_issues": 8,
                 "owner": "EternalEvan",
                 "repo": "Astra",
-                "stars": 338,
+                "stars": 339,
                 "topics": [
                   "video-generation",
                   "world-model"
@@ -3136,7 +3136,7 @@
                 "open_issues": 64,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4133,
+                "stars": 4134,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3217,7 +3217,7 @@
                 "open_issues": 5,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 954,
+                "stars": 955,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -4024,7 +4024,7 @@
                 "open_issues": 1,
                 "owner": "panmt",
                 "repo": "Iso-Dream",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4153,7 +4153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:20:15.555Z",
+    "last_updated": "2026-09-13T18:45:40.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4161,11 +4161,11 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-07T03:42:03Z",
+      "last_commit": "2026-09-13T10:09:52Z",
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2252,
+      "stars": 2254,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
@@ -4179,7 +4179,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "53306ea820d376a2c9620adf17204127c80403f7",
+    "original_repository_sha": "0beb63da55df8a1fb6327be09a024c3935ebf6fa",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
