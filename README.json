@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2168,
+                "stars": 2169,
                 "topics": [
                   "agent",
                   "causality",
@@ -53,7 +53,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 983,
+                "stars": 984,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -108,7 +108,7 @@
                 "open_issues": 1,
                 "owner": "Li-Zn-H",
                 "repo": "AwesomeWorldModels",
-                "stars": 359,
+                "stars": 360,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -212,7 +212,7 @@
                 "id": 1193264999,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T12:40:49Z",
+                "last_commit": "2026-09-15T11:05:05Z",
                 "open_issues": 4,
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
@@ -286,7 +286,7 @@
                 "open_issues": 1,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 366,
+                "stars": 367,
                 "topics": [
                   "autonoumous-driving",
                   "vision-language-action-model",
@@ -308,10 +308,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T02:15:37Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 178,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -353,7 +353,7 @@
                 "open_issues": 2,
                 "owner": "dtc111111",
                 "repo": "GaussianDWM",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -416,7 +416,7 @@
                 "open_issues": 5,
                 "owner": "mengtan00",
                 "repo": "ResWorld",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -544,7 +544,7 @@
                 "open_issues": 13,
                 "owner": "PeidongLi",
                 "repo": "SSR",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -586,7 +586,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "autonomous-driving",
                   "worldmodel"
@@ -816,7 +816,7 @@
                 "open_issues": 3,
                 "owner": "MSunDYY",
                 "repo": "SparseWorld",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -882,7 +882,7 @@
                 "open_issues": 1,
                 "owner": "getterupper",
                 "repo": "PreWorld",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "autonomous-driving",
                   "occupancy-prediction"
@@ -1284,7 +1284,7 @@
                 "open_issues": 3,
                 "owner": "ucd-dare",
                 "repo": "CarDreamer",
-                "stars": 370,
+                "stars": 371,
                 "topics": [
                   "autonomous-driving",
                   "foundation-models",
@@ -1765,7 +1765,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4451,
+                "stars": 4457,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1834,7 +1834,7 @@
                 "open_issues": 74,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1888,
+                "stars": 1892,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1927,7 +1927,7 @@
                 "open_issues": 2,
                 "owner": "NM512",
                 "repo": "r2dreamer",
-                "stars": 179,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2204,7 +2204,7 @@
                 "open_issues": 0,
                 "owner": "Alexyskoutnev",
                 "repo": "TWIN-ARC-AGI-3",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "arc-agi",
                   "arc-agi-3",
@@ -2212,6 +2212,27 @@
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Towards a Belief-Based World Model for LLM Agents. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1352851965,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-12T04:43:54Z",
+                "open_issues": 0,
+                "owner": "skumar-ml",
+                "repo": "belief-world-models",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-04T18:58:36.100Z"
             },
             {
               "node_type": "item",
@@ -2233,27 +2254,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-30T19:17:56.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Towards a Belief-Based World Model for LLM Agents. [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1352851965,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-12T04:43:54Z",
-                "open_issues": 0,
-                "owner": "skumar-ml",
-                "repo": "belief-world-models",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-09-04T18:58:36.100Z"
             },
             {
               "node_type": "item",
@@ -2296,10 +2296,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-14T19:01:50Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11818,
+                "stars": 11822,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2320,7 +2320,7 @@
                 "open_issues": 51,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3774,
+                "stars": 3781,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2348,7 +2348,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2929,
+                "stars": 2930,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2379,7 +2379,7 @@
                 "open_issues": 19,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2619,
+                "stars": 2622,
                 "topics": [
                   "infra",
                   "long",
@@ -2407,7 +2407,7 @@
                 "open_issues": 35,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2331,
+                "stars": 2333,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -2437,7 +2437,7 @@
                 "open_issues": 19,
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1144,
+                "stars": 1148,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2668,7 +2668,7 @@
                 "open_issues": 3,
                 "owner": "B0B8K1ng",
                 "repo": "WMNavigation",
-                "stars": 178,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2783,6 +2783,27 @@
             },
             {
               "node_type": "item",
+              "title": "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[IROS 2025] ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model",
+                "homepage": null,
+                "id": 1005978706,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-06-26T02:41:59Z",
+                "open_issues": 2,
+                "owner": "yangzaijia",
+                "repo": "ManiGaussian_Bimanual",
+                "stars": 47,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
               "title": "[GWM] Graph World Model. [Paper",
               "description": "] [Code]",
               "children": [],
@@ -2798,27 +2819,6 @@
                 "owner": "ulab-uiuc",
                 "repo": "GWM",
                 "stars": 47,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[IROS 2025] ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model",
-                "homepage": null,
-                "id": 1005978706,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-06-26T02:41:59Z",
-                "open_issues": 2,
-                "owner": "yangzaijia",
-                "repo": "ManiGaussian_Bimanual",
-                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3115,7 +3115,7 @@
                 "open_issues": 59,
                 "owner": "LargeWorldModel",
                 "repo": "LWM",
-                "stars": 7429,
+                "stars": 7430,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3157,7 +3157,7 @@
                 "open_issues": 9,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2104,
+                "stars": 2105,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -3812,7 +3812,7 @@
                 "open_issues": 2,
                 "owner": "eloialonso",
                 "repo": "iris",
-                "stars": 900,
+                "stars": 899,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -4153,7 +4153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:17:38.395Z",
+    "last_updated": "2026-09-15T19:40:28.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4165,7 +4165,7 @@
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2257,
+      "stars": 2258,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
