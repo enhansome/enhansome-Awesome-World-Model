@@ -308,10 +308,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T02:15:37Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -374,7 +374,7 @@
                 "open_issues": 0,
                 "owner": "TabGuigui",
                 "repo": "WorldDrive",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -492,7 +492,7 @@
                 "open_issues": 38,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 420,
+                "stars": 421,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -702,7 +702,7 @@
                 "open_issues": 0,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -1097,7 +1097,7 @@
                 "open_issues": 23,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "autonomous-driving",
                   "video-generation",
@@ -1237,7 +1237,7 @@
                 "open_issues": 38,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 420,
+                "stars": 421,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1490,6 +1490,34 @@
             },
             {
               "node_type": "item",
+              "title": "SafeDreamer: Safe Reinforcement Learning with World Models. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ICLR 2024: SafeDreamer: Safe Reinforcement Learning with World Models",
+                "homepage": "https://sites.google.com/view/safedreamer",
+                "id": 744406105,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-04-08T02:08:21Z",
+                "open_issues": 1,
+                "owner": "PKU-Alignment",
+                "repo": "SafeDreamer",
+                "stars": 112,
+                "topics": [
+                  "constraint-rl",
+                  "constraint-satisfaction-problem",
+                  "reinforcement-learning",
+                  "safe-policy-optimization",
+                  "safe-reinforcement-learning",
+                  "safety-critical-systems"
+                ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
               "title": "Doe-1: Closed-Loop Autonomous Driving with Large World Model. [Paper",
               "description": "] [Code]",
               "children": [],
@@ -1506,34 +1534,6 @@
                 "repo": "Doe",
                 "stars": 112,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SafeDreamer: Safe Reinforcement Learning with World Models. [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ICLR 2024: SafeDreamer: Safe Reinforcement Learning with World Models",
-                "homepage": "https://sites.google.com/view/safedreamer",
-                "id": 744406105,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-04-08T02:08:21Z",
-                "open_issues": 1,
-                "owner": "PKU-Alignment",
-                "repo": "SafeDreamer",
-                "stars": 111,
-                "topics": [
-                  "constraint-rl",
-                  "constraint-satisfaction-problem",
-                  "reinforcement-learning",
-                  "safe-policy-optimization",
-                  "safe-reinforcement-learning",
-                  "safety-critical-systems"
-                ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
             },
@@ -1765,7 +1765,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4470,
+                "stars": 4471,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1792,7 +1792,7 @@
                 "open_issues": 43,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2150,
+                "stars": 2151,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -2295,11 +2295,11 @@
                 "id": 910176789,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T09:15:53Z",
-                "open_issues": 54,
+                "last_commit": "2026-09-20T06:08:34Z",
+                "open_issues": 55,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11858,
+                "stars": 11870,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2320,7 +2320,7 @@
                 "open_issues": 51,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3804,
+                "stars": 3810,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2348,7 +2348,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2935,
+                "stars": 2936,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2379,7 +2379,7 @@
                 "open_issues": 19,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2630,
+                "stars": 2633,
                 "topics": [
                   "infra",
                   "long",
@@ -2407,7 +2407,7 @@
                 "open_issues": 35,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2335,
+                "stars": 2336,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -2437,7 +2437,7 @@
                 "open_issues": 19,
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1155,
+                "stars": 1157,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2479,7 +2479,7 @@
                 "open_issues": 23,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 823,
+                "stars": 825,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2668,7 +2668,7 @@
                 "open_issues": 3,
                 "owner": "B0B8K1ng",
                 "repo": "WMNavigation",
-                "stars": 179,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2931,7 +2931,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-06-29T08:02:24Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "tsinghua-fib-lab",
                 "repo": "RoboScape",
                 "stars": 26,
@@ -3157,7 +3157,7 @@
                 "open_issues": 9,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2106,
+                "stars": 2107,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -3217,7 +3217,7 @@
                 "open_issues": 5,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 964,
+                "stars": 967,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -3842,7 +3842,7 @@
                 "open_issues": 1,
                 "owner": "jlin816",
                 "repo": "dynalang",
-                "stars": 420,
+                "stars": 421,
                 "topics": [
                   "agent",
                   "artificial-intelligence",
@@ -3948,7 +3948,7 @@
                 "open_issues": 6,
                 "owner": "nicklashansen",
                 "repo": "tdmpc",
-                "stars": 527,
+                "stars": 528,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3969,7 +3969,7 @@
                 "open_issues": 7,
                 "owner": "danijar",
                 "repo": "daydreamer",
-                "stars": 459,
+                "stars": 458,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -4153,7 +4153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:34:56.108Z",
+    "last_updated": "2026-09-20T18:44:17.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
