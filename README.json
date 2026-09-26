@@ -18,7 +18,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-10T02:53:35Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
                 "stars": 2173,
@@ -53,7 +53,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 989,
+                "stars": 990,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -212,7 +212,7 @@
                 "id": 1193264999,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T11:02:17Z",
+                "last_commit": "2026-09-26T11:02:20Z",
                 "open_issues": 4,
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
@@ -311,7 +311,7 @@
                 "open_issues": 3,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 186,
+                "stars": 187,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -365,7 +365,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[NeurIPS2026] Implementation of Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation",
+                "description": "[NeurIPS 2026] Implementation of Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation",
                 "homepage": null,
                 "id": 1181536271,
                 "language": "Python",
@@ -1765,7 +1765,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4486,
+                "stars": 4488,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1792,7 +1792,7 @@
                 "open_issues": 43,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2163,
+                "stars": 2166,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -1834,7 +1834,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1917,
+                "stars": 1918,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1927,7 +1927,7 @@
                 "open_issues": 3,
                 "owner": "NM512",
                 "repo": "r2dreamer",
-                "stars": 183,
+                "stars": 184,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2107,7 +2107,7 @@
                 "id": 965147585,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-25T17:55:31Z",
+                "last_commit": "2026-09-26T09:26:42Z",
                 "open_issues": 4,
                 "owner": "legel",
                 "repo": "deepearth",
@@ -2296,10 +2296,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T17:14:38Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11910,
+                "stars": 11913,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2320,7 +2320,7 @@
                 "open_issues": 52,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3822,
+                "stars": 3825,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2348,7 +2348,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2936,
+                "stars": 2935,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2407,7 +2407,7 @@
                 "open_issues": 35,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2340,
+                "stars": 2341,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -2881,7 +2881,7 @@
                 "open_issues": 0,
                 "owner": "zhaozijie2022",
                 "repo": "m3w-marl",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3136,7 +3136,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4154,
+                "stars": 4155,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4073,7 +4073,7 @@
                 "open_issues": 11,
                 "owner": "danijar",
                 "repo": "dreamerv2",
-                "stars": 1059,
+                "stars": 1060,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -4153,7 +4153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:59:48.896Z",
+    "last_updated": "2026-09-26T19:11:55.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
