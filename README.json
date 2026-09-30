@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2175,
+                "stars": 2177,
                 "topics": [
                   "agent",
                   "causality",
@@ -53,7 +53,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 992,
+                "stars": 993,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -193,7 +193,7 @@
                 "open_issues": 5,
                 "owner": "BestJunYu",
                 "repo": "Awesome-Physics-aware-Generation",
-                "stars": 301,
+                "stars": 302,
                 "topics": [
                   "generative-physical-ai-in-vision"
                 ]
@@ -212,11 +212,11 @@
                 "id": 1193264999,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T11:04:25Z",
+                "last_commit": "2026-09-30T11:04:30Z",
                 "open_issues": 4,
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
-                "stars": 149,
+                "stars": 148,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-robustness",
@@ -311,7 +311,7 @@
                 "open_issues": 3,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 191,
+                "stars": 192,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -339,27 +339,6 @@
             },
             {
               "node_type": "item",
-              "title": "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation. [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2026] GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation",
-                "homepage": null,
-                "id": 1122629189,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-06-13T11:26:06Z",
-                "open_issues": 2,
-                "owner": "dtc111111",
-                "repo": "GaussianDWM",
-                "stars": 82,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
               "title": "[WorldDrive] Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation. [Paper",
               "description": "] [Code]",
               "children": [],
@@ -374,6 +353,27 @@
                 "open_issues": 0,
                 "owner": "TabGuigui",
                 "repo": "WorldDrive",
+                "stars": 84,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026] GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation",
+                "homepage": null,
+                "id": 1122629189,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-06-13T11:26:06Z",
+                "open_issues": 2,
+                "owner": "dtc111111",
+                "repo": "GaussianDWM",
                 "stars": 82,
                 "topics": []
               },
@@ -906,7 +906,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 55,
+                "stars": 57,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -1119,7 +1119,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-02-27T12:40:42Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
                 "stars": 807,
@@ -1765,7 +1765,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4494,
+                "stars": 4499,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1792,7 +1792,7 @@
                 "open_issues": 43,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2172,
+                "stars": 2176,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -1834,7 +1834,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1918,
+                "stars": 1920,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2107,7 +2107,7 @@
                 "id": 965147585,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-27T01:21:21Z",
+                "last_commit": "2026-09-30T19:10:28Z",
                 "open_issues": 4,
                 "owner": "legel",
                 "repo": "deepearth",
@@ -2225,7 +2225,7 @@
                 "id": 1352851965,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-12T04:43:54Z",
+                "last_commit": "2026-09-30T17:41:06Z",
                 "open_issues": 0,
                 "owner": "skumar-ml",
                 "repo": "belief-world-models",
@@ -2296,10 +2296,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-29T16:56:51Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11943,
+                "stars": 11956,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2320,7 +2320,7 @@
                 "open_issues": 55,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3836,
+                "stars": 3838,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2348,7 +2348,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2936,
+                "stars": 2937,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2375,11 +2375,11 @@
                 "id": 1062167576,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T17:43:26Z",
+                "last_commit": "2026-09-30T03:16:25Z",
                 "open_issues": 20,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2644,
+                "stars": 2650,
                 "topics": [
                   "infra",
                   "long",
@@ -3010,6 +3010,27 @@
             },
             {
               "node_type": "item",
+              "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CVPR 2025",
+                "homepage": null,
+                "id": 948511388,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-03-30T00:42:48Z",
+                "open_issues": 4,
+                "owner": "Pter61",
+                "repo": "predicir",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
               "title": "M^3 : A Modular World Model over Streams of Tokens. [Paper",
               "description": "] [Code]",
               "children": [],
@@ -3025,27 +3046,6 @@
                 "owner": "leor-c",
                 "repo": "Simulus",
                 "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CVPR 2025",
-                "homepage": null,
-                "id": 948511388,
-                "language": null,
-                "license": null,
-                "last_commit": "2025-03-30T00:42:48Z",
-                "open_issues": 4,
-                "owner": "Pter61",
-                "repo": "predicir",
-                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3136,7 +3136,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4158,
+                "stars": 4163,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3217,7 +3217,7 @@
                 "open_issues": 7,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 974,
+                "stars": 975,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -3259,8 +3259,8 @@
                 "id": 503315788,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T13:49:34Z",
-                "open_issues": 63,
+                "last_commit": "2026-09-30T08:34:40Z",
+                "open_issues": 66,
                 "owner": "microsoft",
                 "repo": "causica",
                 "stars": 538,
@@ -3812,7 +3812,7 @@
                 "open_issues": 2,
                 "owner": "eloialonso",
                 "repo": "iris",
-                "stars": 902,
+                "stars": 903,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -4153,7 +4153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:43:33.357Z",
+    "last_updated": "2026-09-30T20:47:03.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4161,7 +4161,7 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-13T10:09:52Z",
+      "last_commit": "2026-09-30T08:13:57Z",
       "open_issues": 1,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
@@ -4179,7 +4179,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "0beb63da55df8a1fb6327be09a024c3935ebf6fa",
+    "original_repository_sha": "1d0d531177ac90452dafcdaebecd8e07119afa4d",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
