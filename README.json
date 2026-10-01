@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2177,
+                "stars": 2178,
                 "topics": [
                   "agent",
                   "causality",
@@ -416,7 +416,7 @@
                 "open_issues": 6,
                 "owner": "mengtan00",
                 "repo": "ResWorld",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1097,7 +1097,7 @@
                 "open_issues": 23,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 901,
+                "stars": 902,
                 "topics": [
                   "autonomous-driving",
                   "video-generation",
@@ -1792,7 +1792,7 @@
                 "open_issues": 43,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2176,
+                "stars": 2180,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -1834,7 +1834,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1920,
+                "stars": 1921,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1855,7 +1855,7 @@
                 "open_issues": 6,
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 461,
+                "stars": 462,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1927,7 +1927,7 @@
                 "open_issues": 3,
                 "owner": "NM512",
                 "repo": "r2dreamer",
-                "stars": 184,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1948,7 +1948,7 @@
                 "open_issues": 2,
                 "owner": "zhaozijie2022",
                 "repo": "seqwm",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "multi-robot",
                   "reinforcement-learning",
@@ -2107,7 +2107,7 @@
                 "id": 965147585,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T19:10:28Z",
+                "last_commit": "2026-10-01T13:58:59Z",
                 "open_issues": 4,
                 "owner": "legel",
                 "repo": "deepearth",
@@ -2226,7 +2226,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-30T17:41:06Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "skumar-ml",
                 "repo": "belief-world-models",
                 "stars": 3,
@@ -2299,7 +2299,7 @@
                 "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11956,
+                "stars": 11960,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2320,7 +2320,7 @@
                 "open_issues": 55,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3838,
+                "stars": 3843,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2348,7 +2348,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2937,
+                "stars": 2939,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2379,7 +2379,7 @@
                 "open_issues": 20,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2650,
+                "stars": 2652,
                 "topics": [
                   "infra",
                   "long",
@@ -2407,7 +2407,7 @@
                 "open_issues": 35,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2342,
+                "stars": 2340,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3136,7 +3136,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4163,
+                "stars": 4164,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3157,7 +3157,7 @@
                 "open_issues": 9,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2108,
+                "stars": 2109,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -3259,8 +3259,8 @@
                 "id": 503315788,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T08:34:40Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-01T16:16:07Z",
+                "open_issues": 68,
                 "owner": "microsoft",
                 "repo": "causica",
                 "stars": 538,
@@ -3969,7 +3969,7 @@
                 "open_issues": 7,
                 "owner": "danijar",
                 "repo": "daydreamer",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -4153,7 +4153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:47:03.682Z",
+    "last_updated": "2026-10-01T21:00:05.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
