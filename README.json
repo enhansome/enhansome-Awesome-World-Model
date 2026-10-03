@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2179,
+                "stars": 2181,
                 "topics": [
                   "agent",
                   "causality",
@@ -216,7 +216,7 @@
                 "open_issues": 4,
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-robustness",
@@ -1786,7 +1786,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4504,
+                "stars": 4507,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1813,7 +1813,7 @@
                 "open_issues": 43,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2183,
+                "stars": 2185,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -1876,7 +1876,7 @@
                 "open_issues": 6,
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 462,
+                "stars": 463,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1965,7 +1965,7 @@
                 "id": 1057952815,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-03-01T10:00:12Z",
+                "last_commit": "2026-10-03T06:38:36Z",
                 "open_issues": 2,
                 "owner": "zhaozijie2022",
                 "repo": "seqwm",
@@ -2278,6 +2278,27 @@
             },
             {
               "node_type": "item",
+              "title": "FutureWorlds: Learning Robotic World Models from Alternative Futures. [Paper",
+              "description": "Alexander-wu/FutureWorlds",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FutureWorlds: Learning Robotic World Models from Alternative Futures. Code, reproduction workflows, and project website.",
+                "homepage": "https://alexander-wu.github.io/FutureWorlds/",
+                "id": 1385376326,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-25T04:14:37Z",
+                "open_issues": 1,
+                "owner": "Alexander-wu",
+                "repo": "FutureWorlds",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T19:11:36.845Z"
+            },
+            {
+              "node_type": "item",
               "title": "Correcting a Learned Physical Invariant Improves World-Model Rollouts. [Paper",
               "description": "Zarand3r/world-model-invariants",
               "children": [],
@@ -2320,7 +2341,7 @@
                 "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11976,
+                "stars": 11978,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2341,7 +2362,7 @@
                 "open_issues": 67,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3845,
+                "stars": 3844,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2400,7 +2421,7 @@
                 "open_issues": 21,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2649,
+                "stars": 2650,
                 "topics": [
                   "infra",
                   "long",
@@ -2889,7 +2910,7 @@
             {
               "node_type": "item",
               "title": "[M3W] Learning and Planning Multi-Agent Tasks via an MoE-based World Model. [Paper",
-              "description": "zhaozijie2022/m3w-marl",
+              "description": "zhaozijie2022/moewm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2898,10 +2919,10 @@
                 "id": 1057276472,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-03-01T09:59:35Z",
+                "last_commit": "2026-10-03T08:11:05Z",
                 "open_issues": 0,
                 "owner": "zhaozijie2022",
-                "repo": "m3w-marl",
+                "repo": "moewm",
                 "stars": 34,
                 "topics": []
               },
@@ -3157,7 +3178,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4164,
+                "stars": 4165,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4174,7 +4195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:32:30.187Z",
+    "last_updated": "2026-10-03T19:11:36.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4182,11 +4203,11 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-02T14:46:20Z",
+      "last_commit": "2026-10-03T10:04:23Z",
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2267,
+      "stars": 2268,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
@@ -4200,7 +4221,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "c3b834b4cf6cfacfc5e9dbefa546a5ea61d6fc38",
+    "original_repository_sha": "423ed09034df4a6cc6e916f12dcd44739aa4f427",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
