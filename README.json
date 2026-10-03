@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. [Paper",
-              "description": "] [Code]",
+              "description": "HCPLab-SYSU/Embodied_AI_Paper_List",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -40,7 +40,7 @@
             {
               "node_type": "item",
               "title": "3D and 4D World Modeling: A Survey. [Paper",
-              "description": "] [Code]",
+              "description": "worldbench/awesome-3d-4d-world-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -53,7 +53,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 991,
+                "stars": 992,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -74,7 +74,7 @@
             {
               "node_type": "item",
               "title": "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond. [Paper",
-              "description": "] [Code]",
+              "description": "GigaAI-research/General-World-Models-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -95,7 +95,7 @@
             {
               "node_type": "item",
               "title": "A Comprehensive Survey on World Models for Embodied AI. [Paper",
-              "description": "] [Project]",
+              "description": "Li-Zn-H/AwesomeWorldModels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -116,7 +116,7 @@
             {
               "node_type": "item",
               "title": "Exploring the Evolution of Physics Cognition in Video Generation: A Survey. [Paper",
-              "description": "] [Code]",
+              "description": "minnie-lin/Awesome-Physics-Cognition-based-Video-Generation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -148,7 +148,7 @@
             {
               "node_type": "item",
               "title": "A survey on multimodal large language models for autonomous driving. [Paper",
-              "description": "] [Code]",
+              "description": "IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -180,7 +180,7 @@
             {
               "node_type": "item",
               "title": "Generative Physical AI in Vision: A Survey. [Paper",
-              "description": "] [Code]",
+              "description": "BestJunYu/Awesome-Physics-aware-Generation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -203,7 +203,7 @@
             {
               "node_type": "item",
               "title": "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses. [Paper",
-              "description": "] [Code]",
+              "description": "x-zheng16/Awesome-Embodied-AI-Safety",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -245,7 +245,7 @@
             {
               "node_type": "item",
               "title": "Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook. [Paper",
-              "description": "] [Project]",
+              "description": "MoyangSensei/AwesomeRobustDWM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -273,7 +273,7 @@
             {
               "node_type": "item",
               "title": "WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "fudan-generative-vision/WAM-Flow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -298,7 +298,7 @@
             {
               "node_type": "item",
               "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "H-EmbodVis/SimWAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -340,7 +340,7 @@
             {
               "node_type": "item",
               "title": "[WorldDrive] Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation. [Paper",
-              "description": "] [Code]",
+              "description": "TabGuigui/WorldDrive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -361,7 +361,7 @@
             {
               "node_type": "item",
               "title": "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation. [Paper",
-              "description": "] [Code]",
+              "description": "dtc111111/GaussianDWM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -403,7 +403,7 @@
             {
               "node_type": "item",
               "title": "ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "mengtan00/ResWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -424,7 +424,7 @@
             {
               "node_type": "item",
               "title": "DriveVA: Video Action Models are Zero-Shot Drivers. [Paper",
-              "description": "] [Code]",
+              "description": "xiaomi-mlab/DriveVA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -445,7 +445,7 @@
             {
               "node_type": "item",
               "title": "Vega: Learning to Drive with Natural Language Instructions. [Paper",
-              "description": "] [Code]",
+              "description": "zuosc19/Vega",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -473,7 +473,7 @@
             {
               "node_type": "item",
               "title": "[FSDrive] FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "MIV-XJTU/FSDrive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -500,7 +500,7 @@
             {
               "node_type": "item",
               "title": "MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction. [Paper",
-              "description": "] [Code]",
+              "description": "SenseTime-FVG/OpenDWM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -526,7 +526,7 @@
             {
               "node_type": "item",
               "title": "Epona: Autoregressive Diffusion World Model for Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "Kevin-thu/Epona",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -552,7 +552,7 @@
             {
               "node_type": "item",
               "title": "[SSR] Does End-to-End Autonomous Driving Really Need Perception Tasks? [Paper",
-              "description": "] [Code]",
+              "description": "PeidongLi/SSR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -573,7 +573,7 @@
             {
               "node_type": "item",
               "title": "[WoTE] End-to-End Driving with Online Trajectory Evaluation via BEV World Model. [Paper",
-              "description": "] [Code]",
+              "description": "liyingyanUCAS/WoTE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -618,7 +618,7 @@
             {
               "node_type": "item",
               "title": "DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes [Paper",
-              "description": "] [Code]",
+              "description": "3DTopia/DynamicCity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -643,7 +643,7 @@
             {
               "node_type": "item",
               "title": "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration. [Paper",
-              "description": "] [Code]",
+              "description": "GigaAI-research/ReconDreamer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -664,7 +664,7 @@
             {
               "node_type": "item",
               "title": "DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment. [Paper",
-              "description": "] [Code]",
+              "description": "shalfun/DriVerse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -685,7 +685,7 @@
             {
               "node_type": "item",
               "title": "I2 -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting. [Paper",
-              "description": "] [Code]",
+              "description": "lzzzzzm/II-World",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -710,7 +710,7 @@
             {
               "node_type": "item",
               "title": "DINO-Foresight: Looking into the Future with DINO. [Paper",
-              "description": "] [Code]",
+              "description": "Sta8is/DINO-Foresight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -735,7 +735,7 @@
             {
               "node_type": "item",
               "title": "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction. [Paper",
-              "description": "] [Code]",
+              "description": "zuosc19/GaussianWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -756,7 +756,7 @@
             {
               "node_type": "item",
               "title": "VaViM and VaVAM: Autonomous Driving through Video Generative Modeling. [Paper",
-              "description": "] [Code]",
+              "description": "valeoai/VideoActionModel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -803,7 +803,7 @@
             {
               "node_type": "item",
               "title": "From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction. [Paper",
-              "description": "] [Code]",
+              "description": "6550Zhao/Policy-World-Model",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -824,7 +824,7 @@
             {
               "node_type": "item",
               "title": "SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries. [Paper",
-              "description": "] [Code]",
+              "description": "MSunDYY/SparseWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -845,7 +845,7 @@
             {
               "node_type": "item",
               "title": "OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework. [Paper",
-              "description": "] [Code]",
+              "description": "JLChen-C/OccProphet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -869,7 +869,7 @@
             {
               "node_type": "item",
               "title": "GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control. [Paper",
-              "description": "] [Code]",
+              "description": "antonioo-c/GeoDrive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -890,7 +890,7 @@
             {
               "node_type": "item",
               "title": "[PreWorld] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "getterupper/PreWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -914,7 +914,7 @@
             {
               "node_type": "item",
               "title": "AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data. [Paper",
-              "description": "] [Code]",
+              "description": "HaoranZhuExplorer/adljepa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -941,7 +941,7 @@
             {
               "node_type": "item",
               "title": "[PIWM] Dream to Drive with Predictive Individual World Model. [Paper",
-              "description": "] [Code]",
+              "description": "gaoyinfeng/PIWM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -962,7 +962,7 @@
             {
               "node_type": "item",
               "title": "FUTURIST: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. [Paper",
-              "description": "] [Code]",
+              "description": "Sta8is/FUTURIST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -986,7 +986,7 @@
             {
               "node_type": "item",
               "title": "ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "fudan-zvg/ImagiDrive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1007,7 +1007,7 @@
             {
               "node_type": "item",
               "title": "SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model [Paper",
-              "description": "] [Code]",
+              "description": "Li-Zn-H/SimWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1028,7 +1028,7 @@
             {
               "node_type": "item",
               "title": "Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "xieyuser/Semi-SMD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1049,7 +1049,7 @@
             {
               "node_type": "item",
               "title": "NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models. [Paper",
-              "description": "] [Code]",
+              "description": "lynn-yu/NRSeg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1077,7 +1077,7 @@
             {
               "node_type": "item",
               "title": "MagicDrive: Street View Generation with Diverse 3D Geometry Control. [Paper",
-              "description": "] [Code]",
+              "description": "cure-lab/MagicDrive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1105,7 +1105,7 @@
             {
               "node_type": "item",
               "title": "Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability. [Paper",
-              "description": "] [Code]",
+              "description": "OpenDriveLab/Vista",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1130,7 +1130,7 @@
             {
               "node_type": "item",
               "title": "[GenAD] Generalized Predictive Model for Autonomous Driving. [Paper",
-              "description": "] [Data]",
+              "description": "OpenDriveLab/DriveAGI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1161,7 +1161,7 @@
             {
               "node_type": "item",
               "title": "DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "JeffWang987/DriveDreamer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1182,7 +1182,7 @@
             {
               "node_type": "item",
               "title": "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "wzzheng/OccWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1203,7 +1203,7 @@
             {
               "node_type": "item",
               "title": "DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model. [Paper",
-              "description": "] [Code]",
+              "description": "shalfun/DrivingDiffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1224,7 +1224,7 @@
             {
               "node_type": "item",
               "title": "[Drive-WM] Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "BraveGroup/Drive-WM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1271,7 +1271,7 @@
             {
               "node_type": "item",
               "title": "[LAW] Enhancing End-to-End Autonomous Driving with Latent World Model. [Paper",
-              "description": "] [Code]",
+              "description": "BraveGroup/LAW",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1292,7 +1292,7 @@
             {
               "node_type": "item",
               "title": "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "ucd-dare/CarDreamer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1322,7 +1322,7 @@
             {
               "node_type": "item",
               "title": "[ViDAR] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "OpenDriveLab/ViDAR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1348,7 +1348,7 @@
             {
               "node_type": "item",
               "title": "Cam4DOCC: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications. [Paper",
-              "description": "] [Code]",
+              "description": "haomo-ai/Cam4DOcc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1376,7 +1376,7 @@
             {
               "node_type": "item",
               "title": "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT. [Paper",
-              "description": "] [Code]",
+              "description": "YvanYin/DrivingWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1405,7 +1405,7 @@
             {
               "node_type": "item",
               "title": "OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "wzzheng/OccSora",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1426,7 +1426,7 @@
             {
               "node_type": "item",
               "title": "LidarDM: Generative LiDAR Simulation in a Generated World. [Paper",
-              "description": "] [Code]",
+              "description": "vzyrianov/LidarDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1449,7 +1449,7 @@
             {
               "node_type": "item",
               "title": "[GUMP] Solving Motion Planning Tasks with a Scalable Generative Model. [Paper",
-              "description": "] [Code]",
+              "description": "HorizonRobotics/GUMP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1470,7 +1470,7 @@
             {
               "node_type": "item",
               "title": "BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space. [Paper",
-              "description": "] [Code]",
+              "description": "zympsyche/BevWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1491,7 +1491,7 @@
             {
               "node_type": "item",
               "title": "WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation. [Paper",
-              "description": "] [Code]",
+              "description": "fudan-zvg/WoVoGen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1512,7 +1512,7 @@
             {
               "node_type": "item",
               "title": "Doe-1: Closed-Loop Autonomous Driving with Large World Model. [Paper",
-              "description": "] [Code]",
+              "description": "wzzheng/Doe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1533,7 +1533,7 @@
             {
               "node_type": "item",
               "title": "SafeDreamer: Safe Reinforcement Learning with World Models. [Paper",
-              "description": "] [Code]",
+              "description": "PKU-Alignment/SafeDreamer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1561,7 +1561,7 @@
             {
               "node_type": "item",
               "title": "[LatentDriver] Learning Multiple Probabilistic Decisions from Latent World Model in Autonomous Driving. [Paper",
-              "description": "] [Code]",
+              "description": "Sephirex-X/LatentDriver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1582,7 +1582,7 @@
             {
               "node_type": "item",
               "title": "[Delphi] Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation. [Paper",
-              "description": "] [Code]",
+              "description": "westlake-autolab/Delphi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1603,7 +1603,7 @@
             {
               "node_type": "item",
               "title": "[DriveSim] Probing Multimodal LLMs as World Models for Driving. [Paper",
-              "description": "] [Code]",
+              "description": "sreeramsa/DriveSim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1653,7 +1653,7 @@
             {
               "node_type": "item",
               "title": "[MARL-CCE] Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model. [Paper",
-              "description": "] [Code]",
+              "description": "qiaoguanren/Multi-agent-Competitive-Autonomous-Driving",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1674,7 +1674,7 @@
             {
               "node_type": "item",
               "title": "[MARL-CCE] Modelling-Competitive-Behaviors-in-Autonomous-Driving-Under-Generative-World-Model. [Code",
-              "description": "]",
+              "description": "qiaoguanren/Multi-agent-Competitive-Autonomous-Driving",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1702,7 +1702,7 @@
             {
               "node_type": "item",
               "title": "TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. [Paper",
-              "description": "] [Code]",
+              "description": "zhejz/TrafficBots",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1739,7 +1739,7 @@
             {
               "node_type": "item",
               "title": "[MILE] Model-Based Imitation Learning for Urban Driving. [Paper",
-              "description": "] [Code]",
+              "description": "wayveai/mile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1773,7 +1773,7 @@
             {
               "node_type": "item",
               "title": "[Lingbot-World] Advancing Open-source World Models. [Paper",
-              "description": "] [Code]",
+              "description": "Robbyant/lingbot-world",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1786,7 +1786,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4503,
+                "stars": 4504,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1842,7 +1842,7 @@
             {
               "node_type": "item",
               "title": "[Lingbot-VA] Causal World Modeling for Robot Control. [Paper",
-              "description": "] [Code]",
+              "description": "Robbyant/lingbot-va",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1863,7 +1863,7 @@
             {
               "node_type": "item",
               "title": "Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning. [Paper",
-              "description": "] [Code]",
+              "description": "Snowflake-Labs/agent-world-model",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1884,7 +1884,7 @@
             {
               "node_type": "item",
               "title": "[VEGA-3D] Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding. [Paper",
-              "description": "] [Code]",
+              "description": "H-EmbodVis/VEGA-3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1935,7 +1935,7 @@
             {
               "node_type": "item",
               "title": "R2-Dreamer: Redundancy-Reduced World Models without Decoders or Augmentation. [Paper",
-              "description": "] [Code]",
+              "description": "NM512/r2dreamer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1956,7 +1956,7 @@
             {
               "node_type": "item",
               "title": "[SeqWM] Empowering Multi-Robot Cooperation via Sequential World Models. [Paper",
-              "description": "] [Code]",
+              "description": "zhaozijie2022/seqwm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1981,7 +1981,7 @@
             {
               "node_type": "item",
               "title": "Inference-time Physics Alignment of Video Generative Models with Latent World Models. [Paper",
-              "description": "] [Code]",
+              "description": "facebookresearch/WMReward",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2002,7 +2002,7 @@
             {
               "node_type": "item",
               "title": "MIND: Benchmarking Memory Consistency and Action Control in World Models. [Paper",
-              "description": "] [Code]",
+              "description": "CSU-JPG/MIND",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2030,7 +2030,7 @@
             {
               "node_type": "item",
               "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation. [Paper",
-              "description": "] [Code]",
+              "description": "AMAP-ML/DreamX-Phi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2051,7 +2051,7 @@
             {
               "node_type": "item",
               "title": "[EAWM] From Observations to Events: Event-Aware World Model for Reinforcement Learning. [Paper",
-              "description": "] [Code]",
+              "description": "MarquisDarwin/EAWM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2072,7 +2072,7 @@
             {
               "node_type": "item",
               "title": "WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching. [Paper",
-              "description": "] [Project]",
+              "description": "FofGofx/WorldCache",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2098,7 +2098,7 @@
             {
               "node_type": "item",
               "title": "RAE-NWM: Navigation World Model in Dense Visual Representation Space. [Paper",
-              "description": "] [Code]",
+              "description": "20robo/raenwm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2119,7 +2119,7 @@
             {
               "node_type": "item",
               "title": "Self-Supervised Multi-Modal World Model with 4D Space-Time Embedding. [Paper",
-              "description": "] [Project]",
+              "description": "legel/deepearth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2140,7 +2140,7 @@
             {
               "node_type": "item",
               "title": "StateAgent: Do Video Generators Track the World Across Segments? A Benchmark and Method for World-State Reasoning in Video Continuation. [Paper",
-              "description": "] [Code]",
+              "description": "AMAP-ML/StateAgent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2161,7 +2161,7 @@
             {
               "node_type": "item",
               "title": "R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models. [Paper",
-              "description": "] [Code]",
+              "description": "AMAP-ML/R2MBench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2182,7 +2182,7 @@
             {
               "node_type": "item",
               "title": "From Generation to Simulation: How Far Are World Models from Being True Simulators? [Paper",
-              "description": "] [Code]",
+              "description": "AtongWang/world-model-simulators",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2237,7 +2237,7 @@
             {
               "node_type": "item",
               "title": "Towards a Belief-Based World Model for LLM Agents. [Paper",
-              "description": "] [Code]",
+              "description": "skumar-ml/belief-world-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2258,7 +2258,7 @@
             {
               "node_type": "item",
               "title": "No Gaussian Required: Contrastive Inverse Dynamics for JEPA World Models. [Paper",
-              "description": "] [Code]",
+              "description": "jackboyla/action-contrastive-jepa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2279,7 +2279,7 @@
             {
               "node_type": "item",
               "title": "Correcting a Learned Physical Invariant Improves World-Model Rollouts. [Paper",
-              "description": "] [Code]",
+              "description": "Zarand3r/world-model-invariants",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2307,7 +2307,7 @@
             {
               "node_type": "item",
               "title": "Cosmos World Foundation Model Platform for Physical AI. [Paper",
-              "description": "] [Code]",
+              "description": "NVIDIA/cosmos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2320,7 +2320,7 @@
                 "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11973,
+                "stars": 11976,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2356,7 +2356,7 @@
             {
               "node_type": "item",
               "title": "HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [Paper",
-              "description": "] [Code]",
+              "description": "Tencent-Hunyuan/HunyuanWorld-1.0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2369,7 +2369,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2939,
+                "stars": 2940,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2387,7 +2387,7 @@
             {
               "node_type": "item",
               "title": "LongLive: Real-time Interactive Long Video Generation. [Paper",
-              "description": "] [Code]",
+              "description": "NVlabs/LongLive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2415,7 +2415,7 @@
             {
               "node_type": "item",
               "title": "Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model. [Paper",
-              "description": "] [Code]",
+              "description": "SkyworkAI/Matrix-Game",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2445,7 +2445,7 @@
             {
               "node_type": "item",
               "title": "UnifoLM-WMA-0: A World-Model-Action (WMA) Framework under UnifoLM Family. [Code",
-              "description": "]",
+              "description": "unitreerobotics/unifolm-world-model-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2466,7 +2466,7 @@
             {
               "node_type": "item",
               "title": "WorldVLA: Towards Autoregressive Action World Model. [Paper",
-              "description": "] [Code]",
+              "description": "alibaba-damo-academy/RynnVLA-002",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2487,7 +2487,7 @@
             {
               "node_type": "item",
               "title": "Cosmos-Transfer1 [Paper",
-              "description": "] [Code]",
+              "description": "nvidia-cosmos/cosmos-transfer1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2508,7 +2508,7 @@
             {
               "node_type": "item",
               "title": "Yume: An Interactive World Generation Model. [Paper",
-              "description": "] [Code]",
+              "description": "stdstu12/YUME",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2535,7 +2535,7 @@
             {
               "node_type": "item",
               "title": "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft. [Paper",
-              "description": "] [Code]",
+              "description": "microsoft/mineworld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2556,7 +2556,7 @@
             {
               "node_type": "item",
               "title": "Astra: General Interactive World Model with Autoregressive Denoising. [Paper",
-              "description": "] [Code]",
+              "description": "EternalEvan/Astra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2580,7 +2580,7 @@
             {
               "node_type": "item",
               "title": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures. [Paper",
-              "description": "] [Code]",
+              "description": "galilai-group/llm-jepa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2622,7 +2622,7 @@
             {
               "node_type": "item",
               "title": "[UWM] Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [Paper",
-              "description": "] [Code]",
+              "description": "WEIRDLabUW/unified-world-model",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2643,7 +2643,7 @@
             {
               "node_type": "item",
               "title": "LS-Imagine: Open-World Reinforcement Learning over Long Short-Term Imagination. [Paper",
-              "description": "] [Code]",
+              "description": "qiwang067/LS-Imagine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2676,7 +2676,7 @@
             {
               "node_type": "item",
               "title": "WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation. [Paper",
-              "description": "] [Code]",
+              "description": "B0B8K1ng/WMNavigation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2718,7 +2718,7 @@
             {
               "node_type": "item",
               "title": "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments. [Paper",
-              "description": "] [Code]",
+              "description": "Feliciaxyao/NavMorph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2742,7 +2742,7 @@
             {
               "node_type": "item",
               "title": "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model. [Paper",
-              "description": "] [Code]",
+              "description": "Hoyyyaard/3DFlowAction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2763,7 +2763,7 @@
             {
               "node_type": "item",
               "title": "VFMF: World Modeling by Forecasting Vision Foundation Model Features. [Paper",
-              "description": "] [Code]",
+              "description": "gboduljak/vfmf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2784,7 +2784,7 @@
             {
               "node_type": "item",
               "title": "EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance. [Paper",
-              "description": "] [Code]",
+              "description": "LeapLabTHU/EchoWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2805,7 +2805,7 @@
             {
               "node_type": "item",
               "title": "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model. [Paper",
-              "description": "] [Code]",
+              "description": "yangzaijia/ManiGaussian_Bimanual",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2826,7 +2826,7 @@
             {
               "node_type": "item",
               "title": "[GWM] Graph World Model. [Paper",
-              "description": "] [Code]",
+              "description": "ulab-uiuc/GWM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2868,7 +2868,7 @@
             {
               "node_type": "item",
               "title": "MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator. [Paper",
-              "description": "] [Code]",
+              "description": "UCSB-AI/Morph4D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2889,7 +2889,7 @@
             {
               "node_type": "item",
               "title": "[M3W] Learning and Planning Multi-Agent Tasks via an MoE-based World Model. [Paper",
-              "description": "] [Code]",
+              "description": "zhaozijie2022/m3w-marl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2910,7 +2910,7 @@
             {
               "node_type": "item",
               "title": "DC-MPC: Discrete Codebook World Models for Continuous Control. [Paper",
-              "description": "] [Code]",
+              "description": "aidanscannell/dcmpc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2942,7 +2942,7 @@
             {
               "node_type": "item",
               "title": "RoboScape: Physics-informed Embodied World Model. [Paper",
-              "description": "] [Code]",
+              "description": "tsinghua-fib-lab/RoboScape",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2984,7 +2984,7 @@
             {
               "node_type": "item",
               "title": "[SGF] Simple, Good, Fast: Self-Supervised World Models Free of Baggage. [Paper",
-              "description": "] [Code]",
+              "description": "jrobine/sgf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3007,7 +3007,7 @@
             {
               "node_type": "item",
               "title": "[TAWM] Time-Aware World Model for Adaptive Prediction and Control. [Paper",
-              "description": "] [Code]",
+              "description": "anh-nn01/Time-Aware-World-Model",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3032,7 +3032,7 @@
             {
               "node_type": "item",
               "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
-              "description": "] [Code]",
+              "description": "Pter61/predicir",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3053,7 +3053,7 @@
             {
               "node_type": "item",
               "title": "M^3 : A Modular World Model over Streams of Tokens. [Paper",
-              "description": "] [Code]",
+              "description": "leor-c/Simulus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3074,7 +3074,7 @@
             {
               "node_type": "item",
               "title": "Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling. [Paper",
-              "description": "] [Code]",
+              "description": "chandar-lab/visa-for-mindjourney",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3095,7 +3095,7 @@
             {
               "node_type": "item",
               "title": "LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE. [Paper",
-              "description": "] [Code]",
+              "description": "tsinghua-fib-lab/Longscape",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3123,7 +3123,7 @@
             {
               "node_type": "item",
               "title": "[LWM] World Model on Million-Length Video And Language With RingAttention. [Paper",
-              "description": "] [Code]",
+              "description": "LargeWorldModel/LWM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3165,7 +3165,7 @@
             {
               "node_type": "item",
               "title": "[Diamond] Diffusion for World Modeling: Visual Details Matter in Atari. [Paper",
-              "description": "] [Code]",
+              "description": "eloialonso/diamond",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3195,7 +3195,7 @@
             {
               "node_type": "item",
               "title": "MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators. [Paper",
-              "description": "] [Code]",
+              "description": "PKU-YuanGroup/MagicTime",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3250,7 +3250,7 @@
             {
               "node_type": "item",
               "title": "Pandora: Towards General World Model with Natural Language Actions and Video States. [Paper",
-              "description": "] [Code]",
+              "description": "maitrix-org/Pandora",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3271,7 +3271,7 @@
             {
               "node_type": "item",
               "title": "AVID: Adapting Video Diffusion Models to World Models. [Paper",
-              "description": "] [Code]",
+              "description": "microsoft/causica",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3318,7 +3318,7 @@
             {
               "node_type": "item",
               "title": "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation. [Paper",
-              "description": "] [Code]",
+              "description": "GuanxingLu/ManiGaussian",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3339,7 +3339,7 @@
             {
               "node_type": "item",
               "title": "StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization. [Paper",
-              "description": "] [Code]",
+              "description": "Aria-Zhangjl/StoryWeaver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3360,7 +3360,7 @@
             {
               "node_type": "item",
               "title": "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. [Paper",
-              "description": "] [Code]",
+              "description": "JeffWang987/WorldDreamer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3381,7 +3381,7 @@
             {
               "node_type": "item",
               "title": "PreLAR: World Model Pre-training with Learnable Action Representation. [Paper",
-              "description": "] [Code]",
+              "description": "VIPL-EPP/PreLAR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3402,7 +3402,7 @@
             {
               "node_type": "item",
               "title": "[WKM] Agent Planning with World Knowledge Model. [Paper",
-              "description": "] [Code]",
+              "description": "zjunlp/WKM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3432,7 +3432,7 @@
             {
               "node_type": "item",
               "title": "[Δ-IRIS] Efficient World Models with Context-Aware Tokenization. [Paper",
-              "description": "] [Code]",
+              "description": "vmicheli/delta-iris",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3462,7 +3462,7 @@
             {
               "node_type": "item",
               "title": "[WebDreamer] Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents. [Paper",
-              "description": "] [Code]",
+              "description": "OSU-NLP-Group/WebDreamer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3483,7 +3483,7 @@
             {
               "node_type": "item",
               "title": "[GenRL] Multimodal foundation world models for generalist embodied agents. [Paper",
-              "description": "] [Code]",
+              "description": "mazpie/genrl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3511,7 +3511,7 @@
             {
               "node_type": "item",
               "title": "Evaluating the World Model Implicit in a Generative Model. [Paper",
-              "description": "] [Code]",
+              "description": "mazpie/genrl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3539,7 +3539,7 @@
             {
               "node_type": "item",
               "title": "HarmonyDream: Task Harmonization Inside World Models. [Paper",
-              "description": "] [Code]",
+              "description": "thuml/HarmonyDream",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3563,7 +3563,7 @@
             {
               "node_type": "item",
               "title": "CityBench: Evaluating the Capabilities of Large Language Model as World Model. [Paper",
-              "description": "] [Code]",
+              "description": "tsinghua-fib-lab/CityBench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3584,7 +3584,7 @@
             {
               "node_type": "item",
               "title": "Owl-1: Omni World Model for Consistent Long Video Generation. [Paper",
-              "description": "] [Code]",
+              "description": "huang-yh/Owl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3605,7 +3605,7 @@
             {
               "node_type": "item",
               "title": "MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. [Paper",
-              "description": "] [Code]",
+              "description": "zoharri/mamba",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3626,7 +3626,7 @@
             {
               "node_type": "item",
               "title": "[LLM-Sim] Can Language Models Serve as Text-Based World Simulators? [Paper",
-              "description": "] [Code]",
+              "description": "cognitiveailab/GPT-simulator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3647,7 +3647,7 @@
             {
               "node_type": "item",
               "title": "[LLMCWM] Language Agents Meet Causality -- Bridging LLMs and Causal World Models. [Paper",
-              "description": "] [Code]",
+              "description": "j0hngou/LLMCWM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3701,7 +3701,7 @@
             {
               "node_type": "item",
               "title": "[HRSSM] Learning Latent Dynamic Robust Representations for World Models. [Paper",
-              "description": "] [Code]",
+              "description": "bit1029public/HRSSM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3722,7 +3722,7 @@
             {
               "node_type": "item",
               "title": "Dreaming of Many Worlds: Learning Contextual World Models Aids Zero-Shot Generalization. [Paper",
-              "description": "] [Code]",
+              "description": "sai-prasanna/dreaming_of_many_worlds",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3743,7 +3743,7 @@
             {
               "node_type": "item",
               "title": "[REM] Improving Token-Based World Models with Parallel Observation Prediction. [Paper",
-              "description": "] [Code]",
+              "description": "leor-c/REM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3764,7 +3764,7 @@
             {
               "node_type": "item",
               "title": "[MUN]Learning World Models for Unconstrained Goal Navigation. [Paper",
-              "description": "] [Code]",
+              "description": "RU-Automated-Reasoning-Group/MUN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3792,7 +3792,7 @@
             {
               "node_type": "item",
               "title": "Transformers and Slot Encoding for Sample Efficient Physical World Modelling. [Paper",
-              "description": "] [Code]",
+              "description": "torchipeppo/transformers-and-slot-encoding-for-wm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3850,7 +3850,7 @@
             {
               "node_type": "item",
               "title": "[Dynalang] Learning to Model the World with Language. [Paper",
-              "description": "] [Code]",
+              "description": "jlin816/dynalang",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3928,7 +3928,7 @@
             {
               "node_type": "item",
               "title": "FOCUS: Object-Centric World Models for Robotics Manipulation [Paper",
-              "description": "] [Code]",
+              "description": "StefanoFerraro/FOCUS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3956,7 +3956,7 @@
             {
               "node_type": "item",
               "title": "[TD-MPC] Temporal Difference Learning for Model Predictive Control. [Paper",
-              "description": "][Code]",
+              "description": "nicklashansen/tdmpc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3977,7 +3977,7 @@
             {
               "node_type": "item",
               "title": "DayDreamer: World Models for Physical Robot Learning. [Paper",
-              "description": "] [Code]",
+              "description": "danijar/daydreamer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4002,7 +4002,7 @@
             {
               "node_type": "item",
               "title": "Deep Hierarchical Planning from Pixels. [Paper",
-              "description": "] [Code]",
+              "description": "danijar/director",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4032,7 +4032,7 @@
             {
               "node_type": "item",
               "title": "Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models. [Paper",
-              "description": "] [Code]",
+              "description": "panmt/Iso-Dream",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4053,7 +4053,7 @@
             {
               "node_type": "item",
               "title": "DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations. [Paper",
-              "description": "] [Code]",
+              "description": "fdeng18/dreamer-pro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4174,7 +4174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:40:56.237Z",
+    "last_updated": "2026-10-03T04:32:30.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
