@@ -1786,7 +1786,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4508,
+                "stars": 4509,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1855,7 +1855,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1924,
+                "stars": 1925,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1876,7 +1876,7 @@
                 "open_issues": 6,
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 463,
+                "stars": 464,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1897,7 +1897,7 @@
                 "open_issues": 5,
                 "owner": "H-EmbodVis",
                 "repo": "VEGA-3D",
-                "stars": 423,
+                "stars": 424,
                 "topics": [
                   "multimodal-large-language-models",
                   "spatial-reasoning",
@@ -2128,7 +2128,7 @@
                 "id": 965147585,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T00:41:40Z",
+                "last_commit": "2026-10-06T15:26:24Z",
                 "open_issues": 4,
                 "owner": "legel",
                 "repo": "deepearth",
@@ -2338,10 +2338,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-06T03:08:54Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11982,
+                "stars": 11983,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 66,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3847,
+                "stars": 3848,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3262,7 +3262,7 @@
                 "open_issues": 11,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 975,
+                "stars": 976,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -3304,8 +3304,8 @@
                 "id": 503315788,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T08:11:15Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-06T12:55:38Z",
+                "open_issues": 74,
                 "owner": "microsoft",
                 "repo": "causica",
                 "stars": 538,
@@ -4156,7 +4156,7 @@
                 "open_issues": 6,
                 "owner": "danijar",
                 "repo": "dreamer",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -4198,7 +4198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:43:39.941Z",
+    "last_updated": "2026-10-06T20:56:54.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
