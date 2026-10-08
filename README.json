@@ -53,7 +53,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 993,
+                "stars": 995,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -311,7 +311,7 @@
                 "open_issues": 3,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 192,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -416,7 +416,7 @@
                 "open_issues": 6,
                 "owner": "mengtan00",
                 "repo": "ResWorld",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -837,7 +837,7 @@
                 "open_issues": 3,
                 "owner": "MSunDYY",
                 "repo": "SparseWorld",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -927,7 +927,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -1143,7 +1143,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 808,
+                "stars": 807,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -1335,7 +1335,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 354,
+                "stars": 353,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -1786,7 +1786,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4509,
+                "stars": 4513,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1813,7 +1813,7 @@
                 "open_issues": 43,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2191,
+                "stars": 2194,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -1855,7 +1855,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1925,
+                "stars": 1926,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1897,7 +1897,7 @@
                 "open_issues": 5,
                 "owner": "H-EmbodVis",
                 "repo": "VEGA-3D",
-                "stars": 424,
+                "stars": 425,
                 "topics": [
                   "multimodal-large-language-models",
                   "spatial-reasoning",
@@ -1948,7 +1948,7 @@
                 "open_issues": 3,
                 "owner": "NM512",
                 "repo": "r2dreamer",
-                "stars": 188,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2341,7 +2341,7 @@
                 "open_issues": 62,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11986,
+                "stars": 11990,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2359,10 +2359,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-04T05:02:53Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3851,
+                "stars": 3853,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2390,7 +2390,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2941,
+                "stars": 2942,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2417,11 +2417,11 @@
                 "id": 1062167576,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T15:17:07Z",
+                "last_commit": "2026-10-08T02:08:47Z",
                 "open_issues": 22,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2658,
+                "stars": 2691,
                 "topics": [
                   "infra",
                   "long",
@@ -2452,7 +2452,7 @@
                 "open_issues": 35,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2344,
+                "stars": 2346,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -2779,7 +2779,7 @@
                 "open_issues": 6,
                 "owner": "Hoyyyaard",
                 "repo": "3DFlowAction",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3055,27 +3055,6 @@
             },
             {
               "node_type": "item",
-              "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
-              "description": "Pter61/predicir",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CVPR 2025",
-                "homepage": null,
-                "id": 948511388,
-                "language": null,
-                "license": null,
-                "last_commit": "2025-03-30T00:42:48Z",
-                "open_issues": 4,
-                "owner": "Pter61",
-                "repo": "predicir",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
               "title": "M^3 : A Modular World Model over Streams of Tokens. [Paper",
               "description": "leor-c/Simulus",
               "children": [],
@@ -3090,6 +3069,27 @@
                 "open_issues": 1,
                 "owner": "leor-c",
                 "repo": "Simulus",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[PrediCIR] Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval. [Paper",
+              "description": "Pter61/predicir",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CVPR 2025",
+                "homepage": null,
+                "id": 948511388,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-03-30T00:42:48Z",
+                "open_issues": 4,
+                "owner": "Pter61",
+                "repo": "predicir",
                 "stars": 14,
                 "topics": []
               },
@@ -3126,9 +3126,9 @@
                 "description": null,
                 "homepage": null,
                 "id": 1056654576,
-                "language": null,
-                "license": null,
-                "last_commit": "2025-09-25T14:59:11Z",
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-08T16:09:33Z",
                 "open_issues": 2,
                 "owner": "tsinghua-fib-lab",
                 "repo": "Longscape",
@@ -3160,7 +3160,7 @@
                 "open_issues": 59,
                 "owner": "LargeWorldModel",
                 "repo": "LWM",
-                "stars": 7425,
+                "stars": 7426,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3181,7 +3181,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4172,
+                "stars": 4173,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3199,10 +3199,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-12-06T16:45:28Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2111,
+                "stars": 2112,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -3304,8 +3304,8 @@
                 "id": 503315788,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-07T21:04:51Z",
-                "open_issues": 76,
+                "last_commit": "2026-10-08T09:02:25Z",
+                "open_issues": 80,
                 "owner": "microsoft",
                 "repo": "causica",
                 "stars": 538,
@@ -3329,7 +3329,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 354,
+                "stars": 353,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -4014,7 +4014,7 @@
                 "open_issues": 7,
                 "owner": "danijar",
                 "repo": "daydreamer",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -4198,7 +4198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:15:50.329Z",
+    "last_updated": "2026-10-08T21:16:49.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4210,7 +4210,7 @@
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2274,
+      "stars": 2277,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
