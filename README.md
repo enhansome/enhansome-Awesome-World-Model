@@ -1,6 +1,6 @@
 # Awesome World Models for Autonomous Driving with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,292 | 🐛 106 | 📅 2026-09-02 [![arXiv](https://img.shields.io/badge/Arxiv-2502.10498-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2502.10498)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,729 | 🐛 106 | 📅 2026-09-02 [![arXiv](https://img.shields.io/badge/Arxiv-2502.10498-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2502.10498)
 
 This repo is used for recording, tracking, and benchmarking several recent World Models (for Autonomous Driving or Robotic) methods, as a supplement to our [**survey**](https://arxiv.org/abs/2502.10498).
 
@@ -92,15 +92,15 @@ If you find this repository useful in your research, please kindly consider givi
 
 ### Survey
 
-* Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. **`TMECH 25`** \[[Paper](https://arxiv.org/abs/2407.06886)] \[[Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) ⭐ 2,181 | 🐛 4 | 📅 2026-06-10]
-* 3D and 4D World Modeling: A Survey. **`arXiv 25.09`** \[[Paper](https://arxiv.org/abs/2509.07996)] \[[Code](https://github.com/worldbench/survey) ⭐ 995 | 🐛 0 | 🌐 HTML | 📅 2026-10-06]
+* Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI. **`TMECH 25`** \[[Paper](https://arxiv.org/abs/2407.06886)] \[[Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) ⭐ 2,182 | 🐛 4 | 📅 2026-06-10]
+* 3D and 4D World Modeling: A Survey. **`arXiv 25.09`** \[[Paper](https://arxiv.org/abs/2509.07996)] \[[Code](https://github.com/worldbench/survey) ⭐ 996 | 🐛 1 | 🌐 HTML | 📅 2026-10-06]
 * Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond. **`arXiv 24.5`** \[[Paper](https://arxiv.org/abs/2405.03520)] \[[Code](https://github.com/GigaAI-research/General-World-Models-Survey) ⭐ 526 | 🐛 2 | 📅 2025-10-30]
-* A Comprehensive Survey on World Models for Embodied AI. **`arXiv 25.10`** \[[Paper](https://arxiv.org/abs/2510.16732)] \[[Project](https://github.com/Li-Zn-H/AwesomeWorldModels) ⭐ 365 | 🐛 4 | 📅 2026-08-13]
+* A Comprehensive Survey on World Models for Embodied AI. **`arXiv 25.10`** \[[Paper](https://arxiv.org/abs/2510.16732)] \[[Project](https://github.com/Li-Zn-H/AwesomeWorldModels) ⭐ 366 | 🐛 4 | 📅 2026-08-13]
 * Exploring the Evolution of Physics Cognition in Video Generation: A Survey. **`arXiv 25.03`** \[[Paper](https://arxiv.org/abs/2503.21765)] \[[Code](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation) ⭐ 326 | 🐛 0 | 📅 2026-06-23]
 * A survey on multimodal large language models for autonomous driving. **`WACVW 24`** \[[Paper](https://arxiv.org/abs/2311.12320)] \[[Code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving) ⭐ 311 | 🐛 1 | 📅 2024-03-14]
 * Generative Physical AI in Vision: A Survey. **`arXiv 25.01`** \[[Paper](https://arxiv.org/abs/2501.10928)] \[[Code](https://github.com/BestJunYu/Awesome-Physics-aware-Generation) ⭐ 302 | 🐛 5 | 📅 2025-12-23]
 * Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses. **`arXiv 26.05`** \[[Paper](https://arxiv.org/abs/2605.02900)] \[[Code](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) ⭐ 151 | 🐛 4 | 🌐 Python | 📅 2026-10-05]
-* Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook. **`techrXiv 25.11`** \[[Paper](https://doi.org/10.36227/techrxiv.176523308.84756413/v1)] \[[Project](https://github.com/MoyangSensei/AwesomeRobustDWM) ⭐ 21 | 🐛 1 | 📅 2025-12-15]
+* Progressive Robustness-Aware World Models in Autonomous Driving: A Review and Outlook. **`techrXiv 25.11`** \[[Paper](https://doi.org/10.36227/techrxiv.176523308.84756413/v1)] \[[Project](https://github.com/MoyangSensei/AwesomeRobustDWM) ⭐ 21 | 🐛 2 | 📅 2025-12-15]
 * The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey. **`FCS 26`** \[[Paper](https://arxiv.org/abs/2502.10498)] \[[Journal](https://journal.hep.com.cn/fcs/EN/home)]
 * **World Models for Embodied Intelligence**: From Plausible to Controllable to Actionable. **`arXiv 26.9`** \[[Paper](https://arxiv.org/abs/2609.16697)] \[[Project](https://3dagentworld.github.io)]
 * Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models. **`TMLR 26`** \[[Paper](https://arxiv.org/abs/2609.03927)]
@@ -138,7 +138,7 @@ If you find this repository useful in your research, please kindly consider givi
 * **GaussianDWM**: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation. **`CVPR 26`** \[[Paper](https://arxiv.org/abs/2512.23180)] \[[Code](https://github.com/dtc111111/GaussianDWM) ⭐ 83 | 🐛 2 | 🌐 Python | 📅 2026-06-13]
 * **HERMES++**: Toward a Unified Driving World Model for 3D Scene Understanding and Generation. **`TPAMI 26`** \[[Paper](https://arxiv.org/abs/2604.28196)] \[[Code](https://github.com/H-EmbodVis/HERMESV2) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2026-09-17] \[[Project](https://h-embodvis.github.io/HERMESV2/)]
 * **ResWorld**: Temporal Residual World Model for End-to-End Autonomous Driving. **`ICLR 26`** \[[Paper](https://arxiv.org/abs/2602.10884)] \[[Code](https://github.com/mengtan00/ResWorld.git) ⭐ 67 | 🐛 6 | 🌐 Python | 📅 2026-02-05]
-* **DriveVA**: Video Action Models are Zero-Shot Drivers. **`ECCV 26`** \[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19)] \[[Code](https://github.com/xiaomi-mlab/DriveVA) ⭐ 63 | 🐛 2 | 🌐 Python | 📅 2026-09-21]
+* **DriveVA**: Video Action Models are Zero-Shot Drivers. **`ECCV 26`** \[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19)] \[[Code](https://github.com/xiaomi-mlab/DriveVA) ⭐ 63 | 🐛 2 | 🌐 Python | 📅 2026-10-09]
 * **Vega**: Learning to Drive with Natural Language Instructions. **`arXiv 26.3`** \[[Paper](https://arxiv.org/abs/2603.25741)] \[[Code](https://github.com/zuosc19/Vega) ⭐ 43 | 🐛 3 | 🌐 Python | 📅 2026-03-27]
 * **RAYNOVA**: Scale-Temporal Autoregressive World Modeling in Ray Space. **`CVPR 26`** \[[Paper](https://arxiv.org/abs/2602.20685)] \[[Project](https://raynova-ai.github.io/)]
 * See Tomorrow, Act Today: Foresight-Driven Autonomous Driving. **`CVPR 26 Findings`** \[[Paper](https://arxiv.org/abs/2605.07195)]
@@ -242,8 +242,8 @@ If you find this repository useful in your research, please kindly consider givi
 
 ### 2025
 
-* \[**FSDrive**] FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving. **`NeurIPS 25`** \[[Paper](https://arxiv.org/abs/2505.17685)] \[[Code](https://github.com/MIV-XJTU/FSDrive) ⭐ 833 | 🐛 10 | 🌐 Python | 📅 2026-05-08]
-* **MaskGWM**: A Generalizable Driving World Model with Video Mask Reconstruction.  **`CVPR 25`** \[[Paper](https://arxiv.org/abs/2502.11663)] \[[Code](https://github.com/SenseTime-FVG/OpenDWM) ⭐ 422 | 🐛 38 | 🌐 Python | 📅 2025-06-19]
+* \[**FSDrive**] FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving. **`NeurIPS 25`** \[[Paper](https://arxiv.org/abs/2505.17685)] \[[Code](https://github.com/MIV-XJTU/FSDrive) ⭐ 831 | 🐛 10 | 🌐 Python | 📅 2026-05-08]
+* **MaskGWM**: A Generalizable Driving World Model with Video Mask Reconstruction.  **`CVPR 25`** \[[Paper](https://arxiv.org/abs/2502.11663)] \[[Code](https://github.com/SenseTime-FVG/OpenDWM) ⭐ 423 | 🐛 38 | 🌐 Python | 📅 2025-06-19]
 * **Epona**: Autoregressive Diffusion World Model for Autonomous Driving.  **`ICCV 25`** \[[Paper](https://arxiv.org/abs/2506.24113)] \[[Code](https://github.com/Kevin-thu/Epona/) ⭐ 391 | 🐛 7 | 🌐 Python | 📅 2025-07-22]
 * \[**SSR**] Does End-to-End Autonomous Driving Really Need Perception Tasks? **`ICLR 25`** \[[Paper](https://arxiv.org/abs/2409.18341)] \[[Code](https://github.com/PeidongLi/SSR) ⭐ 274 | 🐛 13 | 🌐 Python | 📅 2025-03-23]
 * \[**WoTE**] End-to-End Driving with Online Trajectory Evaluation via BEV World Model.  **`ICCV 25`** \[[Paper](https://arxiv.org/abs/2504.01941)] \[[Code](https://github.com/liyingyanUCAS/WoTE) ⭐ 271 | 🐛 19 | 🌐 Python | 📅 2025-06-29]
@@ -253,7 +253,7 @@ If you find this repository useful in your research, please kindly consider givi
 * **DriVerse**: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment.  **`ACM MM 25`** \[[Paper](https://arxiv.org/abs/2504.19614)] \[[Code](https://github.com/shalfun/DriVerse) ⭐ 225 | 🐛 3 | 🌐 Python | 📅 2025-05-07]
 * **I2 -World**: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting.  **`arXiv 25.7`** \[[Paper](https://arxiv.org/abs/2507.09144)] \[[Code](https://github.com/lzzzzzm/II-World) ⭐ 191 | 🐛 1 | 🌐 Python | 📅 2026-05-01]
 * **DINO-Foresight**: Looking into the Future with DINO. **`NeurIPS 25`** \[[Paper](https://arxiv.org/abs/2412.11673)] \[[Code](https://github.com/Sta8is/DINO-Foresight) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2025-11-26]
-* **GaussianWorld**: Gaussian World Model for Streaming 3D Occupancy Prediction. **`CVPR 25`** \[[Paper](https://arxiv.org/abs/2412.10373)] \[[Code](https://github.com/zuosc19/GaussianWorld) ⭐ 176 | 🐛 5 | 🌐 Python | 📅 2025-12-04]
+* **GaussianWorld**: Gaussian World Model for Streaming 3D Occupancy Prediction. **`CVPR 25`** \[[Paper](https://arxiv.org/abs/2412.10373)] \[[Code](https://github.com/zuosc19/GaussianWorld) ⭐ 177 | 🐛 5 | 🌐 Python | 📅 2025-12-04]
 * **VaViM and VaVAM**: Autonomous Driving through Video Generative Modeling.  **`arXiv 25.2`** \[[Paper](https://arxiv.org/abs/2502.15672)] \[[Code](https://github.com/valeoai/VideoActionModel) ⭐ 170 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-03]
 * \[**UMGen**] Generating Multimodal Driving Scenes via Next-Scene Prediction. **`CVPR 25`** \[[Paper](https://arxiv.org/abs/2503.14945)] \[[Project](https://yanhaowu.github.io/UMGen/)] \[[Code](https://github.com/YanhaoWu/UMGen/) ⭐ 109 | 🐛 6 | 🌐 Python | 📅 2025-11-07]
 * **From Forecasting to Planning**: Policy World Model for Collaborative State-Action Prediction. **`NeurIPS 25`** \[[Paper](https://arxiv.org/abs/2510.19654)] \[[Code](https://github.com/6550Zhao/Policy-World-Model) ⭐ 79 | 🐛 10 | 🌐 Python | 📅 2026-06-26]
@@ -335,17 +335,17 @@ If you find this repository useful in your research, please kindly consider givi
 
 ### 2024
 
-* **MagicDrive**: Street View Generation with Diverse 3D Geometry Control. **`ICLR 24`** \[[Paper](https://arxiv.org/abs/2310.02601)] \[[Code](https://github.com/cure-lab/MagicDrive) ⭐ 1,168 | 🐛 8 | 🌐 Python | 📅 2025-04-21]
-* **Vista**: A Generalizable Driving World Model with High Fidelity and Versatile Controllability. **`NeurIPS 24`** \[[Paper](https://arxiv.org/abs/2405.17398)] \[[Code](https://github.com/OpenDriveLab/Vista) ⭐ 906 | 🐛 23 | 🌐 Python | 📅 2025-07-02]
+* **MagicDrive**: Street View Generation with Diverse 3D Geometry Control. **`ICLR 24`** \[[Paper](https://arxiv.org/abs/2310.02601)] \[[Code](https://github.com/cure-lab/MagicDrive) ⭐ 1,165 | 🐛 8 | 🌐 Python | 📅 2025-04-21]
+* **Vista**: A Generalizable Driving World Model with High Fidelity and Versatile Controllability. **`NeurIPS 24`** \[[Paper](https://arxiv.org/abs/2405.17398)] \[[Code](https://github.com/OpenDriveLab/Vista) ⭐ 907 | 🐛 23 | 🌐 Python | 📅 2025-07-02]
 * \[**GenAD**] Generalized Predictive Model for Autonomous Driving. **`CVPR 24`** \[[Paper](https://arxiv.org/abs/2403.09630)] \[[Data](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file#genad-dataset-opendv-youtube) ⭐ 807 | 🐛 13 | 🌐 Python | 📅 2026-02-27]
 * **DriveDreamer**: Towards Real-world-driven World Models for Autonomous Driving. **`ECCV 24`** \[[Paper](https://arxiv.org/abs/2309.09777)] \[[Code](https://github.com/JeffWang987/DriveDreamer) ⭐ 595 | 🐛 24 | 🌐 Python | 📅 2024-11-29]
 * **OccWorld**: Learning a 3D Occupancy World Model for Autonomous Driving. **`ECCV 24`** \[[Paper](https://arxiv.org/abs/2311.16038)] \[[Code](https://github.com/wzzheng/OccWorld) ⭐ 589 | 🐛 25 | 🌐 Python | 📅 2024-04-12]
 * **DrivingDiffusion**: Layout-Guided multi-view driving scene video generation with latent diffusion model. **`ECCV 24`** \[[Paper](https://arxiv.org/abs/2310.07771)] \[[Code](https://github.com/shalfun/DrivingDiffusion) ⭐ 565 | 🐛 12 | 🌐 Python | 📅 2023-12-15]
 * \[**Drive-WM**] Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving. **`CVPR 24`** \[[Paper](https://arxiv.org/abs/2311.17918)] \[[Code](https://github.com/BraveGroup/Drive-WM) ⭐ 439 | 🐛 8 | 🌐 Python | 📅 2023-12-07]
-* **UniMLVG**: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving. **`arXiv 24.12`** \[[Paper](https://arxiv.org/abs/2412.04842)] \[[Project](https://sensetime-fvg.github.io/UniMLVG/)] \[[Code](https://github.com/SenseTime-FVG/OpenDWM) ⭐ 422 | 🐛 38 | 🌐 Python | 📅 2025-06-19]
-* \[**LAW**] Enhancing End-to-End Autonomous Driving with Latent World Model. **`arXiv 24.6`** \[[Paper](https://arxiv.org/abs/2406.08481)] \[[Code](https://github.com/BraveGroup/LAW) ⭐ 393 | 🐛 22 | 🌐 Python | 📅 2025-06-29]
+* **UniMLVG**: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving. **`arXiv 24.12`** \[[Paper](https://arxiv.org/abs/2412.04842)] \[[Project](https://sensetime-fvg.github.io/UniMLVG/)] \[[Code](https://github.com/SenseTime-FVG/OpenDWM) ⭐ 423 | 🐛 38 | 🌐 Python | 📅 2025-06-19]
+* \[**LAW**] Enhancing End-to-End Autonomous Driving with Latent World Model. **`arXiv 24.6`** \[[Paper](https://arxiv.org/abs/2406.08481)] \[[Code](https://github.com/BraveGroup/LAW) ⭐ 392 | 🐛 22 | 🌐 Python | 📅 2025-06-29]
 * **CarDreamer**: Open-Source Learning Platform for World Model based Autonomous Driving. **`arXiv 24.5`** \[[Paper](https://arxiv.org/abs/2405.09111)] \[[Code](https://github.com/ucd-dare/CarDreamer) ⭐ 374 | 🐛 3 | 🌐 Python | 📅 2025-12-12]
-* \[**ViDAR**] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. **`CVPR 24`** \[[Paper](https://arxiv.org/abs/2312.17655)] \[[Code](https://github.com/OpenDriveLab/ViDAR) ⭐ 353 | 🐛 13 | 🌐 Python | 📅 2025-07-02]
+* \[**ViDAR**] Visual Point Cloud Forecasting enables Scalable Autonomous Driving. **`CVPR 24`** \[[Paper](https://arxiv.org/abs/2312.17655)] \[[Code](https://github.com/OpenDriveLab/ViDAR) ⭐ 353 | 🐛 14 | 🌐 Python | 📅 2025-07-02]
 * **Cam4DOCC**: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications. **`CVPR 24`** \[[Paper](https://arxiv.org/abs/2311.17663)] \[[Code](https://github.com/haomo-ai/Cam4DOcc) ⭐ 293 | 🐛 12 | 🌐 Python | 📅 2024-05-13]
 * **DrivingWorld**: Constructing World Model for Autonomous Driving via Video GPT. **`arXiv 24.12`** \[[Paper](https://arxiv.org/abs/2412.19505)] \[[Code](https://github.com/YvanYin/DrivingWorld) ⭐ 245 | 🐛 5 | 🌐 Python | 📅 2025-01-15]
 * **OccSora**: 4D Occupancy Generation Models as World Simulators for Autonomous Driving. **`arXiv 24.5`** \[[Paper](https://arxiv.org/abs/2405.20337)] \[[Code](https://github.com/wzzheng/OccSora) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2024-05-31]
@@ -415,14 +415,14 @@ If you find this repository useful in your research, please kindly consider givi
 
 ### 2026
 
-* \[**Lingbot-World**] Advancing Open-source World Models. **`arXiv 26.1`** \[[Paper](https://arxiv.org/abs/2601.20540)] \[[Code](https://github.com/robbyant/lingbot-world) ⭐ 4,513 | 🐛 41 | 🌐 Python | 📅 2026-07-09]
-* \[**Helios**] Real Real-Time Long Video Generation Model. **`arXiv 26.3`** \[[Paper](https://arxiv.org/abs/2603.04379)] \[[Code](https://github.com/PKU-YuanGroup/Helios) ⭐ 2,194 | 🐛 43 | 🌐 Python | 📅 2026-08-24] \[[Project](https://pku-yuangroup.github.io/Helios-Page/)]
-* \[**Lingbot-VA**] Causal World Modeling for Robot Control. **`arXiv 26.1`** \[[Paper](https://arxiv.org/abs/2601.21998)] \[[Code](https://github.com/robbyant/lingbot-va) ⭐ 1,926 | 🐛 76 | 🌐 Python | 📅 2026-07-09]
-* **Agent World Model**: Infinity Synthetic Environments for Agentic Reinforcement Learning. **`arXiv 26.2`** \[[Paper](https://arxiv.org/abs/2602.10090)] \[[Code](https://github.com/Snowflake-Labs/agent-world-model) ⭐ 465 | 🐛 6 | 🌐 Python | 📅 2026-05-28]
+* \[**Lingbot-World**] Advancing Open-source World Models. **`arXiv 26.1`** \[[Paper](https://arxiv.org/abs/2601.20540)] \[[Code](https://github.com/robbyant/lingbot-world) ⭐ 4,515 | 🐛 41 | 🌐 Python | 📅 2026-07-09]
+* \[**Helios**] Real Real-Time Long Video Generation Model. **`arXiv 26.3`** \[[Paper](https://arxiv.org/abs/2603.04379)] \[[Code](https://github.com/PKU-YuanGroup/Helios) ⭐ 2,196 | 🐛 43 | 🌐 Python | 📅 2026-08-24] \[[Project](https://pku-yuangroup.github.io/Helios-Page/)]
+* \[**Lingbot-VA**] Causal World Modeling for Robot Control. **`arXiv 26.1`** \[[Paper](https://arxiv.org/abs/2601.21998)] \[[Code](https://github.com/robbyant/lingbot-va) ⭐ 1,927 | 🐛 76 | 🌐 Python | 📅 2026-07-09]
+* **Agent World Model**: Infinity Synthetic Environments for Agentic Reinforcement Learning. **`arXiv 26.2`** \[[Paper](https://arxiv.org/abs/2602.10090)] \[[Code](https://github.com/Snowflake-Labs/agent-world-model) ⭐ 467 | 🐛 6 | 🌐 Python | 📅 2026-05-28]
 * \[**VEGA-3D**] Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding. **`ECCV 26`** \[[Paper](https://arxiv.org/abs/2603.19235)] \[[Code](https://github.com/H-EmbodVis/VEGA-3D) ⭐ 425 | 🐛 5 | 🌐 Python | 📅 2026-06-18]
-* \[**HyDRA**] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. **`arXiv 26.3`** \[[Paper](https://arxiv.org/abs/2603.25716)] \[[Code](https://github.com/H-EmbodVis/HyDRA) ⭐ 282 | 🐛 1 | 🌐 Python | 📅 2026-07-23] \[[Project](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/)]
-* **R2-Dreamer**: Redundancy-Reduced World Models without Decoders or Augmentation. **`ICLR 26`** \[[Paper](https://arxiv.org/abs/2603.18202)] \[[Code](https://github.com/NM512/r2dreamer) ⭐ 189 | 🐛 3 | 🌐 Python | 📅 2026-05-31]
-* \[**SeqWM**] Empowering Multi-Robot Cooperation via Sequential World Models. **`ICLR 26`** \[[Paper](https://arxiv.org/abs/2509.13095)] \[[Code](https://github.com/zhaozijie2022/seqwm) ⭐ 121 | 🐛 3 | 🌐 Python | 📅 2026-10-03]
+* \[**HyDRA**] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. **`arXiv 26.3`** \[[Paper](https://arxiv.org/abs/2603.25716)] \[[Code](https://github.com/H-EmbodVis/HyDRA) ⭐ 284 | 🐛 1 | 🌐 Python | 📅 2026-07-23] \[[Project](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/)]
+* **R2-Dreamer**: Redundancy-Reduced World Models without Decoders or Augmentation. **`ICLR 26`** \[[Paper](https://arxiv.org/abs/2603.18202)] \[[Code](https://github.com/NM512/r2dreamer) ⭐ 190 | 🐛 3 | 🌐 Python | 📅 2026-05-31]
+* \[**SeqWM**] Empowering Multi-Robot Cooperation via Sequential World Models. **`ICLR 26`** \[[Paper](https://arxiv.org/abs/2509.13095)] \[[Code](https://github.com/zhaozijie2022/seqwm) ⭐ 122 | 🐛 3 | 🌐 Python | 📅 2026-10-03]
 * Inference-time Physics Alignment of Video Generative Models with Latent World Models. **`CVPR 26`** \[[Paper](https://arxiv.org/abs/2601.10553)] \[[Code](https://github.com/facebookresearch/WMReward) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2026-07-17]
 * **MIND**: Benchmarking Memory Consistency and Action Control in World Models. **`arXiv 26.2`** \[[Paper](https://arxiv.org/abs/2602.08025)] \[[Code](https://github.com/CSU-JPG/MIND) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2026-07-02]
 * **DreamX-Phi 1.0**: Action-Conditioned Video World Model for Robotic Manipulation. **`arXiv 26.8`** \[[Paper](https://arxiv.org/abs/2608.13489)] \[[Code](https://github.com/AMAP-ML/DreamX-Phi) ⭐ 68 | 🐛 1 | 📅 2026-09-07]
@@ -739,15 +739,15 @@ If you find this repository useful in your research, please kindly consider givi
 
 ### 2025
 
-* **Cosmos** World Foundation Model Platform for Physical AI. **`NVIDIA`** **`arXiv 25.1`** \[[Paper](https://d1qx31qr3h6wln.cloudfront.net/publications/NVIDIA%20Cosmos_4.pdf)] \[[Code](https://github.com/NVIDIA/Cosmos) ⭐ 11,990 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2026-10-07]
-* \[**DreamerV3**] Mastering Diverse Domains through World Models. **`Nature`** \[[Paper](https://www.nature.com/articles/s41586-025-08744-2)] \[[JAX Code](https://github.com/danijar/dreamerv3) ⭐ 3,853 | 🐛 70 | 🌐 Python | 📅 2026-10-04]
-* **HunyuanWorld 1.0**: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. **`25.7`** \[[Paper](https://3d-models.hunyuan.tencent.com/world/HY_World_1_technical_report.pdf)] \[[Code](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) ⭐ 2,942 | 🐛 35 | 🌐 Python | 📅 2026-04-15]
-* **LongLive**: Real-time Interactive Long Video Generation. **`arXiv 25.9`** \[[Paper](https://arxiv.org/abs/2509.22622)] \[[Code](https://github.com/NVlabs/LongLive) ⭐ 2,691 | 🐛 22 | 🌐 Python | 📅 2026-10-08]
-* **Matrix-Game 2.0**: An Open-Source, Real-Time, and Streaming Interactive World Model. **`arXiv 25.8`** \[[Paper](https://arxiv.org/abs/2508.13009)] \[[Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) ⭐ 2,346 | 🐛 35 | 🌐 Python | 📅 2026-09-29]
+* **Cosmos** World Foundation Model Platform for Physical AI. **`NVIDIA`** **`arXiv 25.1`** \[[Paper](https://d1qx31qr3h6wln.cloudfront.net/publications/NVIDIA%20Cosmos_4.pdf)] \[[Code](https://github.com/NVIDIA/Cosmos) ⭐ 11,999 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2026-10-08]
+* \[**DreamerV3**] Mastering Diverse Domains through World Models. **`Nature`** \[[Paper](https://www.nature.com/articles/s41586-025-08744-2)] \[[JAX Code](https://github.com/danijar/dreamerv3) ⭐ 3,855 | 🐛 74 | 🌐 Python | 📅 2026-10-04]
+* **HunyuanWorld 1.0**: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. **`25.7`** \[[Paper](https://3d-models.hunyuan.tencent.com/world/HY_World_1_technical_report.pdf)] \[[Code](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) ⭐ 2,943 | 🐛 35 | 🌐 Python | 📅 2026-04-15]
+* **LongLive**: Real-time Interactive Long Video Generation. **`arXiv 25.9`** \[[Paper](https://arxiv.org/abs/2509.22622)] \[[Code](https://github.com/NVlabs/LongLive) ⭐ 2,725 | 🐛 2 | 🌐 Python | 📅 2026-10-09]
+* **Matrix-Game 2.0**: An Open-Source, Real-Time, and Streaming Interactive World Model. **`arXiv 25.8`** \[[Paper](https://arxiv.org/abs/2508.13009)] \[[Code](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) ⭐ 2,345 | 🐛 35 | 🌐 Python | 📅 2026-09-29]
 * **UnifoLM-WMA-0**: A World-Model-Action (WMA) Framework under UnifoLM Family. **`Unitree`** \[[Code](https://github.com/unitreerobotics/unifolm-world-model-action) ⭐ 1,163 | 🐛 19 | 🌐 Python | 📅 2026-03-18]
-* **WorldVLA**: Towards Autoregressive Action World Model. **`arXiv 25.6`** \[[Paper](https://arxiv.org/abs/2506.21539)] \[[Code](https://github.com/alibaba-damo-academy/WorldVLA) ⭐ 1,136 | 🐛 8 | 🌐 Python | 📅 2025-12-02]
+* **WorldVLA**: Towards Autoregressive Action World Model. **`arXiv 25.6`** \[[Paper](https://arxiv.org/abs/2506.21539)] \[[Code](https://github.com/alibaba-damo-academy/WorldVLA) ⭐ 1,137 | 🐛 8 | 🌐 Python | 📅 2025-12-02]
 * **Cosmos-Transfer1** **`arXiv 25.3`** \[[Paper](https://arxiv.org/abs/2503.14492)] \[[Code](https://github.com/nvidia-cosmos/cosmos-transfer1) ⭐ 827 | 🐛 23 | 🌐 Python | 📅 2026-06-07]
-* **Yume**: An Interactive World Generation Model. **`arXiv 25.7`** \[[Paper](https://arxiv.org/abs/2507.17744)] \[[Code](https://github.com/stdstu12/YUME) ⭐ 683 | 🐛 18 | 🌐 Python | 📅 2026-01-14]
+* **Yume**: An Interactive World Generation Model. **`arXiv 25.7`** \[[Paper](https://arxiv.org/abs/2507.17744)] \[[Code](https://github.com/stdstu12/YUME) ⭐ 682 | 🐛 18 | 🌐 Python | 📅 2026-01-14]
 * **MineWorld**: a Real-Time and Open-Source Interactive World Model on Minecraft. **`arXiv 25.4`** \[[Paper](https://arxiv.org/abs/2504.08388)] \[[Code](https://github.com/microsoft/MineWorld) ⭐ 494 | 🐛 9 | 🌐 Python | 📅 2026-05-08]
 * **Astra**: General Interactive World Model with Autoregressive Denoising. **`arXiv 25.12`** \[[Paper](https://arxiv.org/abs/2512.08931)] \[[Code](https://github.com/EternalEvan/Astra) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2026-06-09]
 * **LLM-JEPA**: Large Language Models Meet Joint Embedding Predictive Architectures. **`arXiv 25.9`** \[[Paper](https://arxiv.org/abs/2509.14252v1)] \[[Code](https://github.com/rbalestr-lab/llm-jepa) ⭐ 340 | 🐛 2 | 🌐 Python | 📅 2026-04-15]
@@ -1011,15 +1011,15 @@ If you find this repository useful in your research, please kindly consider givi
 
 ### 2024
 
-* \[**LWM**] World Model on Million-Length Video And Language With RingAttention. **`arXiv 24.2`**  \[[Paper](https://arxiv.org/abs/2402.08268)] \[[Code](https://github.com/LargeWorldModel/LWM) ⭐ 7,426 | 🐛 59 | 🌐 Python | 📅 2024-10-19]
+* \[**LWM**] World Model on Million-Length Video And Language With RingAttention. **`arXiv 24.2`**  \[[Paper](https://arxiv.org/abs/2402.08268)] \[[Code](https://github.com/LargeWorldModel/LWM) ⭐ 7,427 | 🐛 59 | 🌐 Python | 📅 2024-10-19]
 * **V-JEPA**: Video Joint Embedding Predictive Architecture. **`Meta AI`** **`Yann LeCun`** \[[Blog](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)] \[[Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)] \[[Code](https://github.com/facebookresearch/jepa) ⭐ 4,173 | 🐛 65 | 🌐 Python | 📅 2025-02-27]
-* \[**Diamond**] Diffusion for World Modeling: Visual Details Matter in Atari. **`NeurIPS 24`**  \[[Paper](https://arxiv.org/abs/2405.12399)] \[[Code](https://github.com/eloialonso/diamond) ⭐ 2,112 | 🐛 11 | 🌐 Python | 📅 2024-12-06]
+* \[**Diamond**] Diffusion for World Modeling: Visual Details Matter in Atari. **`NeurIPS 24`**  \[[Paper](https://arxiv.org/abs/2405.12399)] \[[Code](https://github.com/eloialonso/diamond) ⭐ 2,113 | 🐛 11 | 🌐 Python | 📅 2024-12-06]
 * **MagicTime**: Time-lapse Video Generation Models as Metamorphic Simulators. **`arXiv 24.4`**  \[[Paper](https://arxiv.org/abs/2404.05014)] \[[Code](https://github.com/PKU-YuanGroup/MagicTime) ⭐ 1,337 | 🐛 10 | 🌐 Python | 📅 2026-04-14]
-* **TD-MPC2**: Scalable, Robust World Models for Continuous Control. **`ICLR 24`** \[[Paper](https://arxiv.org/pdf/2310.16828)] \[[Torch Code](https://github.com/nicklashansen/tdmpc2) ⭐ 977 | 🐛 11 | 🌐 Python | 📅 2026-07-13]
+* **TD-MPC2**: Scalable, Robust World Models for Continuous Control. **`ICLR 24`** \[[Paper](https://arxiv.org/pdf/2310.16828)] \[[Torch Code](https://github.com/nicklashansen/tdmpc2) ⭐ 978 | 🐛 11 | 🌐 Python | 📅 2026-07-13]
 * **Pandora**: Towards General World Model with Natural Language Actions and Video States. \[[Paper](https://world-model.maitrix.org/assets/pandora.pdf)] \[[Code](https://github.com/maitrix-org/Pandora) ⭐ 539 | 🐛 4 | 🌐 Python | 📅 2024-09-23]
 * **AVID**: Adapting Video Diffusion Models to World Models. **`arXiv 24.10`** \[[Paper](https://arxiv.org/abs/2410.12822)] \[[Code](https://github.com/microsoft/causica/tree/main/research_experiments/avid) ⭐ 538 | 🐛 80 | 🌐 Python | 📅 2026-10-08]
-* \[**R2I**] Mastering Memory Tasks with World Models. **`ICLR 24`** \[[Paper](http://arxiv.org/pdf/2403.04253)] \[[JAX Code](https://github.com/OpenDriveLab/ViDAR) ⭐ 353 | 🐛 13 | 🌐 Python | 📅 2025-07-02]
-* **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation. **`ECCV 24`** \[[Paper](https://arxiv.org/abs/2403.08321)] \[[Code](https://github.com/GuanxingLu/ManiGaussian) ⭐ 283 | 🐛 18 | 🌐 Python | 📅 2026-03-29]
+* \[**R2I**] Mastering Memory Tasks with World Models. **`ICLR 24`** \[[Paper](http://arxiv.org/pdf/2403.04253)] \[[JAX Code](https://github.com/OpenDriveLab/ViDAR) ⭐ 353 | 🐛 14 | 🌐 Python | 📅 2025-07-02]
+* **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation. **`ECCV 24`** \[[Paper](https://arxiv.org/abs/2403.08321)] \[[Code](https://github.com/GuanxingLu/ManiGaussian) ⭐ 284 | 🐛 18 | 🌐 Python | 📅 2026-03-29]
 * **StoryWeaver**: A Unified World Model for Knowledge-Enhanced Story Character Customization. **`arXiv 24.12`** \[[Paper](https://arxiv.org/abs/2412.07375)] \[[Code](https://github.com/Aria-Zhangjl/StoryWeaver) ⭐ 227 | 🐛 3 | 🌐 Python | 📅 2026-07-18]
 * **WorldDreamer**: Towards General World Models for Video Generation via Predicting Masked Tokens. **`arXiv 24.1`** \[[Paper](https://arxiv.org/abs/2401.09985)] \[[Code](https://github.com/JeffWang987/WorldDreamer) ⭐ 208 | 🐛 4 | 📅 2024-01-19]
 * **PreLAR**: World Model Pre-training with Learnable Action Representation. **`ECCV 24`** \[[Paper](https://www.ecva.net/papers/eccv_24/papers_ECCV/papers/03363.pdf)] \[[Code](https://github.com/zhanglixuan0720/PreLAR) ⭐ 171 | 🐛 0 | 🌐 Python | 📅 2025-04-15]
@@ -1103,7 +1103,7 @@ If you find this repository useful in your research, please kindly consider givi
 
 * \[**IRIS**] Transformers are Sample Efficient World Models. **`ICLR 23 Oral`** \[[Paper](https://arxiv.org/pdf/2209.00588)] \[[Torch Code](https://github.com/eloialonso/iris) ⭐ 903 | 🐛 3 | 🌐 Python | 📅 2024-10-14]
 * \[**Dynalang**] Learning to Model the World with Language. **`arXiv 23.8`** \[[Paper](https://arxiv.org/pdf/2308.01399)] \[[Code](https://github.com/jlin816/dynalang) ⭐ 420 | 🐛 1 | 🌐 Python | 📅 2026-01-07]
-* **STORM**: Efficient Stochastic Transformer based World Models for Reinforcement Learning. **`NIPS 23`** \[[Paper](https://arxiv.org/pdf/2310.09615)] \[[Torch Code](https://github.com/weipu-zhang/STORM) ⭐ 142 | 🐛 4 | 🌐 Python | 📅 2026-03-18]
+* **STORM**: Efficient Stochastic Transformer based World Models for Reinforcement Learning. **`NIPS 23`** \[[Paper](https://arxiv.org/pdf/2310.09615)] \[[Torch Code](https://github.com/weipu-zhang/STORM) ⭐ 141 | 🐛 4 | 🌐 Python | 📅 2026-03-18]
 * \[**TWM**] Transformer-based World Models Are Happy with 100k Interactions. **`ICLR 23`** \[[Paper](https://arxiv.org/pdf/2303.07109)] \[[Torch Code](https://github.com/jrobine/twm) ⭐ 90 | 🐛 5 | 🌐 Python | 📅 2023-04-04]
 * **FOCUS**: Object-Centric World Models for Robotics Manipulation **`arXiv 23.7`** \[[Paper](https://arxiv.org/abs/2307.02427)] \[[Code](https://github.com/StefanoFerraro/FOCUS) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2025-08-26]
 * \[**TAD**] Task Aware Dreamer for Task Generalization in Reinforcement Learning. **`arXiv 23.3`** \[[Paper](https://arxiv.org/pdf/2303.05092)]
@@ -1119,7 +1119,7 @@ If you find this repository useful in your research, please kindly consider givi
 
 ### 2021
 
-* \[**DreamerV2**] Mastering Atari with Discrete World Models. **`ICLR 21`** \[[Paper](https://arxiv.org/pdf/2010.02193)] \[[TF Code](https://github.com/danijar/dreamerv2) ⭐ 1,060 | 🐛 11 | 🌐 Python | 📅 2023-01-21] \[[Torch Code](https://github.com/jsikyoon/dreamer-torch) ⭐ 143 | 🐛 4 | 🌐 Python | 📅 2022-02-07]
+* \[**DreamerV2**] Mastering Atari with Discrete World Models. **`ICLR 21`** \[[Paper](https://arxiv.org/pdf/2010.02193)] \[[TF Code](https://github.com/danijar/dreamerv2) ⭐ 1,062 | 🐛 11 | 🌐 Python | 📅 2023-01-21] \[[Torch Code](https://github.com/jsikyoon/dreamer-torch) ⭐ 143 | 🐛 4 | 🌐 Python | 📅 2022-02-07]
 * **Dreaming**: Model-based Reinforcement Learning by Latent Imagination without Reconstruction. **`ICRA 21`** \[[Paper](https://arxiv.org/pdf/2007.14535)]
 
 ### 2020
@@ -1133,4 +1133,4 @@ If you find this repository useful in your research, please kindly consider givi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
