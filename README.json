@@ -18,7 +18,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-10T02:53:35Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
                 "stars": 2182,
@@ -49,8 +49,8 @@
                 "id": 1005844732,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T00:34:22Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-10T09:08:44Z",
+                "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
                 "stars": 996,
@@ -286,7 +286,7 @@
                 "open_issues": 0,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 369,
+                "stars": 371,
                 "topics": [
                   "autonoumous-driving",
                   "vision-language-action-model",
@@ -311,7 +311,7 @@
                 "open_issues": 3,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 194,
+                "stars": 197,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -437,7 +437,7 @@
                 "open_issues": 2,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 63,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-10-02T20:40:56.237Z"
@@ -462,6 +462,35 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OccStress: Stress-Testing the 4D Occupancy Forecasting Chain. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] Official implementations, benchmark tools, and evaluation protocols of \"OccStress: Stress-Testing the 4D Occupancy Forecasting Chain\".",
+                "homepage": "https://insailab.org/OccStress",
+                "id": 1405367816,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-06T19:08:10Z",
+                "open_issues": 0,
+                "owner": "InSAI-Lab",
+                "repo": "OccStress",
+                "stars": 2,
+                "topics": [
+                  "autonomous-driving",
+                  "benchmark",
+                  "neurips2026",
+                  "occupancy-forecasting",
+                  "occupancy-prediction",
+                  "robustness",
+                  "world-model"
+                ]
+              },
+              "first_seen": "2026-10-10T20:02:18.985Z"
             }
           ],
           "description": null,
@@ -586,7 +615,7 @@
                 "open_issues": 19,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1195,7 +1224,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1361,7 +1390,7 @@
                 "open_issues": 12,
                 "owner": "haomo-ai",
                 "repo": "Cam4DOcc",
-                "stars": 293,
+                "stars": 298,
                 "topics": [
                   "3d-occupancy",
                   "3d-occupancy-prediction",
@@ -1511,6 +1540,34 @@
             },
             {
               "node_type": "item",
+              "title": "SafeDreamer: Safe Reinforcement Learning with World Models. [Paper",
+              "description": "PKU-Alignment/SafeDreamer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ICLR 2024: SafeDreamer: Safe Reinforcement Learning with World Models",
+                "homepage": "https://sites.google.com/view/safedreamer",
+                "id": 744406105,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-04-08T02:08:21Z",
+                "open_issues": 1,
+                "owner": "PKU-Alignment",
+                "repo": "SafeDreamer",
+                "stars": 113,
+                "topics": [
+                  "constraint-rl",
+                  "constraint-satisfaction-problem",
+                  "reinforcement-learning",
+                  "safe-policy-optimization",
+                  "safe-reinforcement-learning",
+                  "safety-critical-systems"
+                ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
               "title": "Doe-1: Closed-Loop Autonomous Driving with Large World Model. [Paper",
               "description": "wzzheng/Doe",
               "children": [],
@@ -1527,34 +1584,6 @@
                 "repo": "Doe",
                 "stars": 113,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SafeDreamer: Safe Reinforcement Learning with World Models. [Paper",
-              "description": "PKU-Alignment/SafeDreamer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ICLR 2024: SafeDreamer: Safe Reinforcement Learning with World Models",
-                "homepage": "https://sites.google.com/view/safedreamer",
-                "id": 744406105,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-04-08T02:08:21Z",
-                "open_issues": 1,
-                "owner": "PKU-Alignment",
-                "repo": "SafeDreamer",
-                "stars": 112,
-                "topics": [
-                  "constraint-rl",
-                  "constraint-satisfaction-problem",
-                  "reinforcement-learning",
-                  "safe-policy-optimization",
-                  "safe-reinforcement-learning",
-                  "safety-critical-systems"
-                ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
             },
@@ -1752,7 +1781,7 @@
                 "open_issues": 26,
                 "owner": "wayveai",
                 "repo": "mile",
-                "stars": 437,
+                "stars": 436,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1786,12 +1815,43 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4515,
+                "stars": 4519,
                 "topics": [
                   "aigc",
                   "image-to-video",
                   "lingbot-world",
                   "video-generation",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Long-WAM: Scaling the Context of World-Action Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Long Video Gen / World Model / World Action Model (Embodied) Infrastructure",
+                "homepage": "https://nvlabs.github.io/LongLive",
+                "id": 1062167576,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-09T09:59:44Z",
+                "open_issues": 2,
+                "owner": "NVlabs",
+                "repo": "LongLive",
+                "stars": 2741,
+                "topics": [
+                  "infra",
+                  "long",
+                  "nvfp4",
+                  "parallel",
+                  "real-time",
+                  "robotics",
+                  "video-generation",
+                  "world-action-models",
                   "world-models"
                 ]
               },
@@ -1855,7 +1915,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1927,
+                "stars": 1929,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1952,6 +2012,35 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OpenWAM: An Open Framework for Composable World-Action Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code for \"OpenWAM: An Open Framework for Composable World-Action Models\" (Stanford University)",
+                "homepage": "https://openwam.stanford.edu",
+                "id": 1263403926,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-10T15:24:05Z",
+                "open_issues": 7,
+                "owner": "OpenWAM",
+                "repo": "OpenWAM",
+                "stars": 173,
+                "topics": [
+                  "dynamics-learning",
+                  "pretrained-models",
+                  "robot-learning",
+                  "robotics",
+                  "video-generation",
+                  "world-action-models",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-10T20:02:18.985Z"
             },
             {
               "node_type": "item",
@@ -2181,6 +2270,48 @@
             },
             {
               "node_type": "item",
+              "title": "ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning. [Paper",
+              "description": "] [Code] [Blog]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learning for effective and efficient bilevel planning",
+                "homepage": null,
+                "id": 924105199,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-10T19:03:22Z",
+                "open_issues": 22,
+                "owner": "BasisResearch",
+                "repo": "predicators",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T20:02:18.985Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learning for effective and efficient bilevel planning",
+                "homepage": null,
+                "id": 924105199,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-10T19:03:22Z",
+                "open_issues": 22,
+                "owner": "BasisResearch",
+                "repo": "predicators",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T20:02:18.985Z"
+            },
+            {
+              "node_type": "item",
               "title": "From Generation to Simulation: How Far Are World Models from Being True Simulators? [Paper",
               "description": "AtongWang/world-model-simulators",
               "children": [],
@@ -2341,7 +2472,7 @@
                 "open_issues": 61,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11999,
+                "stars": 12005,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2362,7 +2493,7 @@
                 "open_issues": 74,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3855,
+                "stars": 3859,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2390,7 +2521,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2943,
+                "stars": 2944,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2421,7 +2552,7 @@
                 "open_issues": 2,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2725,
+                "stars": 2741,
                 "topics": [
                   "infra",
                   "long",
@@ -2452,7 +2583,7 @@
                 "open_issues": 35,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2345,
+                "stars": 2348,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -2503,7 +2634,7 @@
                 "open_issues": 8,
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2579,6 +2710,27 @@
             },
             {
               "node_type": "item",
+              "title": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures. [Paper",
+              "description": "galilai-group/llm-jepa",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1050810441,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-15T18:36:24Z",
+                "open_issues": 2,
+                "owner": "galilai-group",
+                "repo": "llm-jepa",
+                "stars": 341,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
               "title": "Astra: General Interactive World Model with Autoregressive Denoising. [Paper",
               "description": "EternalEvan/Astra",
               "children": [],
@@ -2598,27 +2750,6 @@
                   "video-generation",
                   "world-model"
                 ]
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures. [Paper",
-              "description": "galilai-group/llm-jepa",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1050810441,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-04-15T18:36:24Z",
-                "open_issues": 2,
-                "owner": "galilai-group",
-                "repo": "llm-jepa",
-                "stars": 340,
-                "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
             },
@@ -2986,6 +3117,27 @@
             },
             {
               "node_type": "item",
+              "title": "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning. [Paper",
+              "description": "BasisResearch/predicators",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learning for effective and efficient bilevel planning",
+                "homepage": null,
+                "id": 924105199,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-10T19:03:22Z",
+                "open_issues": 22,
+                "owner": "BasisResearch",
+                "repo": "predicators",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T20:02:18.985Z"
+            },
+            {
+              "node_type": "item",
               "title": "[LoopNav] Toward Memory-Aided World Models: Benchmarking via Spatial Consistency. [Paper",
               "description": "] [Code] [Data]",
               "children": [],
@@ -3065,7 +3217,7 @@
                 "id": 924367412,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-20T06:02:15Z",
+                "last_commit": "2026-10-10T07:45:15Z",
                 "open_issues": 1,
                 "owner": "leor-c",
                 "repo": "Simulus",
@@ -3181,7 +3333,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4173,
+                "stars": 4176,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3202,7 +3354,7 @@
                 "open_issues": 11,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2113,
+                "stars": 2115,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -3597,7 +3749,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-15T08:38:07Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "tsinghua-fib-lab",
                 "repo": "CityBench",
                 "stars": 54,
@@ -4014,7 +4166,7 @@
                 "open_issues": 7,
                 "owner": "danijar",
                 "repo": "daydreamer",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -4198,7 +4350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:50:44.337Z",
+    "last_updated": "2026-10-10T20:02:18.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4206,11 +4358,11 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-03T10:04:23Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-10T16:07:47Z",
+      "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2274,
+      "stars": 2277,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
@@ -4224,7 +4376,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "423ed09034df4a6cc6e916f12dcd44739aa4f427",
+    "original_repository_sha": "75ac80b479eeb456373c7483ade00ca0d37b8cf1",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
