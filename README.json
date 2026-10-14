@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2184,
+                "stars": 2186,
                 "topics": [
                   "agent",
                   "causality",
@@ -129,7 +129,7 @@
                 "open_issues": 0,
                 "owner": "minnie-lin",
                 "repo": "Awesome-Physics-Cognition-based-Video-Generation",
-                "stars": 328,
+                "stars": 330,
                 "topics": [
                   "3d",
                   "4d",
@@ -216,7 +216,7 @@
                 "open_issues": 4,
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-robustness",
@@ -371,7 +371,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-13T11:26:06Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "dtc111111",
                 "repo": "GaussianDWM",
                 "stars": 83,
@@ -392,7 +392,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-17T23:48:41Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "H-EmbodVis",
                 "repo": "HERMESV2",
                 "stars": 72,
@@ -434,7 +434,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T12:36:09Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
                 "stars": 58,
@@ -455,7 +455,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-27T06:59:49Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "zuosc19",
                 "repo": "Vega",
                 "stars": 43,
@@ -866,7 +866,7 @@
                 "open_issues": 3,
                 "owner": "MSunDYY",
                 "repo": "SparseWorld",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1313,7 +1313,7 @@
                 "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1334,7 +1334,7 @@
                 "open_issues": 3,
                 "owner": "ucd-dare",
                 "repo": "CarDreamer",
-                "stars": 375,
+                "stars": 376,
                 "topics": [
                   "autonomous-driving",
                   "foundation-models",
@@ -1415,7 +1415,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-01-15T04:19:03Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
                 "stars": 245,
@@ -1815,7 +1815,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4522,
+                "stars": 4527,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1842,7 +1842,7 @@
                 "open_issues": 1,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2777,
+                "stars": 2785,
                 "topics": [
                   "infra",
                   "long",
@@ -1873,7 +1873,7 @@
                 "open_issues": 44,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2204,
+                "stars": 2206,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -1915,7 +1915,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1934,
+                "stars": 1935,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2153,7 +2153,7 @@
                 "open_issues": 0,
                 "owner": "MarquisDarwin",
                 "repo": "EAWM",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2284,7 +2284,7 @@
                 "open_issues": 39,
                 "owner": "BasisResearch",
                 "repo": "predicators",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-10-10T20:02:18.985Z"
@@ -2305,7 +2305,7 @@
                 "open_issues": 39,
                 "owner": "BasisResearch",
                 "repo": "predicators",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-10-10T20:02:18.985Z"
@@ -2367,6 +2367,27 @@
             },
             {
               "node_type": "item",
+              "title": "No Gaussian Required: Contrastive Inverse Dynamics for JEPA World Models. [Paper",
+              "description": "jackboyla/action-contrastive-jepa",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AC-MTM: contrastive inverse dynamics for JEPA world models. Code for \"No Gaussian Required\".",
+                "homepage": "https://arxiv.org/abs/2608.17542",
+                "id": 1327644696,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-19T13:35:06Z",
+                "open_issues": 0,
+                "owner": "jackboyla",
+                "repo": "action-contrastive-jepa",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-30T19:17:56.585Z"
+            },
+            {
+              "node_type": "item",
               "title": "Towards a Belief-Based World Model for LLM Agents. [Paper",
               "description": "skumar-ml/belief-world-models",
               "children": [],
@@ -2385,27 +2406,6 @@
                 "topics": []
               },
               "first_seen": "2026-09-04T18:58:36.100Z"
-            },
-            {
-              "node_type": "item",
-              "title": "No Gaussian Required: Contrastive Inverse Dynamics for JEPA World Models. [Paper",
-              "description": "jackboyla/action-contrastive-jepa",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "AC-MTM: contrastive inverse dynamics for JEPA world models. Code for \"No Gaussian Required\".",
-                "homepage": "https://arxiv.org/abs/2608.17542",
-                "id": 1327644696,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-19T13:35:06Z",
-                "open_issues": 0,
-                "owner": "jackboyla",
-                "repo": "action-contrastive-jepa",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-30T19:17:56.585Z"
             },
             {
               "node_type": "item",
@@ -2469,10 +2469,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-13T12:15:52Z",
-                "open_issues": 61,
+                "open_issues": 65,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12028,
+                "stars": 12037,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2493,7 +2493,7 @@
                 "open_issues": 74,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3870,
+                "stars": 3880,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2521,7 +2521,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2946,
+                "stars": 2948,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2552,7 +2552,7 @@
                 "open_issues": 1,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2777,
+                "stars": 2785,
                 "topics": [
                   "infra",
                   "long",
@@ -2574,16 +2574,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
-                "homepage": "https://matrix-game-v3.github.io/",
+                "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
+                "homepage": "https://matrix-game-v4-0.github.io/page/",
                 "id": 978649191,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-29T12:49:47Z",
+                "last_commit": "2026-10-14T14:56:31Z",
                 "open_issues": 35,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2351,
+                "stars": 2364,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -2613,7 +2613,7 @@
                 "open_issues": 19,
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1164,
+                "stars": 1165,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2634,7 +2634,7 @@
                 "open_issues": 8,
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1138,
+                "stars": 1139,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3131,7 +3131,7 @@
                 "open_issues": 39,
                 "owner": "BasisResearch",
                 "repo": "predicators",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-10-10T20:02:18.985Z"
@@ -3333,7 +3333,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4179,
+                "stars": 4180,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3414,7 +3414,7 @@
                 "open_issues": 11,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 979,
+                "stars": 980,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -3456,7 +3456,7 @@
                 "id": 503315788,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T09:02:25Z",
+                "last_commit": "2026-10-14T17:54:40Z",
                 "open_issues": 80,
                 "owner": "microsoft",
                 "repo": "causica",
@@ -4350,7 +4350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:12:08.417Z",
+    "last_updated": "2026-10-14T20:10:43.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4358,7 +4358,7 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-13T16:49:22Z",
+      "last_commit": "2026-10-14T17:01:59Z",
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
@@ -4376,7 +4376,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "c03da9793b716bd8c13d24c5e32fceb872755600",
+    "original_repository_sha": "b866533da3164d878a461f8da4cf37d0f77fe540",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
