@@ -17,8 +17,8 @@
                 "id": 811638645,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-06-10T02:53:35Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-21T02:03:24Z",
+                "open_issues": 3,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
                 "stars": 2190,
@@ -49,7 +49,7 @@
                 "id": 1005844732,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T13:02:58Z",
+                "last_commit": "2026-10-21T10:29:46Z",
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
@@ -212,11 +212,11 @@
                 "id": 1193264999,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T13:06:15Z",
+                "last_commit": "2026-10-21T12:07:29Z",
                 "open_issues": 4,
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-robustness",
@@ -311,7 +311,7 @@
                 "open_issues": 3,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 197,
+                "stars": 198,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -392,7 +392,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-17T23:48:41Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "H-EmbodVis",
                 "repo": "HERMESV2",
                 "stars": 72,
@@ -752,7 +752,7 @@
                 "open_issues": 6,
                 "owner": "zuosc19",
                 "repo": "GaussianWorld",
-                "stars": 180,
+                "stars": 182,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1119,7 +1119,7 @@
                 "open_issues": 9,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1165,
+                "stars": 1166,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -1266,7 +1266,7 @@
                 "open_issues": 8,
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
-                "stars": 439,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1491,7 +1491,7 @@
                 "open_issues": 7,
                 "owner": "HorizonRobotics",
                 "repo": "GUMP",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1815,7 +1815,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4539,
+                "stars": 4541,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1839,10 +1839,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T05:45:32Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2816,
+                "stars": 2820,
                 "topics": [
                   "infra",
                   "long",
@@ -1873,7 +1873,7 @@
                 "open_issues": 44,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2218,
+                "stars": 2219,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -1915,7 +1915,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1944,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1936,7 +1936,7 @@
                 "open_issues": 6,
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 470,
+                "stars": 471,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1983,7 +1983,7 @@
                 "open_issues": 1,
                 "owner": "H-EmbodVis",
                 "repo": "HyDRA",
-                "stars": 285,
+                "stars": 286,
                 "topics": [
                   "video-generation",
                   "world-models",
@@ -2200,7 +2200,7 @@
                 "open_issues": 2,
                 "owner": "20robo",
                 "repo": "raenwm",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2280,8 +2280,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T03:08:31Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-21T20:04:16Z",
+                "open_issues": 63,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 22,
@@ -2301,8 +2301,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T03:08:31Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-21T20:04:16Z",
+                "open_issues": 63,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 22,
@@ -2466,13 +2466,13 @@
                 "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
                 "homepage": "https://www.nvidia.com/en-us/ai/cosmos/",
                 "id": 910176789,
-                "language": "Jupyter Notebook",
+                "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T16:20:04Z",
+                "last_commit": "2026-10-21T17:58:30Z",
                 "open_issues": 68,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12077,
+                "stars": 12091,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2493,7 +2493,7 @@
                 "open_issues": 75,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3897,
+                "stars": 3900,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2549,10 +2549,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T05:45:32Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2816,
+                "stars": 2820,
                 "topics": [
                   "infra",
                   "long",
@@ -2583,7 +2583,7 @@
                 "open_issues": 43,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2666,
+                "stars": 2691,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -2787,7 +2787,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-10-08T19:39:50Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "WEIRDLabUW",
                 "repo": "unified-world-model",
                 "stars": 256,
@@ -2811,7 +2811,7 @@
                 "open_issues": 2,
                 "owner": "qiwang067",
                 "repo": "LS-Imagine",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "dreamer",
                   "dreamerv2",
@@ -2844,7 +2844,7 @@
                 "open_issues": 3,
                 "owner": "B0B8K1ng",
                 "repo": "WMNavigation",
-                "stars": 182,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2973,7 +2973,7 @@
                 "open_issues": 2,
                 "owner": "yangzaijia",
                 "repo": "ManiGaussian_Bimanual",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3127,8 +3127,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T03:08:31Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-21T20:04:16Z",
+                "open_issues": 63,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 22,
@@ -3410,8 +3410,8 @@
                 "id": 710079101,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-13T22:26:51Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-20T23:34:54Z",
+                "open_issues": 12,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
                 "stars": 984,
@@ -3456,8 +3456,8 @@
                 "id": 503315788,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T10:16:34Z",
-                "open_issues": 83,
+                "last_commit": "2026-10-21T15:30:19Z",
+                "open_issues": 85,
                 "owner": "microsoft",
                 "repo": "causica",
                 "stars": 538,
@@ -3507,7 +3507,7 @@
                 "open_issues": 18,
                 "owner": "GuanxingLu",
                 "repo": "ManiGaussian",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4166,7 +4166,7 @@
                 "open_issues": 7,
                 "owner": "danijar",
                 "repo": "daydreamer",
-                "stars": 467,
+                "stars": 469,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -4350,7 +4350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:58:47.608Z",
+    "last_updated": "2026-10-21T20:06:18.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4362,7 +4362,7 @@
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2286,
+      "stars": 2288,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
