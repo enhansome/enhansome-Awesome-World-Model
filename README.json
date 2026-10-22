@@ -18,10 +18,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-21T02:03:24Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2190,
+                "stars": 2191,
                 "topics": [
                   "agent",
                   "causality",
@@ -53,7 +53,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 1012,
+                "stars": 1013,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -108,7 +108,7 @@
                 "open_issues": 0,
                 "owner": "Li-Zn-H",
                 "repo": "AwesomeWorldModels",
-                "stars": 367,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -216,7 +216,7 @@
                 "open_issues": 4,
                 "owner": "x-zheng16",
                 "repo": "Awesome-Embodied-AI-Safety",
-                "stars": 156,
+                "stars": 158,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-robustness",
@@ -332,7 +332,7 @@
                 "open_issues": 2,
                 "owner": "dk-liang",
                 "repo": "UniFuture",
-                "stars": 166,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -378,6 +378,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[ORAD-3D] Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks. [Paper",
+              "description": "chaytonmin/ORAD-3D-Dataset-For-Off-Road-AD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ICRA 2026: ORAD-3D, a large-scale off-road autonomous driving dataset. Tasks: 2D free-space detection, 3D occupancy prediction, rough GPS-guided path planning, vision-language model-driven autonomous driving, and world model for off-road environments",
+                "homepage": null,
+                "id": 939111435,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-02-13T01:32:03Z",
+                "open_issues": 9,
+                "owner": "chaytonmin",
+                "repo": "ORAD-3D-Dataset-For-Off-Road-AD",
+                "stars": 83,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
             },
             {
               "node_type": "item",
@@ -465,6 +486,69 @@
             },
             {
               "node_type": "item",
+              "title": "WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving. [Paper",
+              "description": "pengxuanyang/WorldRFT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[AAAI 2026] WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving",
+                "homepage": null,
+                "id": 1095402364,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2025-12-23T08:29:51Z",
+                "open_issues": 1,
+                "owner": "pengxuanyang",
+                "repo": "WorldRFT",
+                "stars": 42,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CoRL 2026] SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+                "homepage": null,
+                "id": 1408137229,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-15T02:08:18Z",
+                "open_issues": 1,
+                "owner": "ASGuard-UCI",
+                "repo": "safedrive-vla",
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RayNova is a geometry-agnostic multiview driving world model that generates temporally coherent, controllable driving videos without constructing an explicit 3D scene representation.",
+                "homepage": null,
+                "id": 1267909606,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-11T04:31:29Z",
+                "open_issues": 0,
+                "owner": "Applied-Intuition-Open-Source",
+                "repo": "RayNova",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
+            },
+            {
+              "node_type": "item",
               "title": "OccStress: Stress-Testing the 4D Occupancy Forecasting Chain. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -515,7 +599,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 832,
+                "stars": 834,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -542,7 +626,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 423,
+                "stars": 425,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -873,6 +957,33 @@
             },
             {
               "node_type": "item",
+              "title": "AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data. [Paper",
+              "description": "HaoranZhuExplorer/adljepa",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[AAAI 2026] AD-L-JEPA: Self-Supervised Representation Learning with Joint Embedding Predictive Architecture for Automotive LiDAR Object Detection",
+                "homepage": null,
+                "id": 914073389,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-11-18T04:46:15Z",
+                "open_issues": 1,
+                "owner": "HaoranZhuExplorer",
+                "repo": "adljepa",
+                "stars": 61,
+                "topics": [
+                  "autonomous-driving",
+                  "lidar-point-cloud",
+                  "pre-training",
+                  "self-supervised-learning",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
               "title": "OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework. [Paper",
               "description": "JLChen-C/OccProphet",
               "children": [],
@@ -913,33 +1024,6 @@
                 "repo": "GeoDrive",
                 "stars": 60,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data. [Paper",
-              "description": "HaoranZhuExplorer/adljepa",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[AAAI 2026] AD-L-JEPA: Self-Supervised Representation Learning with Joint Embedding Predictive Architecture for Automotive LiDAR Object Detection",
-                "homepage": null,
-                "id": 914073389,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-11-18T04:46:15Z",
-                "open_issues": 1,
-                "owner": "HaoranZhuExplorer",
-                "repo": "adljepa",
-                "stars": 60,
-                "topics": [
-                  "autonomous-driving",
-                  "lidar-point-cloud",
-                  "pre-training",
-                  "self-supervised-learning",
-                  "world-models"
-                ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
             },
@@ -1203,7 +1287,7 @@
                 "open_issues": 25,
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1287,7 +1371,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 423,
+                "stars": 425,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1334,7 +1418,7 @@
                 "open_issues": 4,
                 "owner": "ucd-dare",
                 "repo": "CarDreamer",
-                "stars": 376,
+                "stars": 377,
                 "topics": [
                   "autonomous-driving",
                   "foundation-models",
@@ -1757,6 +1841,27 @@
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UniWorld: Autonomous Driving Pre-training via World Models. [Paper",
+              "description": "whuhxb/UniWorld",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "UniWorld: Autonomous Driving Pre-training via World Models",
+                "homepage": null,
+                "id": 805917407,
+                "language": null,
+                "license": null,
+                "last_commit": "2023-08-15T06:20:33Z",
+                "open_issues": 0,
+                "owner": "whuhxb",
+                "repo": "UniWorld",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
             }
           ],
           "description": null,
@@ -1815,7 +1920,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4541,
+                "stars": 4540,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -1839,10 +1944,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T05:45:32Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2820,
+                "stars": 2824,
                 "topics": [
                   "infra",
                   "long",
@@ -1873,7 +1978,7 @@
                 "open_issues": 44,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2219,
+                "stars": 2221,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -1915,7 +2020,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1946,
+                "stars": 1948,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1936,7 +2041,7 @@
                 "open_issues": 6,
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 471,
+                "stars": 473,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2008,7 +2113,7 @@
                 "open_issues": 9,
                 "owner": "OpenWAM",
                 "repo": "OpenWAM",
-                "stars": 213,
+                "stars": 214,
                 "topics": [
                   "dynamics-learning",
                   "pretrained-models",
@@ -2037,7 +2142,7 @@
                 "open_issues": 4,
                 "owner": "NM512",
                 "repo": "r2dreamer",
-                "stars": 193,
+                "stars": 195,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2058,7 +2163,7 @@
                 "open_issues": 3,
                 "owner": "zhaozijie2022",
                 "repo": "seqwm",
-                "stars": 122,
+                "stars": 123,
                 "topics": [
                   "multi-robot",
                   "reinforcement-learning",
@@ -2160,6 +2265,32 @@
             },
             {
               "node_type": "item",
+              "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+                "homepage": "https://ropedia.github.io/ropedia-w0/",
+                "id": 1423285726,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-20T03:28:10Z",
+                "open_issues": 1,
+                "owner": "Ropedia",
+                "repo": "ropedia-w0",
+                "stars": 49,
+                "topics": [
+                  "cross-embodiment",
+                  "human-data",
+                  "loco-manipulation",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
+            },
+            {
+              "node_type": "item",
               "title": "WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching. [Paper",
               "description": "FofGofx/WorldCache",
               "children": [],
@@ -2183,6 +2314,27 @@
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PrismWAM: Decoupling State Representations in World Action Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of PrismWAM: Decoupling State Representations in World Action Models",
+                "homepage": "https://prism-wam.github.io/",
+                "id": 1426049371,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-21T13:26:51Z",
+                "open_issues": 1,
+                "owner": "THUSI-Lab",
+                "repo": "PrismWAM",
+                "stars": 41,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
             },
             {
               "node_type": "item",
@@ -2280,8 +2432,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T20:04:16Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-22T19:18:04Z",
+                "open_issues": 78,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 22,
@@ -2301,8 +2453,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T20:04:16Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-22T19:18:04Z",
+                "open_issues": 78,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 22,
@@ -2364,6 +2516,56 @@
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies. [Paper",
+              "description": "RainyRobo/PLaW-VLA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies (CoRL 2026).",
+                "homepage": "https://rainyrobo.github.io/PLaW-VLA/",
+                "id": 1404618914,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-13T07:30:49Z",
+                "open_issues": 0,
+                "owner": "RainyRobo",
+                "repo": "PLaW-VLA",
+                "stars": 7,
+                "topics": [
+                  "corl-2026",
+                  "embodied-ai",
+                  "pytorch",
+                  "robot-learning",
+                  "robotic-manipulation",
+                  "vision-language-action",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DepthWorld: 3D World Model for Robot Manipulation. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Repository for the paper: DepthWorld: 3D World Model for Robot Manipulation | CORL 2026",
+                "homepage": "https://jaibardhan.com/depthworld/",
+                "id": 1303361837,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-09T13:10:21Z",
+                "open_issues": 1,
+                "owner": "Jai2500",
+                "repo": "depthworld",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
             },
             {
               "node_type": "item",
@@ -2468,11 +2670,11 @@
                 "id": 910176789,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T17:58:30Z",
+                "last_commit": "2026-10-21T22:46:16Z",
                 "open_issues": 68,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12091,
+                "stars": 12105,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2493,7 +2695,7 @@
                 "open_issues": 75,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3900,
+                "stars": 3903,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -2521,7 +2723,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2954,
+                "stars": 2955,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -2549,10 +2751,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T05:45:32Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2820,
+                "stars": 2824,
                 "topics": [
                   "infra",
                   "long",
@@ -2583,7 +2785,7 @@
                 "open_issues": 43,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2691,
+                "stars": 2725,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -2613,7 +2815,7 @@
                 "open_issues": 19,
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1166,
+                "stars": 1167,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2634,7 +2836,7 @@
                 "open_issues": 8,
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1140,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2676,7 +2878,7 @@
                 "open_issues": 18,
                 "owner": "stdstu12",
                 "repo": "YUME",
-                "stars": 683,
+                "stars": 684,
                 "topics": [
                   "image-to-video",
                   "interactive-generation",
@@ -2790,7 +2992,7 @@
                 "open_issues": 0,
                 "owner": "WEIRDLabUW",
                 "repo": "unified-world-model",
-                "stars": 256,
+                "stars": 257,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3127,8 +3329,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T20:04:16Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-22T19:18:04Z",
+                "open_issues": 78,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 22,
@@ -3270,6 +3472,27 @@
             },
             {
               "node_type": "item",
+              "title": "GLAM: Global-Local Variation Awareness in Mamba-based World Model. [Paper",
+              "description": "GLAM2025/glam",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 902652226,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-20T08:34:59Z",
+                "open_issues": 2,
+                "owner": "GLAM2025",
+                "repo": "glam",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
+            },
+            {
+              "node_type": "item",
               "title": "LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE. [Paper",
               "description": "tsinghua-fib-lab/Longscape",
               "children": [],
@@ -3312,7 +3535,7 @@
                 "open_issues": 59,
                 "owner": "LargeWorldModel",
                 "repo": "LWM",
-                "stars": 7422,
+                "stars": 7423,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3333,7 +3556,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4181,
+                "stars": 4182,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3354,7 +3577,7 @@
                 "open_issues": 12,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2122,
+                "stars": 2123,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -3384,7 +3607,7 @@
                 "open_issues": 10,
                 "owner": "PKU-YuanGroup",
                 "repo": "MagicTime",
-                "stars": 1336,
+                "stars": 1335,
                 "topics": [
                   "diffusion-models",
                   "long-video-generation",
@@ -3414,7 +3637,7 @@
                 "open_issues": 12,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 984,
+                "stars": 985,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -4145,7 +4368,7 @@
                 "open_issues": 6,
                 "owner": "nicklashansen",
                 "repo": "tdmpc",
-                "stars": 528,
+                "stars": 529,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4350,7 +4573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:06:18.534Z",
+    "last_updated": "2026-10-22T20:02:26.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4358,7 +4581,7 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-16T03:44:01Z",
+      "last_commit": "2026-10-22T13:23:49Z",
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
@@ -4376,7 +4599,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "4458af18cb0236dd10c38d0dba6ff04ad97c75b3",
+    "original_repository_sha": "91653d0d48fb142636f14552ebce77804f73e67a",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
