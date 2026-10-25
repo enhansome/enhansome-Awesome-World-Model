@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2190,
+                "stars": 2189,
                 "topics": [
                   "agent",
                   "causality",
@@ -53,7 +53,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -275,11 +275,11 @@
                 "id": 1267154461,
                 "language": "TeX",
                 "license": null,
-                "last_commit": "2026-10-23T09:31:25Z",
+                "last_commit": "2026-10-25T08:37:37Z",
                 "open_issues": 0,
                 "owner": "vid-gen",
                 "repo": "awesome-video-world-model",
-                "stars": 7,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
@@ -662,7 +662,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 831,
+                "stars": 832,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -689,7 +689,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1434,7 +1434,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1983,7 +1983,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4543,
+                "stars": 4544,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -2010,7 +2010,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2834,
+                "stars": 2835,
                 "topics": [
                   "infra",
                   "long",
@@ -2041,7 +2041,7 @@
                 "open_issues": 44,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2224,
+                "stars": 2225,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -2104,7 +2104,7 @@
                 "open_issues": 6,
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 477,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2176,7 +2176,7 @@
                 "open_issues": 12,
                 "owner": "OpenWAM",
                 "repo": "OpenWAM",
-                "stars": 219,
+                "stars": 221,
                 "topics": [
                   "dynamics-learning",
                   "pretrained-models",
@@ -2258,6 +2258,32 @@
             },
             {
               "node_type": "item",
+              "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+                "homepage": "https://ropedia.github.io/ropedia-w0/",
+                "id": 1423285726,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-20T03:28:10Z",
+                "open_issues": 1,
+                "owner": "Ropedia",
+                "repo": "ropedia-w0",
+                "stars": 93,
+                "topics": [
+                  "cross-embodiment",
+                  "human-data",
+                  "loco-manipulation",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
+            },
+            {
+              "node_type": "item",
               "title": "EmbodiedWorld-200K: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -2272,7 +2298,7 @@
                 "open_issues": 2,
                 "owner": "XiaokunFeng",
                 "repo": "EmbodiedWorld-200K",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
@@ -2304,32 +2330,6 @@
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
-                "homepage": "https://ropedia.github.io/ropedia-w0/",
-                "id": 1423285726,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-20T03:28:10Z",
-                "open_issues": 1,
-                "owner": "Ropedia",
-                "repo": "ropedia-w0",
-                "stars": 76,
-                "topics": [
-                  "cross-embodiment",
-                  "human-data",
-                  "loco-manipulation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-10-22T20:02:26.726Z"
             },
             {
               "node_type": "item",
@@ -2389,7 +2389,7 @@
                 "open_issues": 1,
                 "owner": "THUSI-Lab",
                 "repo": "PrismWAM",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-10-22T20:02:26.726Z"
@@ -2506,6 +2506,40 @@
             },
             {
               "node_type": "item",
+              "title": "ALPS: Visual State Encoders for World Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🏔️ ALPS: Visual State Encoders for World Models",
+                "homepage": "https://ucsc-vlaa.github.io/ALPS/",
+                "id": 1428781417,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-22T01:45:18Z",
+                "open_issues": 0,
+                "owner": "UCSC-VLAA",
+                "repo": "ALPS",
+                "stars": 24,
+                "topics": [
+                  "computer-vision",
+                  "contrastive-learning",
+                  "embodied-ai",
+                  "jax",
+                  "libero",
+                  "pytorch",
+                  "representation-learning",
+                  "robot-learning",
+                  "self-supervised-learning",
+                  "vision-language",
+                  "vision-transformer",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-24T18:45:45.795Z"
+            },
+            {
+              "node_type": "item",
               "title": "ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning. [Paper",
               "description": "] [Code] [Blog]",
               "children": [],
@@ -2516,8 +2550,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T18:06:55Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-24T19:29:27Z",
+                "open_issues": 78,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 22,
@@ -2537,48 +2571,14 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T18:06:55Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-24T19:29:27Z",
+                "open_issues": 78,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-10-10T20:02:18.985Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ALPS: Visual State Encoders for World Models. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🏔️ ALPS: Visual State Encoders for World Models",
-                "homepage": "https://ucsc-vlaa.github.io/ALPS/",
-                "id": 1428781417,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-22T01:45:18Z",
-                "open_issues": 0,
-                "owner": "UCSC-VLAA",
-                "repo": "ALPS",
-                "stars": 21,
-                "topics": [
-                  "computer-vision",
-                  "contrastive-learning",
-                  "embodied-ai",
-                  "jax",
-                  "libero",
-                  "pytorch",
-                  "representation-learning",
-                  "robot-learning",
-                  "self-supervised-learning",
-                  "vision-language",
-                  "vision-transformer",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-10-24T18:45:45.795Z"
             },
             {
               "node_type": "item",
@@ -2633,6 +2633,59 @@
             },
             {
               "node_type": "item",
+              "title": "MIST: Execution Before Memory: Diagnosing Memory Failures in Video World Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Execution Before Memory: diagnosing memory failures in video world models.",
+                "homepage": "https://hku-mmlab.github.io/MIST/",
+                "id": 1415306006,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-19T19:49:04Z",
+                "open_issues": 1,
+                "owner": "HKU-MMLab",
+                "repo": "MIST",
+                "stars": 12,
+                "topics": [
+                  "agentic",
+                  "benchmark",
+                  "video-generation",
+                  "video-understanding",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-25T18:59:58.525Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[FRED] Self-Distilling Future Video Representations for World Action Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-Distilling Future Video Representations for World Action Models",
+                "homepage": "https://huiwon-jang.github.io/FRED/",
+                "id": 1429660813,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-23T03:46:07Z",
+                "open_issues": 0,
+                "owner": "suhyeok-jang",
+                "repo": "FRED",
+                "stars": 9,
+                "topics": [
+                  "representation-learning",
+                  "robotics",
+                  "video-diffusion-models",
+                  "world-action-models"
+                ]
+              },
+              "first_seen": "2026-10-24T18:45:45.795Z"
+            },
+            {
+              "node_type": "item",
               "title": "Twin: Playing an Unknown Game with a Test-Time Digital Twin. [Paper",
               "description": "] [Project] [Code]",
               "children": [],
@@ -2655,6 +2708,27 @@
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[EgoACT] Decoupling Action from Egocentric Observation for World Simulation. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] EgoACT: This repo is the official implementation of \"Decoupling Action from Egocentric Observation for World Simulation\"",
+                "homepage": null,
+                "id": 1417074824,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-21T10:04:39Z",
+                "open_issues": 0,
+                "owner": "mayuelala",
+                "repo": "EgoACT",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-10-24T18:45:45.795Z"
             },
             {
               "node_type": "item",
@@ -2687,27 +2761,22 @@
             },
             {
               "node_type": "item",
-              "title": "[FRED] Self-Distilling Future Video Representations for World Action Models. [Paper",
+              "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Self-Distilling Future Video Representations for World Action Models",
-                "homepage": "https://huiwon-jang.github.io/FRED/",
-                "id": 1429660813,
+                "description": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+                "homepage": "https://yunfeixie233.github.io/s2/",
+                "id": 1246918683,
                 "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-23T03:46:07Z",
-                "open_issues": 1,
-                "owner": "suhyeok-jang",
-                "repo": "FRED",
-                "stars": 7,
-                "topics": [
-                  "representation-learning",
-                  "robotics",
-                  "video-diffusion-models",
-                  "world-action-models"
-                ]
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-23T01:59:12Z",
+                "open_issues": 0,
+                "owner": "yunfeixie233",
+                "repo": "sensorimotor-alignment",
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
             },
@@ -2755,6 +2824,27 @@
             },
             {
               "node_type": "item",
+              "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1415990055,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-12T22:34:20Z",
+                "open_issues": 1,
+                "owner": "junha1125",
+                "repo": "LaLa-World",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-10-25T18:59:58.525Z"
+            },
+            {
+              "node_type": "item",
               "title": "Towards a Belief-Based World Model for LLM Agents. [Paper",
               "description": "skumar-ml/belief-world-models",
               "children": [],
@@ -2797,27 +2887,6 @@
             },
             {
               "node_type": "item",
-              "title": "[EgoACT] Decoupling Action from Egocentric Observation for World Simulation. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1417074824,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-21T10:04:39Z",
-                "open_issues": 0,
-                "owner": "mayuelala",
-                "repo": "EgoACT",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-10-24T18:45:45.795Z"
-            },
-            {
-              "node_type": "item",
               "title": "[AIM] Training Controllable World Models via Action Influence Maximization. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -2833,27 +2902,6 @@
                 "owner": "princeton-prism",
                 "repo": "action-influence-maximization",
                 "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-10-24T18:45:45.795Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-                "homepage": "https://yunfeixie233.github.io/s2/",
-                "id": 1246918683,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-23T01:59:12Z",
-                "open_issues": 0,
-                "owner": "yunfeixie233",
-                "repo": "sensorimotor-alignment",
-                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
@@ -2951,7 +2999,7 @@
                 "open_issues": 68,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12129,
+                "stars": 12140,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2972,7 +3020,7 @@
                 "open_issues": 75,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3905,
+                "stars": 3906,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3000,7 +3048,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2955,
+                "stars": 2956,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3031,7 +3079,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2834,
+                "stars": 2835,
                 "topics": [
                   "infra",
                   "long",
@@ -3062,7 +3110,7 @@
                 "open_issues": 44,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2755,
+                "stars": 2760,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3113,7 +3161,7 @@
                 "open_issues": 8,
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1140,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3165,6 +3213,27 @@
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation. [Paper",
+              "description": "AgibotTech/Genie-Envisioner-V1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1025339495,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-10T09:34:22Z",
+                "open_issues": 19,
+                "owner": "AgibotTech",
+                "repo": "Genie-Envisioner-V1",
+                "stars": 588,
+                "topics": []
+              },
+              "first_seen": "2026-10-25T18:59:58.525Z"
             },
             {
               "node_type": "item",
@@ -3606,8 +3675,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T18:06:55Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-24T19:29:27Z",
+                "open_issues": 78,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 22,
@@ -3812,7 +3881,7 @@
                 "open_issues": 59,
                 "owner": "LargeWorldModel",
                 "repo": "LWM",
-                "stars": 7423,
+                "stars": 7424,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3854,7 +3923,7 @@
                 "open_issues": 12,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2122,
+                "stars": 2123,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -4056,6 +4125,36 @@
             },
             {
               "node_type": "item",
+              "title": "iVideoGPT: Interactive VideoGPTs are Scalable World Models. [Paper",
+              "description": "thuml/iVideoGPT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository for \"iVideoGPT: Interactive VideoGPTs are Scalable World Models\" (NeurIPS 2024), https://arxiv.org/abs/2405.15223",
+                "homepage": "https://thuml.github.io/iVideoGPT/",
+                "id": 805279472,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-09-23T13:45:51Z",
+                "open_issues": 4,
+                "owner": "thuml",
+                "repo": "iVideoGPT",
+                "stars": 187,
+                "topics": [
+                  "gpt",
+                  "model-based-reinforcement-learning",
+                  "open-x-embodiment",
+                  "robotic-manipulation",
+                  "video-generation",
+                  "video-prediction",
+                  "visual-planning",
+                  "world-model"
+                ]
+              },
+              "first_seen": "2026-10-25T18:59:58.525Z"
+            },
+            {
+              "node_type": "item",
               "title": "PreLAR: World Model Pre-training with Learnable Action Representation. [Paper",
               "description": "VIPL-EPP/PreLAR",
               "children": [],
@@ -4107,6 +4206,29 @@
             },
             {
               "node_type": "item",
+              "title": "IRASim: A Fine-Grained World Model for Robot Manipulation. [Paper",
+              "description": "bytedance/IRASim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 817169193,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-07-08T04:58:48Z",
+                "open_issues": 2,
+                "owner": "bytedance",
+                "repo": "IRASim",
+                "stars": 166,
+                "topics": [
+                  "research"
+                ]
+              },
+              "first_seen": "2026-10-25T18:59:58.525Z"
+            },
+            {
+              "node_type": "item",
               "title": "[Δ-IRIS] Efficient World Models with Context-Aware Tokenization. [Paper",
               "description": "vmicheli/delta-iris",
               "children": [],
@@ -4134,6 +4256,27 @@
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WorldGPT: Empowering LLM as Multimodal World Model. [Paper",
+              "description": "ZJU4EmbodiedAI/WorldGPT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WorldGPT: Empowering LLM as Multimodal World Model",
+                "homepage": null,
+                "id": 788531230,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2024-08-06T08:08:15Z",
+                "open_issues": 1,
+                "owner": "ZJU4EmbodiedAI",
+                "repo": "WorldGPT",
+                "stars": 123,
+                "topics": []
+              },
+              "first_seen": "2026-10-25T18:59:58.525Z"
             },
             {
               "node_type": "item",
@@ -4850,7 +4993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:45:45.795Z",
+    "last_updated": "2026-10-25T18:59:58.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -4858,7 +5001,7 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-24T17:31:48Z",
+      "last_commit": "2026-10-25T13:36:57Z",
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
@@ -4876,7 +5019,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "4329700e25997f68b746441dd5973d90614ef18f",
+    "original_repository_sha": "ff049c383b86d23dfc6ba7c197b1cabd78625040",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
