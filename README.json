@@ -258,7 +258,7 @@
                 "open_issues": 1,
                 "owner": "vid-gen",
                 "repo": "awesome-video-world-model",
-                "stars": 32,
+                "stars": 34,
                 "topics": [
                   "unified-understanding-and-generation",
                   "unified-video",
@@ -2015,7 +2015,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-29T16:59:59Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "NVlabs",
                 "repo": "LongLive",
                 "stars": 2856,
@@ -2040,16 +2040,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Helios: Real Real-Time Long Video Generation Model",
+                "description": "[TPAMI 2026🔥] Helios: Real Real-Time Long Video Generation Model",
                 "homepage": "https://pku-yuangroup.github.io/Helios-Page",
                 "id": 1170755412,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T07:26:04Z",
+                "last_commit": "2026-11-01T09:00:35Z",
                 "open_issues": 44,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2239,
+                "stars": 2246,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -2091,7 +2091,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1964,
+                "stars": 1965,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2181,10 +2181,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-24T03:51:54Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "OpenWAM",
                 "repo": "OpenWAM",
-                "stars": 230,
+                "stars": 232,
                 "topics": [
                   "dynamics-learning",
                   "pretrained-models",
@@ -2234,7 +2234,7 @@
                 "open_issues": 1,
                 "owner": "Ropedia",
                 "repo": "ropedia-w0",
-                "stars": 185,
+                "stars": 196,
                 "topics": [
                   "cross-embodiment",
                   "human-data",
@@ -2461,7 +2461,7 @@
                 "id": 965147585,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-31T19:18:25Z",
+                "last_commit": "2026-11-01T04:27:12Z",
                 "open_issues": 5,
                 "owner": "legel",
                 "repo": "deepearth",
@@ -2528,7 +2528,7 @@
                 "open_issues": 1,
                 "owner": "UCSC-VLAA",
                 "repo": "ALPS",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "computer-vision",
                   "contrastive-learning",
@@ -2545,6 +2545,48 @@
                 ]
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning. [Paper",
+              "description": "] [Code] [Blog]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learning for effective and efficient bilevel planning",
+                "homepage": null,
+                "id": 924105199,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-24T19:29:27Z",
+                "open_issues": 78,
+                "owner": "BasisResearch",
+                "repo": "predicators",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T20:02:18.985Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learning for effective and efficient bilevel planning",
+                "homepage": null,
+                "id": 924105199,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-24T19:29:27Z",
+                "open_issues": 78,
+                "owner": "BasisResearch",
+                "repo": "predicators",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T20:02:18.985Z"
             },
             {
               "node_type": "item",
@@ -2566,48 +2608,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning. [Paper",
-              "description": "] [Code] [Blog]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Learning for effective and efficient bilevel planning",
-                "homepage": null,
-                "id": 924105199,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-24T19:29:27Z",
-                "open_issues": 78,
-                "owner": "BasisResearch",
-                "repo": "predicators",
-                "stars": 23,
-                "topics": []
-              },
-              "first_seen": "2026-10-10T20:02:18.985Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EMPIRIC: Experiment-Driven Learning of Residual World Models for Robot Planning. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Learning for effective and efficient bilevel planning",
-                "homepage": null,
-                "id": 924105199,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-24T19:29:27Z",
-                "open_issues": 78,
-                "owner": "BasisResearch",
-                "repo": "predicators",
-                "stars": 23,
-                "topics": []
-              },
-              "first_seen": "2026-10-10T20:02:18.985Z"
             },
             {
               "node_type": "item",
@@ -2655,10 +2655,55 @@
                 "open_issues": 1,
                 "owner": "junha1125",
                 "repo": "LaLa-World",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-10-25T18:59:58.525Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation. [Paper",
+              "description": "gaoxiang12/ga-wm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Geometry aware world model for VLA tasks",
+                "homepage": null,
+                "id": 1435513727,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-28T18:31:16Z",
+                "open_issues": 0,
+                "owner": "gaoxiang12",
+                "repo": "ga-wm",
+                "stars": 13,
+                "topics": [
+                  "vla",
+                  "world-action-model"
+                ]
+              },
+              "first_seen": "2026-11-01T20:27:24.980Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions",
+                "homepage": null,
+                "id": 1405253190,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-28T07:03:42Z",
+                "open_issues": 1,
+                "owner": "alibaba-damo-academy",
+                "repo": "RynnWorld-Latent",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-11-01T20:27:24.980Z"
             },
             {
               "node_type": "item",
@@ -2895,6 +2940,31 @@
             },
             {
               "node_type": "item",
+              "title": "RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models",
+                "homepage": "https://roboworm.github.io/roboworm/",
+                "id": 1437932670,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-29T09:08:39Z",
+                "open_issues": 0,
+                "owner": "cair-vinuni",
+                "repo": "roboworm",
+                "stars": 4,
+                "topics": [
+                  "robotics",
+                  "vla",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-11-01T20:27:24.980Z"
+            },
+            {
+              "node_type": "item",
               "title": "Towards a Belief-Based World Model for LLM Agents. [Paper",
               "description": "skumar-ml/belief-world-models",
               "children": [],
@@ -2934,6 +3004,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-30T19:17:56.585Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence. [Paper",
+              "description": "PrimitiveX/RoboSeed",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1392968880,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-29T15:42:23Z",
+                "open_issues": 0,
+                "owner": "PrimitiveX",
+                "repo": "RoboSeed",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-01T20:27:24.980Z"
             },
             {
               "node_type": "item",
@@ -3028,7 +3119,7 @@
                 "open_issues": 27,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12217,
+                "stars": 12222,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3049,7 +3140,7 @@
                 "open_issues": 79,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3929,
+                "stars": 3932,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3077,7 +3168,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2958,
+                "stars": 2957,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3105,7 +3196,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-29T16:59:59Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "NVlabs",
                 "repo": "LongLive",
                 "stars": 2856,
@@ -3139,7 +3230,7 @@
                 "open_issues": 44,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2815,
+                "stars": 2819,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3301,7 +3392,7 @@
                 "open_issues": 2,
                 "owner": "galilai-group",
                 "repo": "llm-jepa",
-                "stars": 347,
+                "stars": 348,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3708,7 +3799,7 @@
                 "open_issues": 78,
                 "owner": "BasisResearch",
                 "repo": "predicators",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-10-10T20:02:18.985Z"
@@ -3910,7 +4001,7 @@
                 "open_issues": 59,
                 "owner": "LargeWorldModel",
                 "repo": "LWM",
-                "stars": 7423,
+                "stars": 7422,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3952,7 +4043,7 @@
                 "open_issues": 12,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2123,
+                "stars": 2124,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -5022,7 +5113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:56:17.093Z",
+    "last_updated": "2026-11-01T20:27:24.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -5030,11 +5121,11 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-27T04:30:36Z",
+      "last_commit": "2026-11-01T10:52:39Z",
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2293,
+      "stars": 2294,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
@@ -5048,7 +5139,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "e866b4c2e134d9ebb611a51da046c589020e6ec4",
+    "original_repository_sha": "bac1481be2d11938b23e8b0ee9d6aa1ca032af11",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
