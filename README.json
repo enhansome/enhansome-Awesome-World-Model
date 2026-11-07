@@ -53,7 +53,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 1028,
+                "stars": 1029,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -126,7 +126,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-23T15:06:18Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "minnie-lin",
                 "repo": "Awesome-Physics-Cognition-based-Video-Generation",
                 "stars": 332,
@@ -340,7 +340,7 @@
                 "open_issues": 3,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -670,7 +670,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 819,
+                "stars": 820,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -1489,7 +1489,7 @@
                 "open_issues": 4,
                 "owner": "ucd-dare",
                 "repo": "CarDreamer",
-                "stars": 380,
+                "stars": 381,
                 "topics": [
                   "autonomous-driving",
                   "foundation-models",
@@ -1667,7 +1667,7 @@
                 "open_issues": 9,
                 "owner": "zympsyche",
                 "repo": "BevWorld",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2018,7 +2018,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2872,
+                "stars": 2873,
                 "topics": [
                   "infra",
                   "long",
@@ -2046,10 +2046,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-01T09:00:35Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2252,
+                "stars": 2256,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -2184,7 +2184,7 @@
                 "open_issues": 2,
                 "owner": "Ropedia",
                 "repo": "ropedia-w0",
-                "stars": 270,
+                "stars": 283,
                 "topics": [
                   "cross-embodiment",
                   "human-data",
@@ -2210,7 +2210,7 @@
                 "open_issues": 13,
                 "owner": "OpenWAM",
                 "repo": "OpenWAM",
-                "stars": 243,
+                "stars": 244,
                 "topics": [
                   "dynamics-learning",
                   "pretrained-models",
@@ -2562,7 +2562,7 @@
                 "open_issues": 1,
                 "owner": "gaoxiang12",
                 "repo": "ga-wm",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "vla",
                   "world-action-model"
@@ -2954,7 +2954,7 @@
                 "id": 1327644696,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-19T13:35:06Z",
+                "last_commit": "2026-11-07T19:46:00Z",
                 "open_issues": 1,
                 "owner": "jackboyla",
                 "repo": "action-contrastive-jepa",
@@ -3042,7 +3042,7 @@
                 "open_issues": 0,
                 "owner": "PhysTrace",
                 "repo": "PhysTrace",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "expectation-tracking",
                   "history-conditioned-reasoning",
@@ -3119,7 +3119,7 @@
                 "open_issues": 15,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12306,
+                "stars": 12311,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3140,7 +3140,7 @@
                 "open_issues": 79,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3948,
+                "stars": 3950,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3168,7 +3168,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2961,
+                "stars": 2963,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3178,37 +3178,6 @@
                   "scene-generation",
                   "text-to-3d",
                   "world-model",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LongLive: Real-time Interactive Long Video Generation. [Paper",
-              "description": "NVlabs/LongLive",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Long Video Gen / World Model / World Action Model (Embodied) Infrastructure",
-                "homepage": "https://nvlabs.github.io/LongLive",
-                "id": 1062167576,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-06T08:45:11Z",
-                "open_issues": 3,
-                "owner": "NVlabs",
-                "repo": "LongLive",
-                "stars": 2872,
-                "topics": [
-                  "infra",
-                  "long",
-                  "nvfp4",
-                  "parallel",
-                  "real-time",
-                  "robotics",
-                  "video-generation",
-                  "world-action-models",
                   "world-models"
                 ]
               },
@@ -3230,7 +3199,7 @@
                 "open_issues": 44,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2869,
+                "stars": 2879,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3240,6 +3209,37 @@
                   "real-time",
                   "video-generation",
                   "world-model"
+                ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LongLive: Real-time Interactive Long Video Generation. [Paper",
+              "description": "NVlabs/LongLive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Long Video Gen / World Model / World Action Model (Embodied) Infrastructure",
+                "homepage": "https://nvlabs.github.io/LongLive",
+                "id": 1062167576,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-06T08:45:11Z",
+                "open_issues": 3,
+                "owner": "NVlabs",
+                "repo": "LongLive",
+                "stars": 2873,
+                "topics": [
+                  "infra",
+                  "long",
+                  "nvfp4",
+                  "parallel",
+                  "real-time",
+                  "robotics",
+                  "video-generation",
+                  "world-action-models",
+                  "world-models"
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3323,7 +3323,7 @@
                 "open_issues": 18,
                 "owner": "stdstu12",
                 "repo": "YUME",
-                "stars": 685,
+                "stars": 686,
                 "topics": [
                   "image-to-video",
                   "interactive-generation",
@@ -4022,7 +4022,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4190,
+                "stars": 4191,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4103,7 +4103,7 @@
                 "open_issues": 16,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 998,
+                "stars": 999,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -4145,8 +4145,8 @@
                 "id": 503315788,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T20:31:06Z",
-                "open_issues": 92,
+                "last_commit": "2026-11-06T22:27:00Z",
+                "open_issues": 93,
                 "owner": "microsoft",
                 "repo": "causica",
                 "stars": 537,
@@ -4515,7 +4515,7 @@
                 "open_issues": 6,
                 "owner": "tsinghua-fib-lab",
                 "repo": "CityBench",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -5113,7 +5113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:27:46.152Z",
+    "last_updated": "2026-11-07T20:11:35.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -5125,7 +5125,7 @@
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2297,
+      "stars": 2298,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
