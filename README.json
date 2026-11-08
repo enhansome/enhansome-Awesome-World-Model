@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2191,
+                "stars": 2192,
                 "topics": [
                   "agent",
                   "causality",
@@ -258,7 +258,7 @@
                 "open_issues": 1,
                 "owner": "vid-gen",
                 "repo": "awesome-video-world-model",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "unified-understanding-and-generation",
                   "unified-video",
@@ -723,7 +723,7 @@
                 "open_issues": 8,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 393,
+                "stars": 392,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -787,7 +787,7 @@
                 "id": 921468271,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-12T03:05:38Z",
+                "last_commit": "2026-11-08T03:55:45Z",
                 "open_issues": 3,
                 "owner": "LMD0311",
                 "repo": "HERMES",
@@ -1155,8 +1155,8 @@
                 "id": 910903848,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2025-08-19T17:32:13Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-08T11:14:29Z",
+                "open_issues": 0,
                 "owner": "Sta8is",
                 "repo": "FUTURIST",
                 "stars": 48,
@@ -1379,7 +1379,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 592,
+                "stars": 593,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1991,7 +1991,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4571,
+                "stars": 4572,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -2015,10 +2015,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T08:45:11Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2873,
+                "stars": 2875,
                 "topics": [
                   "infra",
                   "long",
@@ -2046,7 +2046,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-01T09:00:35Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
                 "stars": 2256,
@@ -2145,6 +2145,32 @@
             },
             {
               "node_type": "item",
+              "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+                "homepage": "https://ropedia.github.io/ropedia-w0/",
+                "id": 1423285726,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-20T03:28:10Z",
+                "open_issues": 2,
+                "owner": "Ropedia",
+                "repo": "ropedia-w0",
+                "stars": 293,
+                "topics": [
+                  "cross-embodiment",
+                  "human-data",
+                  "loco-manipulation",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
+            },
+            {
+              "node_type": "item",
               "title": "[HyDRA] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -2170,32 +2196,6 @@
             },
             {
               "node_type": "item",
-              "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
-                "homepage": "https://ropedia.github.io/ropedia-w0/",
-                "id": 1423285726,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-20T03:28:10Z",
-                "open_issues": 2,
-                "owner": "Ropedia",
-                "repo": "ropedia-w0",
-                "stars": 283,
-                "topics": [
-                  "cross-embodiment",
-                  "human-data",
-                  "loco-manipulation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-10-22T20:02:26.726Z"
-            },
-            {
-              "node_type": "item",
               "title": "OpenWAM: An Open Framework for Composable World-Action Models. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -2210,7 +2210,7 @@
                 "open_issues": 13,
                 "owner": "OpenWAM",
                 "repo": "OpenWAM",
-                "stars": 244,
+                "stars": 245,
                 "topics": [
                   "dynamics-learning",
                   "pretrained-models",
@@ -2562,7 +2562,7 @@
                 "open_issues": 1,
                 "owner": "gaoxiang12",
                 "repo": "ga-wm",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "vla",
                   "world-action-model"
@@ -2635,31 +2635,6 @@
             },
             {
               "node_type": "item",
-              "title": "RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models",
-                "homepage": "https://roboworm.github.io/roboworm/",
-                "id": 1437932670,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-29T09:08:39Z",
-                "open_issues": 0,
-                "owner": "cair-vinuni",
-                "repo": "roboworm",
-                "stars": 23,
-                "topics": [
-                  "robotics",
-                  "vla",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-11-01T20:27:24.980Z"
-            },
-            {
-              "node_type": "item",
               "title": "From Generation to Simulation: How Far Are World Models from Being True Simulators? [Paper",
               "description": "AtongWang/world-model-simulators",
               "children": [],
@@ -2674,7 +2649,7 @@
                 "open_issues": 0,
                 "owner": "AtongWang",
                 "repo": "world-model-simulators",
-                "stars": 21,
+                "stars": 23,
                 "topics": [
                   "ai",
                   "awesome-list",
@@ -2687,6 +2662,31 @@
                 ]
               },
               "first_seen": "2026-08-30T19:17:56.585Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models",
+                "homepage": "https://roboworm.github.io/roboworm/",
+                "id": 1437932670,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-29T09:08:39Z",
+                "open_issues": 0,
+                "owner": "cair-vinuni",
+                "repo": "roboworm",
+                "stars": 20,
+                "topics": [
+                  "robotics",
+                  "vla",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-11-01T20:27:24.980Z"
             },
             {
               "node_type": "item",
@@ -2866,7 +2866,7 @@
                 "open_issues": 0,
                 "owner": "mayuelala",
                 "repo": "EgoACT",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
@@ -2887,7 +2887,7 @@
                 "open_issues": 0,
                 "owner": "RainyRobo",
                 "repo": "PLaW-VLA",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "corl-2026",
                   "embodied-ai",
@@ -2954,8 +2954,8 @@
                 "id": 1327644696,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T19:46:00Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-08T20:23:34Z",
+                "open_issues": 3,
                 "owner": "jackboyla",
                 "repo": "action-contrastive-jepa",
                 "stars": 5,
@@ -3116,10 +3116,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-06T16:56:05Z",
-                "open_issues": 15,
+                "open_issues": 21,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12311,
+                "stars": 12318,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3168,7 +3168,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2963,
+                "stars": 2964,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3199,7 +3199,7 @@
                 "open_issues": 44,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2879,
+                "stars": 2884,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3226,10 +3226,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T08:45:11Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2873,
+                "stars": 2875,
                 "topics": [
                   "infra",
                   "long",
@@ -3260,7 +3260,7 @@
                 "open_issues": 19,
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1169,
+                "stars": 1170,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3392,7 +3392,7 @@
                 "open_issues": 2,
                 "owner": "galilai-group",
                 "repo": "llm-jepa",
-                "stars": 351,
+                "stars": 353,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3711,6 +3711,38 @@
             },
             {
               "node_type": "item",
+              "title": "DC-MPC: Discrete Codebook World Models for Continuous Control. [Paper",
+              "description": "aidanscannell/dcmpc",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official PyTorch implementation of \"DC-MPC: Discrete Codebook Model Predictive Control\"",
+                "homepage": "https://www.aidanscannell.com/dcmpc",
+                "id": 940707051,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2025-03-15T14:12:27Z",
+                "open_issues": 0,
+                "owner": "aidanscannell",
+                "repo": "dcmpc",
+                "stars": 35,
+                "topics": [
+                  "continuous-control",
+                  "deepmind-control-suite",
+                  "meta-world",
+                  "model-based-reinforcement-learning",
+                  "model-predictive-control",
+                  "model-predictive-path-integral",
+                  "myosuite",
+                  "reinforcement-learning",
+                  "representation-learning",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
               "title": "MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator. [Paper",
               "description": "UCSB-AI/Morph4D",
               "children": [],
@@ -3727,38 +3759,6 @@
                 "repo": "Morph4D",
                 "stars": 35,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DC-MPC: Discrete Codebook World Models for Continuous Control. [Paper",
-              "description": "aidanscannell/dcmpc",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official PyTorch implementation of \"DC-MPC: Discrete Codebook Model Predictive Control\"",
-                "homepage": "https://www.aidanscannell.com/dcmpc",
-                "id": 940707051,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2025-03-15T14:12:27Z",
-                "open_issues": 0,
-                "owner": "aidanscannell",
-                "repo": "dcmpc",
-                "stars": 34,
-                "topics": [
-                  "continuous-control",
-                  "deepmind-control-suite",
-                  "meta-world",
-                  "model-based-reinforcement-learning",
-                  "model-predictive-control",
-                  "model-predictive-path-integral",
-                  "myosuite",
-                  "reinforcement-learning",
-                  "representation-learning",
-                  "world-models"
-                ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
             },
@@ -4022,7 +4022,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4191,
+                "stars": 4192,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4043,7 +4043,7 @@
                 "open_issues": 12,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2127,
+                "stars": 2128,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -4289,7 +4289,7 @@
                 "open_issues": 0,
                 "owner": "VIPL-EPP",
                 "repo": "PreLAR",
-                "stars": 171,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -5113,7 +5113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:11:35.516Z",
+    "last_updated": "2026-11-08T20:25:50.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
