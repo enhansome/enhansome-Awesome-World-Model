@@ -18,10 +18,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-21T02:03:24Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2193,
+                "stars": 2194,
                 "topics": [
                   "agent",
                   "causality",
@@ -108,7 +108,7 @@
                 "open_issues": 0,
                 "owner": "Li-Zn-H",
                 "repo": "AwesomeWorldModels",
-                "stars": 372,
+                "stars": 373,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -368,6 +368,27 @@
             },
             {
               "node_type": "item",
+              "title": "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation. [Paper",
+              "description": "dtc111111/GaussianDWM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026] GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation",
+                "homepage": null,
+                "id": 1122629189,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-06-13T11:26:06Z",
+                "open_issues": 3,
+                "owner": "dtc111111",
+                "repo": "GaussianDWM",
+                "stars": 86,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
               "title": "[WorldDrive] Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation. [Paper",
               "description": "TabGuigui/WorldDrive",
               "children": [],
@@ -383,27 +404,6 @@
                 "owner": "TabGuigui",
                 "repo": "WorldDrive",
                 "stars": 86,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation. [Paper",
-              "description": "dtc111111/GaussianDWM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2026] GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation",
-                "homepage": null,
-                "id": 1122629189,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-06-13T11:26:06Z",
-                "open_issues": 3,
-                "owner": "dtc111111",
-                "repo": "GaussianDWM",
-                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -991,7 +991,7 @@
                 "open_issues": 1,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 180,
+                "stars": 181,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -1049,6 +1049,27 @@
             },
             {
               "node_type": "item",
+              "title": "From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction. [Paper",
+              "description": "6550Zhao/Policy-World-Model",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of \"From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction\"",
+                "homepage": null,
+                "id": 1062588703,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-26T08:26:12Z",
+                "open_issues": 11,
+                "owner": "6550Zhao",
+                "repo": "Policy-World-Model",
+                "stars": 81,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
               "title": "SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries. [Paper",
               "description": "MSunDYY/SparseWorld",
               "children": [],
@@ -1064,27 +1085,6 @@
                 "owner": "MSunDYY",
                 "repo": "SparseWorld",
                 "stars": 81,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction. [Paper",
-              "description": "6550Zhao/Policy-World-Model",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of \"From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction\"",
-                "homepage": null,
-                "id": 1062588703,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-26T08:26:12Z",
-                "open_issues": 11,
-                "owner": "6550Zhao",
-                "repo": "Policy-World-Model",
-                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1442,7 +1442,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 594,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2054,7 +2054,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4575,
+                "stars": 4577,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -2081,7 +2081,7 @@
                 "open_issues": 4,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2879,
+                "stars": 2880,
                 "topics": [
                   "infra",
                   "long",
@@ -2154,7 +2154,7 @@
                 "open_issues": 78,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1978,
+                "stars": 1979,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2222,7 +2222,7 @@
                 "open_issues": 2,
                 "owner": "Ropedia",
                 "repo": "ropedia-w0",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "cross-embodiment",
                   "human-data",
@@ -2273,7 +2273,7 @@
                 "open_issues": 13,
                 "owner": "OpenWAM",
                 "repo": "OpenWAM",
-                "stars": 245,
+                "stars": 247,
                 "topics": [
                   "dynamics-learning",
                   "pretrained-models",
@@ -2590,6 +2590,30 @@
             },
             {
               "node_type": "item",
+              "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation. [Paper",
+              "description": "gaoxiang12/ga-wm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Geometry aware world model for VLA tasks",
+                "homepage": null,
+                "id": 1435513727,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-28T18:31:16Z",
+                "open_issues": 1,
+                "owner": "gaoxiang12",
+                "repo": "ga-wm",
+                "stars": 32,
+                "topics": [
+                  "vla",
+                  "world-action-model"
+                ]
+              },
+              "first_seen": "2026-11-01T20:27:24.980Z"
+            },
+            {
+              "node_type": "item",
               "title": "R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models. [Paper",
               "description": "AMAP-ML/R2MBench",
               "children": [],
@@ -2611,30 +2635,6 @@
             },
             {
               "node_type": "item",
-              "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation. [Paper",
-              "description": "gaoxiang12/ga-wm",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Geometry aware world model for VLA tasks",
-                "homepage": null,
-                "id": 1435513727,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-28T18:31:16Z",
-                "open_issues": 1,
-                "owner": "gaoxiang12",
-                "repo": "ga-wm",
-                "stars": 30,
-                "topics": [
-                  "vla",
-                  "world-action-model"
-                ]
-              },
-              "first_seen": "2026-11-01T20:27:24.980Z"
-            },
-            {
-              "node_type": "item",
               "title": "ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning. [Paper",
               "description": "] [Code] [Blog]",
               "children": [],
@@ -2645,8 +2645,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T11:08:25Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-10T21:30:01Z",
+                "open_issues": 24,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 26,
@@ -2666,8 +2666,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T11:08:25Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-10T21:30:01Z",
+                "open_issues": 24,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 26,
@@ -2728,6 +2728,27 @@
             },
             {
               "node_type": "item",
+              "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1415990055,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-28T14:52:09Z",
+                "open_issues": 1,
+                "owner": "junha1125",
+                "repo": "LaLa-World",
+                "stars": 21,
+                "topics": []
+              },
+              "first_seen": "2026-10-25T18:59:58.525Z"
+            },
+            {
+              "node_type": "item",
               "title": "RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -2750,27 +2771,6 @@
                 ]
               },
               "first_seen": "2026-11-01T20:27:24.980Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1415990055,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-28T14:52:09Z",
-                "open_issues": 1,
-                "owner": "junha1125",
-                "repo": "LaLa-World",
-                "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-10-25T18:59:58.525Z"
             },
             {
               "node_type": "item",
@@ -2848,6 +2848,27 @@
             },
             {
               "node_type": "item",
+              "title": "DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DeXplicit: explicit 3D dynamics, training, and forecast-conditioned video generation",
+                "homepage": null,
+                "id": 1415241682,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-23T07:43:00Z",
+                "open_issues": 1,
+                "owner": "Abecid",
+                "repo": "DeXplicit",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-10-24T18:45:45.795Z"
+            },
+            {
+              "node_type": "item",
               "title": "[EgoACT] Decoupling Action from Egocentric Observation for World Simulation. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -2883,27 +2904,6 @@
                 "open_issues": 1,
                 "owner": "yunfeixie233",
                 "repo": "sensorimotor-alignment",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-10-24T18:45:45.795Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "DeXplicit: explicit 3D dynamics, training, and forecast-conditioned video generation",
-                "homepage": null,
-                "id": 1415241682,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-23T07:43:00Z",
-                "open_issues": 0,
-                "owner": "Abecid",
-                "repo": "DeXplicit",
                 "stars": 9,
                 "topics": []
               },
@@ -3178,11 +3178,11 @@
                 "id": 910176789,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T16:56:05Z",
+                "last_commit": "2026-11-10T01:44:53Z",
                 "open_issues": 21,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12328,
+                "stars": 12340,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3203,7 +3203,7 @@
                 "open_issues": 79,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3952,
+                "stars": 3954,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3262,7 +3262,7 @@
                 "open_issues": 44,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2892,
+                "stars": 2896,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3292,7 +3292,7 @@
                 "open_issues": 4,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2879,
+                "stars": 2880,
                 "topics": [
                   "infra",
                   "long",
@@ -3365,7 +3365,7 @@
                 "open_issues": 24,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 829,
+                "stars": 830,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3386,7 +3386,7 @@
                 "open_issues": 18,
                 "owner": "stdstu12",
                 "repo": "YUME",
-                "stars": 686,
+                "stars": 685,
                 "topics": [
                   "image-to-video",
                   "interactive-generation",
@@ -3575,7 +3575,7 @@
                 "open_issues": 3,
                 "owner": "B0B8K1ng",
                 "repo": "WMNavigation",
-                "stars": 184,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3858,8 +3858,8 @@
                 "id": 924105199,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T11:08:25Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-10T21:30:01Z",
+                "open_issues": 24,
                 "owner": "BasisResearch",
                 "repo": "predicators",
                 "stars": 26,
@@ -4085,7 +4085,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4193,
+                "stars": 4194,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4166,7 +4166,7 @@
                 "open_issues": 16,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -4208,8 +4208,8 @@
                 "id": 503315788,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T22:12:43Z",
-                "open_issues": 94,
+                "last_commit": "2026-11-10T21:40:39Z",
+                "open_issues": 93,
                 "owner": "microsoft",
                 "repo": "causica",
                 "stars": 537,
@@ -4992,7 +4992,7 @@
                 "open_issues": 7,
                 "owner": "danijar",
                 "repo": "daydreamer",
-                "stars": 470,
+                "stars": 472,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -5096,7 +5096,7 @@
                 "open_issues": 11,
                 "owner": "danijar",
                 "repo": "dreamerv2",
-                "stars": 1062,
+                "stars": 1063,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -5134,7 +5134,7 @@
                 "open_issues": 6,
                 "owner": "danijar",
                 "repo": "dreamer",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -5176,7 +5176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:13:04.064Z",
+    "last_updated": "2026-11-10T21:47:12.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
