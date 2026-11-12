@@ -18,7 +18,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-21T02:03:24Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
                 "stars": 2194,
@@ -340,7 +340,7 @@
                 "open_issues": 3,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 208,
+                "stars": 209,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1105,7 +1105,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -1365,7 +1365,7 @@
                 "open_issues": 24,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 910,
+                "stars": 911,
                 "topics": [
                   "autonomous-driving",
                   "video-generation",
@@ -1552,7 +1552,7 @@
                 "open_issues": 4,
                 "owner": "ucd-dare",
                 "repo": "CarDreamer",
-                "stars": 381,
+                "stars": 383,
                 "topics": [
                   "autonomous-driving",
                   "foundation-models",
@@ -2081,7 +2081,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2881,
+                "stars": 2883,
                 "topics": [
                   "infra",
                   "long",
@@ -2112,7 +2112,7 @@
                 "open_issues": 46,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2259,
+                "stars": 2261,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -2154,7 +2154,7 @@
                 "open_issues": 78,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1980,
+                "stars": 1981,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2175,7 +2175,7 @@
                 "open_issues": 6,
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 487,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2269,7 +2269,7 @@
                 "id": 1263403926,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-24T03:51:54Z",
+                "last_commit": "2026-11-12T16:28:36Z",
                 "open_issues": 13,
                 "owner": "OpenWAM",
                 "repo": "OpenWAM",
@@ -2481,7 +2481,7 @@
                 "open_issues": 0,
                 "owner": "FofGofx",
                 "repo": "WorldCache",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "free-training",
                   "inference-acceleration",
@@ -2556,6 +2556,30 @@
             },
             {
               "node_type": "item",
+              "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation. [Paper",
+              "description": "gaoxiang12/ga-wm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Geometry aware world model for VLA tasks",
+                "homepage": null,
+                "id": 1435513727,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-28T18:31:16Z",
+                "open_issues": 1,
+                "owner": "gaoxiang12",
+                "repo": "ga-wm",
+                "stars": 33,
+                "topics": [
+                  "vla",
+                  "world-action-model"
+                ]
+              },
+              "first_seen": "2026-11-01T20:27:24.980Z"
+            },
+            {
+              "node_type": "item",
               "title": "ALPS: Visual State Encoders for World Models. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -2587,30 +2611,6 @@
                 ]
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
-            },
-            {
-              "node_type": "item",
-              "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation. [Paper",
-              "description": "gaoxiang12/ga-wm",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Geometry aware world model for VLA tasks",
-                "homepage": null,
-                "id": 1435513727,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-28T18:31:16Z",
-                "open_issues": 1,
-                "owner": "gaoxiang12",
-                "repo": "ga-wm",
-                "stars": 32,
-                "topics": [
-                  "vla",
-                  "world-action-model"
-                ]
-              },
-              "first_seen": "2026-11-01T20:27:24.980Z"
             },
             {
               "node_type": "item",
@@ -3119,6 +3119,27 @@
             },
             {
               "node_type": "item",
+              "title": "MetaWAM: From Video Frames to Robot Meta-Frames: A Unified Latent Interface for World Action Models. [Paper",
+              "description": "showlab/MetaWAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CoRL 2026] Official repository for MetaWAM — a unified latent interface for World Action Models.",
+                "homepage": null,
+                "id": 1416666410,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-11T05:07:47Z",
+                "open_issues": 0,
+                "owner": "showlab",
+                "repo": "MetaWAM",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T22:13:11.236Z"
+            },
+            {
+              "node_type": "item",
               "title": "FutureWorlds: Learning Robotic World Models from Alternative Futures. [Paper",
               "description": "Alexander-wu/FutureWorlds",
               "children": [],
@@ -3182,7 +3203,7 @@
                 "open_issues": 16,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12344,
+                "stars": 12358,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3203,7 +3224,7 @@
                 "open_issues": 79,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3967,
+                "stars": 3973,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3231,7 +3252,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2965,
+                "stars": 2966,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3262,7 +3283,7 @@
                 "open_issues": 44,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2901,
+                "stars": 2905,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3292,7 +3313,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2881,
+                "stars": 2883,
                 "topics": [
                   "infra",
                   "long",
@@ -4064,7 +4085,7 @@
                 "open_issues": 59,
                 "owner": "LargeWorldModel",
                 "repo": "LWM",
-                "stars": 7421,
+                "stars": 7420,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4106,7 +4127,7 @@
                 "open_issues": 12,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2129,
+                "stars": 2130,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -4136,7 +4157,7 @@
                 "open_issues": 10,
                 "owner": "PKU-YuanGroup",
                 "repo": "MagicTime",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": [
                   "diffusion-models",
                   "long-video-generation",
@@ -5134,7 +5155,7 @@
                 "open_issues": 6,
                 "owner": "danijar",
                 "repo": "dreamer",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -5176,7 +5197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:39:35.109Z",
+    "last_updated": "2026-11-12T22:13:11.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -5184,11 +5205,11 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-11T04:28:43Z",
-      "open_issues": 0,
+      "last_commit": "2026-11-12T04:35:05Z",
+      "open_issues": 1,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2302,
+      "stars": 2303,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
@@ -5202,7 +5223,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "aecc8ef6e360a4e92302d0863cd7e5130f0cd330",
+    "original_repository_sha": "f565ef0e23a0a6500886bd8ba7434172d1dcac60",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
