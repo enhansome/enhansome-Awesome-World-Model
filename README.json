@@ -18,10 +18,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-21T02:03:24Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2194,
+                "stars": 2196,
                 "topics": [
                   "agent",
                   "causality",
@@ -84,7 +84,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-10-30T13:12:14Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "GigaAI-research",
                 "repo": "General-World-Models-Survey",
                 "stars": 526,
@@ -105,10 +105,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-20T16:42:54Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Li-Zn-H",
                 "repo": "AwesomeWorldModels",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -255,7 +255,7 @@
                 "language": "TeX",
                 "license": null,
                 "last_commit": "2026-10-25T08:37:37Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "vid-gen",
                 "repo": "awesome-video-world-model",
                 "stars": 37,
@@ -557,6 +557,27 @@
             },
             {
               "node_type": "item",
+              "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CoRL 2026] SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+                "homepage": null,
+                "id": 1408137229,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-15T02:08:18Z",
+                "open_issues": 1,
+                "owner": "ASGuard-UCI",
+                "repo": "safedrive-vla",
+                "stars": 36,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
+            },
+            {
+              "node_type": "item",
               "title": "DriveVLA-M0: Failure-Aware Memory Augmentation for Autonomous Driving. [Paper",
               "description": "ZebinX/DriveVLA-M0",
               "children": [],
@@ -575,27 +596,6 @@
                 "topics": []
               },
               "first_seen": "2026-11-10T00:13:04.064Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CoRL 2026] SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
-                "homepage": null,
-                "id": 1408137229,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-15T02:08:18Z",
-                "open_issues": 1,
-                "owner": "ASGuard-UCI",
-                "repo": "safedrive-vla",
-                "stars": 35,
-                "topics": []
-              },
-              "first_seen": "2026-10-22T20:02:26.726Z"
             },
             {
               "node_type": "item",
@@ -1337,7 +1337,7 @@
                 "open_issues": 9,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1168,
+                "stars": 1169,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -2054,7 +2054,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4576,
+                "stars": 4579,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -2112,7 +2112,7 @@
                 "open_issues": 46,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2261,
+                "stars": 2262,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -2269,8 +2269,8 @@
                 "id": 1263403926,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-12T16:28:36Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-13T04:36:27Z",
+                "open_issues": 14,
                 "owner": "OpenWAM",
                 "repo": "OpenWAM",
                 "stars": 250,
@@ -2439,7 +2439,7 @@
                 "open_issues": 1,
                 "owner": "THUSI-Lab",
                 "repo": "PrismWAM",
-                "stars": 62,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-10-22T20:02:26.726Z"
@@ -2535,6 +2535,30 @@
             },
             {
               "node_type": "item",
+              "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation. [Paper",
+              "description": "gaoxiang12/ga-wm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Geometry aware world model for VLA tasks",
+                "homepage": null,
+                "id": 1435513727,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-28T18:31:16Z",
+                "open_issues": 1,
+                "owner": "gaoxiang12",
+                "repo": "ga-wm",
+                "stars": 34,
+                "topics": [
+                  "vla",
+                  "world-action-model"
+                ]
+              },
+              "first_seen": "2026-11-01T20:27:24.980Z"
+            },
+            {
+              "node_type": "item",
               "title": "StateAgent: Do Video Generators Track the World Across Segments? A Benchmark and Method for World-State Reasoning in Video Continuation. [Paper",
               "description": "AMAP-ML/StateAgent",
               "children": [],
@@ -2553,30 +2577,6 @@
                 "topics": []
               },
               "first_seen": "2026-09-04T18:58:36.100Z"
-            },
-            {
-              "node_type": "item",
-              "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation. [Paper",
-              "description": "gaoxiang12/ga-wm",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Geometry aware world model for VLA tasks",
-                "homepage": null,
-                "id": 1435513727,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-28T18:31:16Z",
-                "open_issues": 1,
-                "owner": "gaoxiang12",
-                "repo": "ga-wm",
-                "stars": 33,
-                "topics": [
-                  "vla",
-                  "world-action-model"
-                ]
-              },
-              "first_seen": "2026-11-01T20:27:24.980Z"
             },
             {
               "node_type": "item",
@@ -2709,7 +2709,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-25T08:19:52Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "AtongWang",
                 "repo": "world-model-simulators",
                 "stars": 24,
@@ -3007,6 +3007,27 @@
             },
             {
               "node_type": "item",
+              "title": "DepthWorld: 3D World Model for Robot Manipulation. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Repository for the paper: DepthWorld: 3D World Model for Robot Manipulation | CORL 2026",
+                "homepage": "https://jaibardhan.com/depthworld/",
+                "id": 1303361837,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-09T13:10:21Z",
+                "open_issues": 1,
+                "owner": "Jai2500",
+                "repo": "depthworld",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T20:02:26.726Z"
+            },
+            {
+              "node_type": "item",
               "title": "No Gaussian Required: Contrastive Inverse Dynamics for JEPA World Models. [Paper",
               "description": "jackboyla/action-contrastive-jepa",
               "children": [],
@@ -3025,27 +3046,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-30T19:17:56.585Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DepthWorld: 3D World Model for Robot Manipulation. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Repository for the paper: DepthWorld: 3D World Model for Robot Manipulation | CORL 2026",
-                "homepage": "https://jaibardhan.com/depthworld/",
-                "id": 1303361837,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-09T13:10:21Z",
-                "open_issues": 1,
-                "owner": "Jai2500",
-                "repo": "depthworld",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-10-22T20:02:26.726Z"
             },
             {
               "node_type": "item",
@@ -3200,10 +3200,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-11T05:17:31Z",
-                "open_issues": 16,
+                "open_issues": 14,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12358,
+                "stars": 12361,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3224,7 +3224,7 @@
                 "open_issues": 79,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3973,
+                "stars": 3979,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3252,7 +3252,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2966,
+                "stars": 2967,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3283,7 +3283,7 @@
                 "open_issues": 44,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2905,
+                "stars": 2910,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3683,7 +3683,7 @@
                 "open_issues": 2,
                 "owner": "gboduljak",
                 "repo": "vfmf",
-                "stars": 59,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4106,7 +4106,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4197,
+                "stars": 4200,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4127,7 +4127,7 @@
                 "open_issues": 12,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2130,
+                "stars": 2129,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -4229,8 +4229,8 @@
                 "id": 503315788,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T21:40:39Z",
-                "open_issues": 93,
+                "last_commit": "2026-11-13T18:24:16Z",
+                "open_issues": 94,
                 "owner": "microsoft",
                 "repo": "causica",
                 "stars": 537,
@@ -4301,7 +4301,7 @@
                 "open_issues": 3,
                 "owner": "Aria-Zhangjl",
                 "repo": "StoryWeaver",
-                "stars": 229,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4786,6 +4786,27 @@
             },
             {
               "node_type": "item",
+              "title": "MABL: Bi-Level Latent-Variable World Model for Sample-Efficient Multi-Agent Reinforcement Learning. [Paper",
+              "description": "aravindvenu7/MABL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for the paper \"MABL: Bi-Level Latent-Variable World Model for Sample-Efficient Multi-Agent Reinforcement Learning\"",
+                "homepage": null,
+                "id": 755322186,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-02-09T22:25:57Z",
+                "open_issues": 1,
+                "owner": "aravindvenu7",
+                "repo": "MABL",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-11-13T21:56:41.496Z"
+            },
+            {
+              "node_type": "item",
               "title": "[MUN]Learning World Models for Unconstrained Goal Navigation. [Paper",
               "description": "RU-Automated-Reasoning-Group/MUN",
               "children": [],
@@ -5182,7 +5203,7 @@
                 "open_issues": 12,
                 "owner": "ramanans1",
                 "repo": "plan2explore",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -5197,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:13:11.236Z",
+    "last_updated": "2026-11-13T21:56:41.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -5205,11 +5226,11 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-12T04:35:05Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-13T03:45:55Z",
+      "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2303,
+      "stars": 2304,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
@@ -5223,7 +5244,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "f565ef0e23a0a6500886bd8ba7434172d1dcac60",
+    "original_repository_sha": "df9ffbc922745e35e9184ce2f63d1902264448bb",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
