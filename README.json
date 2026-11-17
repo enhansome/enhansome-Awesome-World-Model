@@ -315,7 +315,7 @@
                 "open_issues": 0,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "autonoumous-driving",
                   "vision-language-action-model",
@@ -697,7 +697,7 @@
                 "open_issues": 0,
                 "owner": "InSAI-Lab",
                 "repo": "OccStress",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "autonomous-driving",
                   "benchmark",
@@ -733,7 +733,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 822,
+                "stars": 819,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -1063,7 +1063,7 @@
                 "open_issues": 11,
                 "owner": "6550Zhao",
                 "repo": "Policy-World-Model",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1337,7 +1337,7 @@
                 "open_issues": 9,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1169,
+                "stars": 1168,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -1365,7 +1365,7 @@
                 "open_issues": 24,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 911,
+                "stars": 912,
                 "topics": [
                   "autonomous-driving",
                   "video-generation",
@@ -1421,7 +1421,7 @@
                 "open_issues": 25,
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 599,
+                "stars": 600,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1608,7 +1608,7 @@
                 "open_issues": 13,
                 "owner": "haomo-ai",
                 "repo": "Cam4DOcc",
-                "stars": 303,
+                "stars": 304,
                 "topics": [
                   "3d-occupancy",
                   "3d-occupancy-prediction",
@@ -1686,7 +1686,7 @@
                 "open_issues": 1,
                 "owner": "vzyrianov",
                 "repo": "LidarDM",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "lidar-generation"
                 ]
@@ -2054,7 +2054,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4583,
+                "stars": 4586,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -2081,7 +2081,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2886,
+                "stars": 2889,
                 "topics": [
                   "infra",
                   "long",
@@ -2109,10 +2109,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-01T09:00:35Z",
-                "open_issues": 46,
+                "open_issues": 48,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2266,
+                "stars": 2269,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -2154,7 +2154,7 @@
                 "open_issues": 77,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1984,
+                "stars": 1986,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2273,7 +2273,7 @@
                 "open_issues": 14,
                 "owner": "OpenWAM",
                 "repo": "OpenWAM",
-                "stars": 252,
+                "stars": 253,
                 "topics": [
                   "dynamics-learning",
                   "pretrained-models",
@@ -2439,7 +2439,7 @@
                 "open_issues": 2,
                 "owner": "THUSI-Lab",
                 "repo": "PrismWAM",
-                "stars": 62,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-10-22T20:02:26.726Z"
@@ -2649,7 +2649,7 @@
                 "open_issues": 12,
                 "owner": "BasisResearch",
                 "repo": "predicators",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-10-10T20:02:18.985Z"
@@ -2670,7 +2670,7 @@
                 "open_issues": 12,
                 "owner": "BasisResearch",
                 "repo": "predicators",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-10-10T20:02:18.985Z"
@@ -2712,7 +2712,7 @@
                 "open_issues": 1,
                 "owner": "AtongWang",
                 "repo": "world-model-simulators",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "ai",
                   "awesome-list",
@@ -3203,7 +3203,7 @@
                 "open_issues": 16,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12382,
+                "stars": 12387,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3224,7 +3224,7 @@
                 "open_issues": 79,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3989,
+                "stars": 3990,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3252,7 +3252,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2970,
+                "stars": 2972,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3283,7 +3283,7 @@
                 "open_issues": 45,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2930,
+                "stars": 2935,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3313,7 +3313,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2886,
+                "stars": 2889,
                 "topics": [
                   "infra",
                   "long",
@@ -3344,7 +3344,7 @@
                 "open_issues": 19,
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1171,
+                "stars": 1172,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3365,7 +3365,7 @@
                 "open_issues": 8,
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1143,
+                "stars": 1144,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3476,7 +3476,7 @@
                 "open_issues": 2,
                 "owner": "galilai-group",
                 "repo": "llm-jepa",
-                "stars": 359,
+                "stars": 360,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3848,6 +3848,27 @@
             },
             {
               "node_type": "item",
+              "title": "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning. [Paper",
+              "description": "BasisResearch/predicators",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learning for effective and efficient bilevel planning",
+                "homepage": null,
+                "id": 924105199,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-15T12:10:47Z",
+                "open_issues": 12,
+                "owner": "BasisResearch",
+                "repo": "predicators",
+                "stars": 27,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T20:02:18.985Z"
+            },
+            {
+              "node_type": "item",
               "title": "RoboScape: Physics-informed Embodied World Model. [Paper",
               "description": "tsinghua-fib-lab/RoboScape",
               "children": [],
@@ -3866,27 +3887,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning. [Paper",
-              "description": "BasisResearch/predicators",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Learning for effective and efficient bilevel planning",
-                "homepage": null,
-                "id": 924105199,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-15T12:10:47Z",
-                "open_issues": 12,
-                "owner": "BasisResearch",
-                "repo": "predicators",
-                "stars": 26,
-                "topics": []
-              },
-              "first_seen": "2026-10-10T20:02:18.985Z"
             },
             {
               "node_type": "item",
@@ -4085,7 +4085,7 @@
                 "open_issues": 59,
                 "owner": "LargeWorldModel",
                 "repo": "LWM",
-                "stars": 7420,
+                "stars": 7419,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4106,7 +4106,7 @@
                 "open_issues": 65,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4204,
+                "stars": 4207,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4127,7 +4127,7 @@
                 "open_issues": 12,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2128,
+                "stars": 2129,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -5218,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:12:22.746Z",
+    "last_updated": "2026-11-17T23:28:43.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
