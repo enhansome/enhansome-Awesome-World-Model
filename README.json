@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2198,
+                "stars": 2197,
                 "topics": [
                   "agent",
                   "causality",
@@ -315,7 +315,7 @@
                 "open_issues": 0,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 375,
+                "stars": 376,
                 "topics": [
                   "autonoumous-driving",
                   "vision-language-action-model",
@@ -340,7 +340,7 @@
                 "open_issues": 2,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 211,
+                "stars": 212,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -399,7 +399,7 @@
                 "id": 1181536271,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T09:20:01Z",
+                "last_commit": "2026-11-18T13:56:13Z",
                 "open_issues": 0,
                 "owner": "TabGuigui",
                 "repo": "WorldDrive",
@@ -487,7 +487,7 @@
                 "open_issues": 6,
                 "owner": "mengtan00",
                 "repo": "ResWorld",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -620,6 +620,27 @@
             },
             {
               "node_type": "item",
+              "title": "PanoBench: A Panoptic Occupancy Prediction Benchmark for Autonomous Driving. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1422169962,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-21T10:59:53Z",
+                "open_issues": 0,
+                "owner": "fengyi233",
+                "repo": "PanoBench",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-10-24T18:45:45.795Z"
+            },
+            {
+              "node_type": "item",
               "title": "RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -638,27 +659,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-22T20:02:26.726Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PanoBench: A Panoptic Occupancy Prediction Benchmark for Autonomous Driving. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1422169962,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-21T10:59:53Z",
-                "open_issues": 0,
-                "owner": "fengyi233",
-                "repo": "PanoBench",
-                "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-10-24T18:45:45.795Z"
             },
             {
               "node_type": "item",
@@ -733,7 +733,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 819,
+                "stars": 818,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -786,7 +786,7 @@
                 "open_issues": 8,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 392,
+                "stars": 393,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -991,7 +991,7 @@
                 "open_issues": 1,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -1016,7 +1016,7 @@
                 "open_issues": 2,
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "autonomous-driving",
                   "mobile-robots",
@@ -1060,7 +1060,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-26T08:26:12Z",
-                "open_issues": 11,
+                "open_issues": 10,
                 "owner": "6550Zhao",
                 "repo": "Policy-World-Model",
                 "stars": 82,
@@ -1105,7 +1105,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "adljepa",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "autonomous-driving",
                   "lidar-point-cloud",
@@ -1132,10 +1132,34 @@
                 "open_issues": 6,
                 "owner": "JLChen-C",
                 "repo": "OccProphet",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "4d-occupancy-forecasting",
                   "autonomous-driving"
+                ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[PreWorld] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving. [Paper",
+              "description": "getterupper/PreWorld",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2025] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving",
+                "homepage": "https://arxiv.org/abs/2502.07309",
+                "id": 905243430,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-02-14T07:03:13Z",
+                "open_issues": 2,
+                "owner": "getterupper",
+                "repo": "PreWorld",
+                "stars": 60,
+                "topics": [
+                  "autonomous-driving",
+                  "occupancy-prediction"
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1158,30 +1182,6 @@
                 "repo": "GeoDrive",
                 "stars": 60,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[PreWorld] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving. [Paper",
-              "description": "getterupper/PreWorld",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR 2025] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving",
-                "homepage": "https://arxiv.org/abs/2502.07309",
-                "id": 905243430,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-02-14T07:03:13Z",
-                "open_issues": 2,
-                "owner": "getterupper",
-                "repo": "PreWorld",
-                "stars": 59,
-                "topics": [
-                  "autonomous-driving",
-                  "occupancy-prediction"
-                ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
             },
@@ -1337,7 +1337,7 @@
                 "open_issues": 9,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1168,
+                "stars": 1169,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -1552,7 +1552,7 @@
                 "open_issues": 4,
                 "owner": "ucd-dare",
                 "repo": "CarDreamer",
-                "stars": 384,
+                "stars": 385,
                 "topics": [
                   "autonomous-driving",
                   "foundation-models",
@@ -2054,7 +2054,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4586,
+                "stars": 4589,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -2081,7 +2081,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2889,
+                "stars": 2893,
                 "topics": [
                   "infra",
                   "long",
@@ -2112,7 +2112,7 @@
                 "open_issues": 48,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2269,
+                "stars": 2270,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -2175,7 +2175,7 @@
                 "open_issues": 5,
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 491,
+                "stars": 492,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2320,7 +2320,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-03T06:38:36Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "zhaozijie2022",
                 "repo": "seqwm",
                 "stars": 125,
@@ -2691,7 +2691,7 @@
                 "open_issues": 0,
                 "owner": "weiqi-zhang",
                 "repo": "AEON",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
@@ -3203,7 +3203,7 @@
                 "open_issues": 16,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12387,
+                "stars": 12401,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3224,7 +3224,7 @@
                 "open_issues": 79,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3990,
+                "stars": 3995,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3252,7 +3252,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2972,
+                "stars": 2977,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3283,7 +3283,7 @@
                 "open_issues": 45,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2935,
+                "stars": 2940,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3313,7 +3313,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2889,
+                "stars": 2893,
                 "topics": [
                   "infra",
                   "long",
@@ -3563,7 +3563,7 @@
                 "open_issues": 2,
                 "owner": "qiwang067",
                 "repo": "LS-Imagine",
-                "stars": 242,
+                "stars": 243,
                 "topics": [
                   "dreamer",
                   "dreamerv2",
@@ -3635,7 +3635,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-12-26T07:59:43Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
                 "stars": 97,
@@ -3746,7 +3746,7 @@
                 "open_issues": 3,
                 "owner": "ulab-uiuc",
                 "repo": "GWM",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4085,7 +4085,7 @@
                 "open_issues": 59,
                 "owner": "LargeWorldModel",
                 "repo": "LWM",
-                "stars": 7419,
+                "stars": 7418,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4103,7 +4103,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-02-27T23:15:27Z",
-                "open_issues": 65,
+                "open_issues": 64,
                 "owner": "facebookresearch",
                 "repo": "jepa",
                 "stars": 4207,
@@ -4187,7 +4187,7 @@
                 "open_issues": 16,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 1004,
+                "stars": 1006,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -5034,7 +5034,7 @@
                 "open_issues": 7,
                 "owner": "danijar",
                 "repo": "daydreamer",
-                "stars": 474,
+                "stars": 475,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -5138,7 +5138,7 @@
                 "open_issues": 11,
                 "owner": "danijar",
                 "repo": "dreamerv2",
-                "stars": 1063,
+                "stars": 1064,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -5218,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:28:43.545Z",
+    "last_updated": "2026-11-18T22:55:51.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -5230,7 +5230,7 @@
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2304,
+      "stars": 2305,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
