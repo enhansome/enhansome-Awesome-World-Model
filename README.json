@@ -634,7 +634,7 @@
                 "open_issues": 0,
                 "owner": "adept-thu",
                 "repo": "ActWorld-JEPA",
-                "stars": 16,
+                "stars": 23,
                 "topics": [
                   "autonomous-driving",
                   "jepa",
@@ -690,6 +690,27 @@
             },
             {
               "node_type": "item",
+              "title": "PanDWM: Panoramic 4D Driving World Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PanDWM: Panoramic 4D Driving World Models",
+                "homepage": "https://aigeeksgroup.github.io/PanDWM/",
+                "id": 1305575641,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-21T08:55:25Z",
+                "open_issues": 0,
+                "owner": "AIGeeksGroup",
+                "repo": "PanDWM",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:38:37.372Z"
+            },
+            {
+              "node_type": "item",
               "title": "Drive2Gauss: FeedForward 4D Gaussian Reconstruction from Multimodal Generative Driving Videos. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -708,27 +729,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PanDWM: Panoramic 4D Driving World Models. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PanDWM: Panoramic 4D Driving World Models",
-                "homepage": "https://aigeeksgroup.github.io/PanDWM/",
-                "id": 1305575641,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-20T21:47:41Z",
-                "open_issues": 0,
-                "owner": "AIGeeksGroup",
-                "repo": "PanDWM",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-11-20T22:38:37.372Z"
             },
             {
               "node_type": "item",
@@ -771,7 +771,7 @@
                 "id": 1463037330,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-18T19:47:33Z",
+                "last_commit": "2026-11-21T19:54:33Z",
                 "open_issues": 0,
                 "owner": "binayksingh",
                 "repo": "does-action-matter",
@@ -851,7 +851,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1502,7 +1502,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 810,
+                "stars": 811,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -1617,7 +1617,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1821,7 +1821,7 @@
                 "open_issues": 7,
                 "owner": "HorizonRobotics",
                 "repo": "GUMP",
-                "stars": 177,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2166,7 +2166,7 @@
                 "open_issues": 42,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4591,
+                "stars": 4592,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -2193,7 +2193,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2895,
+                "stars": 2896,
                 "topics": [
                   "infra",
                   "long",
@@ -2221,10 +2221,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-01T09:00:35Z",
-                "open_issues": 52,
+                "open_issues": 55,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2272,
+                "stars": 2271,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -2266,7 +2266,7 @@
                 "open_issues": 78,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1988,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2435,7 +2435,7 @@
                 "open_issues": 4,
                 "owner": "NM512",
                 "repo": "r2dreamer",
-                "stars": 200,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2456,7 +2456,7 @@
                 "open_issues": 1,
                 "owner": "inclusionAI",
                 "repo": "CodeWorldModel",
-                "stars": 154,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-11-20T22:38:37.372Z"
@@ -2814,6 +2814,32 @@
             },
             {
               "node_type": "item",
+              "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository for Mind2Act World",
+                "homepage": "https://mind2act-world.com/",
+                "id": 1454784621,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-20T06:40:19Z",
+                "open_issues": 0,
+                "owner": "Mind2Act",
+                "repo": "Mind2Act_World",
+                "stars": 30,
+                "topics": [
+                  "benchmark",
+                  "embodied-ai",
+                  "manipulation",
+                  "robotics"
+                ]
+              },
+              "first_seen": "2026-11-21T21:37:23.122Z"
+            },
+            {
+              "node_type": "item",
               "title": "ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning. [Paper",
               "description": "] [Code] [Blog]",
               "children": [],
@@ -2928,6 +2954,27 @@
             },
             {
               "node_type": "item",
+              "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It? [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "If Code Builds the World, Can Video Models Just Render It?",
+                "homepage": null,
+                "id": 1454020656,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-13T05:25:02Z",
+                "open_issues": 0,
+                "owner": "KevinHuge",
+                "repo": "WorldDraft",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:38:37.372Z"
+            },
+            {
+              "node_type": "item",
               "title": "RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -2972,27 +3019,6 @@
                   "agent",
                   "llm"
                 ]
-              },
-              "first_seen": "2026-11-20T22:38:37.372Z"
-            },
-            {
-              "node_type": "item",
-              "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It? [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "If Code Builds the World, Can Video Models Just Render It?",
-                "homepage": null,
-                "id": 1454020656,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-13T05:25:02Z",
-                "open_issues": 0,
-                "owner": "KevinHuge",
-                "repo": "WorldDraft",
-                "stars": 18,
-                "topics": []
               },
               "first_seen": "2026-11-20T22:38:37.372Z"
             },
@@ -3160,6 +3186,27 @@
             },
             {
               "node_type": "item",
+              "title": "JEPA4R: Embodied JEPA World Models with 4D Point Planning. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "JEPA4R: Embodied JEPA World Models with 4D Point Planning",
+                "homepage": "https://aigeeksgroup.github.io/JEPA4R/",
+                "id": 1358688161,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-17T22:44:52Z",
+                "open_issues": 0,
+                "owner": "AIGeeksGroup",
+                "repo": "JEPA4R",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:38:37.372Z"
+            },
+            {
+              "node_type": "item",
               "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -3210,6 +3257,27 @@
             },
             {
               "node_type": "item",
+              "title": "Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models. [Paper",
+              "description": "DeepCybo-PhysAI/Fast-JEPA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://deepcybo-physai.github.io/Fast-JEPA/",
+                "id": 1463816409,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-21T07:59:11Z",
+                "open_issues": 1,
+                "owner": "DeepCybo-PhysAI",
+                "repo": "Fast-JEPA",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-21T21:37:23.122Z"
+            },
+            {
+              "node_type": "item",
               "title": "APM: Distilling World Action Models for Efficient Bimanual Manipulation via Anchored Path Matching. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -3231,27 +3299,6 @@
             },
             {
               "node_type": "item",
-              "title": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation",
-                "homepage": "https://aigeeksgroup.github.io/WAM-Policy/",
-                "id": 1276842378,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-20T10:59:59Z",
-                "open_issues": 1,
-                "owner": "AIGeeksGroup",
-                "repo": "WAM-Policy",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-11-20T22:38:37.372Z"
-            },
-            {
-              "node_type": "item",
               "title": "Video World Models Need Predictable Latents. [Paper",
               "description": "mattia-scardecchia/predictable-latents",
               "children": [],
@@ -3266,10 +3313,31 @@
                 "open_issues": 0,
                 "owner": "mattia-scardecchia",
                 "repo": "predictable-latents",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-10-27T20:39:51.463Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation",
+                "homepage": "https://aigeeksgroup.github.io/WAM-Policy/",
+                "id": 1276842378,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-20T23:59:32Z",
+                "open_issues": 1,
+                "owner": "AIGeeksGroup",
+                "repo": "WAM-Policy",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:38:37.372Z"
             },
             {
               "node_type": "item",
@@ -3294,6 +3362,27 @@
             },
             {
               "node_type": "item",
+              "title": "WAMotor: Accelerating World Action Models via Speculative Inference under Dual Nonuniform Denoising Dynamics. [Paper",
+              "description": "Overdue-Lin/WAMotor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Implementation of WAMotor: Accelerating World Action Models via Speculative Inference under Dual Nonuniform Denoising Dynamics. https://arxiv.org/abs/2611.25413",
+                "homepage": null,
+                "id": 1461187232,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-11-20T03:00:56Z",
+                "open_issues": 0,
+                "owner": "Overdue-Lin",
+                "repo": "WAMotor",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-11-21T21:37:23.122Z"
+            },
+            {
+              "node_type": "item",
               "title": "DepthWorld: 3D World Model for Robot Manipulation. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -3312,27 +3401,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-22T20:02:26.726Z"
-            },
-            {
-              "node_type": "item",
-              "title": "JEPA4R: Embodied JEPA World Models with 4D Point Planning. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "JEPA4R: Embodied JEPA World Models with 4D Point Planning",
-                "homepage": "https://aigeeksgroup.github.io/JEPA4R/",
-                "id": 1358688161,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-17T22:44:52Z",
-                "open_issues": 0,
-                "owner": "AIGeeksGroup",
-                "repo": "JEPA4R",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-11-20T22:38:37.372Z"
             },
             {
               "node_type": "item",
@@ -3375,6 +3443,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-30T19:17:56.585Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models. [Paper",
+              "description": "] [Code] [Project] [Dataset] [Model]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models",
+                "homepage": null,
+                "id": 1282045127,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-16T22:16:47Z",
+                "open_issues": 0,
+                "owner": "AlwaySleepy",
+                "repo": "MoRE-WM",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-21T21:37:23.122Z"
             },
             {
               "node_type": "item",
@@ -3623,6 +3712,27 @@
             },
             {
               "node_type": "item",
+              "title": "Stuck in Place: Stall Diagnosis and Remedies for JEPA Planners. [Paper",
+              "description": "jhlee0619/unstick",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Stuck in Place: Stall Diagnosis and Remedies for JEPA Planners",
+                "homepage": null,
+                "id": 1463472177,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-21T01:14:11Z",
+                "open_issues": 0,
+                "owner": "jhlee0619",
+                "repo": "unstick",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-21T21:37:23.122Z"
+            },
+            {
+              "node_type": "item",
               "title": "Correcting a Learned Physical Invariant Improves World-Model Rollouts. [Paper",
               "description": "Zarand3r/world-model-invariants",
               "children": [],
@@ -3665,7 +3775,7 @@
                 "open_issues": 14,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12424,
+                "stars": 12429,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3683,10 +3793,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-04T05:02:53Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 4000,
+                "stars": 4001,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3714,7 +3824,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2980,
+                "stars": 2982,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3745,7 +3855,7 @@
                 "open_issues": 45,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2945,
+                "stars": 2950,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3775,7 +3885,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2895,
+                "stars": 2896,
                 "topics": [
                   "infra",
                   "long",
@@ -3879,7 +3989,7 @@
                 "open_issues": 24,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 829,
+                "stars": 830,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4176,7 +4286,7 @@
                 "open_issues": 2,
                 "owner": "gboduljak",
                 "repo": "vfmf",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4194,7 +4304,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-04-18T02:58:02Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "LeapLabTHU",
                 "repo": "EchoWorld",
                 "stars": 54,
@@ -4620,7 +4730,7 @@
                 "open_issues": 64,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4208,
+                "stars": 4210,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4641,7 +4751,7 @@
                 "open_issues": 12,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2128,
+                "stars": 2130,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -5012,7 +5122,7 @@
                 "open_issues": 6,
                 "owner": "OSU-NLP-Group",
                 "repo": "WebDreamer",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -5548,7 +5658,7 @@
                 "open_issues": 7,
                 "owner": "danijar",
                 "repo": "daydreamer",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -5732,7 +5842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:38:37.372Z",
+    "last_updated": "2026-11-21T21:37:23.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -5740,7 +5850,7 @@
       "id": 738046322,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-20T06:10:52Z",
+      "last_commit": "2026-11-21T13:44:44Z",
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
@@ -5758,7 +5868,7 @@
         "world-model"
       ]
     },
-    "original_repository_sha": "a417f4cf9bd3f2142fde336bc8da5b5b027e2dfe",
+    "original_repository_sha": "04f8fedfc32000e55d1111f7d9c2c6118a89e46c",
     "enhanced_repository": "enhansome/enhansome-Awesome-World-Model",
     "enhanced_repository_description": null,
     "title": "Awesome World Models for Autonomous Driving with stars"
