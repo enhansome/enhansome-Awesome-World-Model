@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2198,
+                "stars": 2197,
                 "topics": [
                   "agent",
                   "causality",
@@ -53,7 +53,7 @@
                 "open_issues": 1,
                 "owner": "worldbench",
                 "repo": "awesome-3d-4d-world-models",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -340,7 +340,7 @@
                 "open_issues": 2,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 213,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -494,6 +494,34 @@
             },
             {
               "node_type": "item",
+              "title": "ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Action-conditioned JEPA world models and latent planning. Main deployments for NAVSIM v1/v2 and nuScenes.",
+                "homepage": "https://adept-thu.github.io/ActWorld-JEPA/",
+                "id": 1408298538,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-23T07:32:14Z",
+                "open_issues": 0,
+                "owner": "adept-thu",
+                "repo": "ActWorld-JEPA",
+                "stars": 71,
+                "topics": [
+                  "autonomous-driving",
+                  "jepa",
+                  "navsim",
+                  "nuscenes",
+                  "trajectory-planning",
+                  "world-model"
+                ]
+              },
+              "first_seen": "2026-11-20T22:38:37.372Z"
+            },
+            {
+              "node_type": "item",
               "title": "DriveVA: Video Action Models are Zero-Shot Drivers. [Paper",
               "description": "xiaomi-mlab/DriveVA",
               "children": [],
@@ -512,34 +540,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-02T20:40:56.237Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Action-conditioned JEPA world models and latent planning. Main deployments for NAVSIM v1/v2 and nuScenes.",
-                "homepage": "https://adept-thu.github.io/ActWorld-JEPA/",
-                "id": 1408298538,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-23T07:32:14Z",
-                "open_issues": 0,
-                "owner": "adept-thu",
-                "repo": "ActWorld-JEPA",
-                "stars": 63,
-                "topics": [
-                  "autonomous-driving",
-                  "jepa",
-                  "navsim",
-                  "nuscenes",
-                  "trajectory-planning",
-                  "world-model"
-                ]
-              },
-              "first_seen": "2026-11-20T22:38:37.372Z"
             },
             {
               "node_type": "item",
@@ -641,7 +641,7 @@
                 "open_issues": 2,
                 "owner": "tsinghua-fib-lab",
                 "repo": "UrbanWorld2.0",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-11-10T00:13:04.064Z"
@@ -683,7 +683,7 @@
                 "open_issues": 0,
                 "owner": "Applied-Intuition-Open-Source",
                 "repo": "RayNova",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-10-22T20:02:26.726Z"
@@ -704,7 +704,7 @@
                 "open_issues": 1,
                 "owner": "AIGeeksGroup",
                 "repo": "PanDWM",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-11-20T22:38:37.372Z"
@@ -746,7 +746,7 @@
                 "open_issues": 0,
                 "owner": "InSAI-Lab",
                 "repo": "OccStress",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "autonomous-driving",
                   "benchmark",
@@ -824,7 +824,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 818,
+                "stars": 819,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -877,7 +877,7 @@
                 "open_issues": 8,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 393,
+                "stars": 394,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1107,7 +1107,7 @@
                 "open_issues": 2,
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 173,
+                "stars": 174,
                 "topics": [
                   "autonomous-driving",
                   "mobile-robots",
@@ -1477,7 +1477,7 @@
                 "open_issues": 24,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 913,
+                "stars": 914,
                 "topics": [
                   "autonomous-driving",
                   "video-generation",
@@ -1551,10 +1551,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-04-12T08:22:17Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 599,
+                "stars": 600,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -1798,7 +1798,7 @@
                 "open_issues": 1,
                 "owner": "vzyrianov",
                 "repo": "LidarDM",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "lidar-generation"
                 ]
@@ -2166,7 +2166,7 @@
                 "open_issues": 42,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4597,
+                "stars": 4598,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -2184,17 +2184,18 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Long Video Gen / World Model / World Action Model (Embodied) Infrastructure",
+                "description": "Agentic, Robotic, Transferable, Infra-native, Interactive Long Video Gen",
                 "homepage": "https://nvlabs.github.io/LongLive",
                 "id": 1062167576,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T02:42:38Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-26T16:45:30Z",
+                "open_issues": 1,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2909,
+                "stars": 2913,
                 "topics": [
+                  "agent",
                   "infra",
                   "long",
                   "nvfp4",
@@ -2202,8 +2203,8 @@
                   "real-time",
                   "robotics",
                   "video-generation",
-                  "world-action-models",
-                  "world-models"
+                  "world-action-model",
+                  "world-model"
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2224,7 +2225,7 @@
                 "open_issues": 55,
                 "owner": "PKU-YuanGroup",
                 "repo": "Helios",
-                "stars": 2285,
+                "stars": 2288,
                 "topics": [
                   "acceleration",
                   "diffusion",
@@ -2266,7 +2267,7 @@
                 "open_issues": 78,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1992,
+                "stars": 1994,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2334,7 +2335,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 373,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-11-20T22:38:37.372Z"
@@ -2406,7 +2407,7 @@
                 "open_issues": 14,
                 "owner": "OpenWAM",
                 "repo": "OpenWAM",
-                "stars": 256,
+                "stars": 257,
                 "topics": [
                   "dynamics-learning",
                   "pretrained-models",
@@ -2418,27 +2419,6 @@
                 ]
               },
               "first_seen": "2026-10-10T20:02:18.985Z"
-            },
-            {
-              "node_type": "item",
-              "title": "R2-Dreamer: Redundancy-Reduced World Models without Decoders or Augmentation. [Paper",
-              "description": "NM512/r2dreamer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Implementation of R2-Dreamer.",
-                "homepage": null,
-                "id": 1158497267,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-17T12:30:42Z",
-                "open_issues": 4,
-                "owner": "NM512",
-                "repo": "r2dreamer",
-                "stars": 203,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
             },
             {
               "node_type": "item",
@@ -2456,10 +2436,31 @@
                 "open_issues": 2,
                 "owner": "inclusionAI",
                 "repo": "CodeWorldModel",
-                "stars": 190,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-11-20T22:38:37.372Z"
+            },
+            {
+              "node_type": "item",
+              "title": "R2-Dreamer: Redundancy-Reduced World Models without Decoders or Augmentation. [Paper",
+              "description": "NM512/r2dreamer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Implementation of R2-Dreamer.",
+                "homepage": null,
+                "id": 1158497267,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-17T12:30:42Z",
+                "open_issues": 4,
+                "owner": "NM512",
+                "repo": "r2dreamer",
+                "stars": 204,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
             },
             {
               "node_type": "item",
@@ -2523,7 +2524,7 @@
                 "open_issues": 0,
                 "owner": "Anyverse-Dynamics",
                 "repo": "Phoenix-MWA",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-11-20T22:38:37.372Z"
@@ -2656,11 +2657,11 @@
                 "id": 1454784621,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-23T14:06:04Z",
+                "last_commit": "2026-11-26T13:22:47Z",
                 "open_issues": 0,
                 "owner": "Mind2Act",
                 "repo": "Mind2Act_World",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "benchmark",
                   "embodied-ai",
@@ -3107,7 +3108,7 @@
                 "open_issues": 2,
                 "owner": "brave-eai",
                 "repo": "DreamTrue",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-11-20T22:38:37.372Z"
@@ -3404,6 +3405,27 @@
             },
             {
               "node_type": "item",
+              "title": "HINT-WAM: Hindsight-Informed Training for World Action Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1460326880,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-19T05:02:23Z",
+                "open_issues": 1,
+                "owner": "tuandattt",
+                "repo": "hintwam_code",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:38:37.372Z"
+            },
+            {
+              "node_type": "item",
               "title": "RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence. [Paper",
               "description": "PrimitiveX/RoboSeed",
               "children": [],
@@ -3467,22 +3489,29 @@
             },
             {
               "node_type": "item",
-              "title": "HINT-WAM: Hindsight-Informed Training for World Action Models. [Paper",
-              "description": "] [Code] [Project]",
+              "title": "StrideWorld: Benchmarking Scene Rigidity and Action Consistency in Interactive Video World Model. [Paper",
+              "description": "chuangwang123/strideworld",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1460326880,
+                "description": "StrideWorld benchmark for scene rigidity and action consistency in interactive video world models.",
+                "homepage": "https://huggingface.co/spaces/strideworld-release/strideworld-leaderboard",
+                "id": 1453574486,
                 "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-19T05:02:23Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-18T12:14:21Z",
                 "open_issues": 1,
-                "owner": "tuandattt",
-                "repo": "hintwam_code",
+                "owner": "chuangwang123",
+                "repo": "strideworld",
                 "stars": 4,
-                "topics": []
+                "topics": [
+                  "benchmark",
+                  "computer-vision",
+                  "generative-video",
+                  "strideworld",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-11-20T22:38:37.372Z"
             },
@@ -3546,34 +3575,6 @@
                 "repo": "diwali",
                 "stars": 3,
                 "topics": []
-              },
-              "first_seen": "2026-11-20T22:38:37.372Z"
-            },
-            {
-              "node_type": "item",
-              "title": "StrideWorld: Benchmarking Scene Rigidity and Action Consistency in Interactive Video World Model. [Paper",
-              "description": "chuangwang123/strideworld",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "StrideWorld benchmark for scene rigidity and action consistency in interactive video world models.",
-                "homepage": "https://huggingface.co/spaces/strideworld-release/strideworld-leaderboard",
-                "id": 1453574486,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-18T12:14:21Z",
-                "open_issues": 1,
-                "owner": "chuangwang123",
-                "repo": "strideworld",
-                "stars": 3,
-                "topics": [
-                  "benchmark",
-                  "computer-vision",
-                  "generative-video",
-                  "strideworld",
-                  "video-generation",
-                  "world-models"
-                ]
               },
               "first_seen": "2026-11-20T22:38:37.372Z"
             },
@@ -3772,10 +3773,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-19T05:20:52Z",
-                "open_issues": 15,
+                "open_issues": 14,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12464,
+                "stars": 12473,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3796,7 +3797,7 @@
                 "open_issues": 88,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 4020,
+                "stars": 4026,
                 "topics": [
                   "artificial-intelligence",
                   "general",
@@ -3804,6 +3805,36 @@
                   "minecraft",
                   "reinforcement-learning",
                   "world-models"
+                ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model. [Paper",
+              "description": "SkyworkAI/Matrix-Game",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
+                "homepage": "https://matrix-game-v4-0.github.io/page/",
+                "id": 978649191,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-29T02:26:29Z",
+                "open_issues": 47,
+                "owner": "SkyworkAI",
+                "repo": "Matrix-Game",
+                "stars": 2995,
+                "topics": [
+                  "genie",
+                  "interactive-video",
+                  "long-horizon-memory",
+                  "long-sequence",
+                  "long-video",
+                  "real-time",
+                  "video-generation",
+                  "world-model"
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3841,52 +3872,23 @@
             },
             {
               "node_type": "item",
-              "title": "Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model. [Paper",
-              "description": "SkyworkAI/Matrix-Game",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
-                "homepage": "https://matrix-game-v4-0.github.io/page/",
-                "id": 978649191,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-29T02:26:29Z",
-                "open_issues": 47,
-                "owner": "SkyworkAI",
-                "repo": "Matrix-Game",
-                "stars": 2991,
-                "topics": [
-                  "genie",
-                  "interactive-video",
-                  "long-horizon-memory",
-                  "long-sequence",
-                  "long-video",
-                  "real-time",
-                  "video-generation",
-                  "world-model"
-                ]
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
               "title": "LongLive: Real-time Interactive Long Video Generation. [Paper",
               "description": "] [Code] [OpenReview]",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Long Video Gen / World Model / World Action Model (Embodied) Infrastructure",
+                "description": "Agentic, Robotic, Transferable, Infra-native, Interactive Long Video Gen",
                 "homepage": "https://nvlabs.github.io/LongLive",
                 "id": 1062167576,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T02:42:38Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-26T16:45:30Z",
+                "open_issues": 1,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2909,
+                "stars": 2913,
                 "topics": [
+                  "agent",
                   "infra",
                   "long",
                   "nvfp4",
@@ -3894,8 +3896,8 @@
                   "real-time",
                   "robotics",
                   "video-generation",
-                  "world-action-models",
-                  "world-models"
+                  "world-action-model",
+                  "world-model"
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3916,7 +3918,7 @@
                 "open_issues": 30,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-Voyager",
-                "stars": 1611,
+                "stars": 1613,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3947,7 +3949,7 @@
                 "open_issues": 19,
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1172,
+                "stars": 1173,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3989,7 +3991,7 @@
                 "open_issues": 24,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 829,
+                "stars": 828,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4730,7 +4732,7 @@
                 "open_issues": 63,
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4213,
+                "stars": 4214,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -4751,7 +4753,7 @@
                 "open_issues": 12,
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2135,
+                "stars": 2137,
                 "topics": [
                   "artificial-intelligence",
                   "atari",
@@ -4811,7 +4813,7 @@
                 "open_issues": 16,
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 1008,
+                "stars": 1010,
                 "topics": [
                   "reinforcement-learning",
                   "robotics",
@@ -5842,7 +5844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:16:16.946Z",
+    "last_updated": "2026-11-27T00:33:02.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
@@ -5854,7 +5856,7 @@
       "open_issues": 0,
       "owner": "LMD0311",
       "repo": "Awesome-World-Model",
-      "stars": 2305,
+      "stars": 2306,
       "topics": [
         "artificial-intelligence",
         "artificial-intelligence-algorithms",
