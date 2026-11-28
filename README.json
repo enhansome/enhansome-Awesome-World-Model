@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2197,
+                "stars": 2196,
                 "topics": [
                   "agent",
                   "causality",
@@ -340,7 +340,7 @@
                 "open_issues": 2,
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -410,6 +410,27 @@
             },
             {
               "node_type": "item",
+              "title": "WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2026] WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving",
+                "homepage": "https://wm-research.github.io/worldsplat/",
+                "id": 1196277923,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-03-31T03:54:22Z",
+                "open_issues": 4,
+                "owner": "xiaomi-research",
+                "repo": "worldsplat",
+                "stars": 84,
+                "topics": []
+              },
+              "first_seen": "2026-11-10T00:13:04.064Z"
+            },
+            {
+              "node_type": "item",
               "title": "[ORAD-3D] Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks. [Paper",
               "description": "chaytonmin/ORAD-3D-Dataset-For-Off-Road-AD",
               "children": [],
@@ -431,24 +452,31 @@
             },
             {
               "node_type": "item",
-              "title": "WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving. [Paper",
+              "title": "ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[ICLR 2026] WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving",
-                "homepage": "https://wm-research.github.io/worldsplat/",
-                "id": 1196277923,
+                "description": "Action-conditioned JEPA world models and latent planning. Main deployments for NAVSIM v1/v2 and nuScenes.",
+                "homepage": "https://adept-thu.github.io/ActWorld-JEPA/",
+                "id": 1408298538,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-03-31T03:54:22Z",
-                "open_issues": 4,
-                "owner": "xiaomi-research",
-                "repo": "worldsplat",
+                "last_commit": "2026-11-23T07:32:14Z",
+                "open_issues": 0,
+                "owner": "adept-thu",
+                "repo": "ActWorld-JEPA",
                 "stars": 83,
-                "topics": []
+                "topics": [
+                  "autonomous-driving",
+                  "jepa",
+                  "navsim",
+                  "nuscenes",
+                  "trajectory-planning",
+                  "world-model"
+                ]
               },
-              "first_seen": "2026-11-10T00:13:04.064Z"
+              "first_seen": "2026-11-20T22:38:37.372Z"
             },
             {
               "node_type": "item",
@@ -491,34 +519,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Action-conditioned JEPA world models and latent planning. Main deployments for NAVSIM v1/v2 and nuScenes.",
-                "homepage": "https://adept-thu.github.io/ActWorld-JEPA/",
-                "id": 1408298538,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-23T07:32:14Z",
-                "open_issues": 0,
-                "owner": "adept-thu",
-                "repo": "ActWorld-JEPA",
-                "stars": 71,
-                "topics": [
-                  "autonomous-driving",
-                  "jepa",
-                  "navsim",
-                  "nuscenes",
-                  "trajectory-planning",
-                  "world-model"
-                ]
-              },
-              "first_seen": "2026-11-20T22:38:37.372Z"
             },
             {
               "node_type": "item",
@@ -648,6 +648,27 @@
             },
             {
               "node_type": "item",
+              "title": "PanDWM: Panoramic 4D Driving World Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PanDWM: Panoramic 4D Driving World Models",
+                "homepage": "https://aigeeksgroup.github.io/PanDWM/",
+                "id": 1305575641,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-21T08:55:25Z",
+                "open_issues": 1,
+                "owner": "AIGeeksGroup",
+                "repo": "PanDWM",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:38:37.372Z"
+            },
+            {
+              "node_type": "item",
               "title": "PanoBench: A Panoptic Occupancy Prediction Benchmark for Autonomous Driving. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -687,27 +708,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-22T20:02:26.726Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PanDWM: Panoramic 4D Driving World Models. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PanDWM: Panoramic 4D Driving World Models",
-                "homepage": "https://aigeeksgroup.github.io/PanDWM/",
-                "id": 1305575641,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-21T08:55:25Z",
-                "open_issues": 1,
-                "owner": "AIGeeksGroup",
-                "repo": "PanDWM",
-                "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-11-20T22:38:37.372Z"
             },
             {
               "node_type": "item",
@@ -1996,7 +1996,7 @@
                 "open_issues": 3,
                 "owner": "turingmotors",
                 "repo": "ACT-Bench",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "autonomous-driving",
                   "benchmark",
@@ -2166,7 +2166,7 @@
                 "open_issues": 42,
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4598,
+                "stars": 4596,
                 "topics": [
                   "aigc",
                   "image-to-video",
@@ -2193,7 +2193,7 @@
                 "open_issues": 1,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2913,
+                "stars": 2932,
                 "topics": [
                   "agent",
                   "infra",
@@ -2267,7 +2267,7 @@
                 "open_issues": 78,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1994,
+                "stars": 1995,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -2335,7 +2335,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 375,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-11-20T22:38:37.372Z"
@@ -2393,6 +2393,27 @@
             },
             {
               "node_type": "item",
+              "title": "Code World Model 2.0: Towards Infinite Controllable Video Generation. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1453599674,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-20T03:44:39Z",
+                "open_issues": 2,
+                "owner": "inclusionAI",
+                "repo": "CodeWorldModel",
+                "stars": 271,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:38:37.372Z"
+            },
+            {
+              "node_type": "item",
               "title": "OpenWAM: An Open Framework for Composable World-Action Models. [Paper",
               "description": "] [Code] [Project]",
               "children": [],
@@ -2419,27 +2440,6 @@
                 ]
               },
               "first_seen": "2026-10-10T20:02:18.985Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Code World Model 2.0: Towards Infinite Controllable Video Generation. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1453599674,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-20T03:44:39Z",
-                "open_issues": 2,
-                "owner": "inclusionAI",
-                "repo": "CodeWorldModel",
-                "stars": 218,
-                "topics": []
-              },
-              "first_seen": "2026-11-20T22:38:37.372Z"
             },
             {
               "node_type": "item",
@@ -2489,6 +2489,27 @@
             },
             {
               "node_type": "item",
+              "title": "Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models. [Paper",
+              "description": "] [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Foudation Model of Anyverse MWA™",
+                "homepage": "https://openphoenix-team.github.io/Phoenix-pages/",
+                "id": 1427115849,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-19T10:08:00Z",
+                "open_issues": 0,
+                "owner": "Anyverse-Dynamics",
+                "repo": "Phoenix-MWA",
+                "stars": 108,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T22:38:37.372Z"
+            },
+            {
+              "node_type": "item",
               "title": "Inference-time Physics Alignment of Video Generative Models with Latent World Models. [Paper",
               "description": "facebookresearch/WMReward",
               "children": [],
@@ -2507,27 +2528,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models. [Paper",
-              "description": "] [Code] [Project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Foudation Model of Anyverse MWA™",
-                "homepage": "https://openphoenix-team.github.io/Phoenix-pages/",
-                "id": 1427115849,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-19T10:08:00Z",
-                "open_issues": 0,
-                "owner": "Anyverse-Dynamics",
-                "repo": "Phoenix-MWA",
-                "stars": 106,
-                "topics": []
-              },
-              "first_seen": "2026-11-20T22:38:37.372Z"
             },
             {
               "node_type": "item",
@@ -2661,7 +2661,7 @@
                 "open_issues": 0,
                 "owner": "Mind2Act",
                 "repo": "Mind2Act_World",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "benchmark",
                   "embodied-ai",
@@ -2687,7 +2687,7 @@
                 "open_issues": 0,
                 "owner": "FofGofx",
                 "repo": "WorldCache",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "free-training",
                   "inference-acceleration",
@@ -2734,7 +2734,7 @@
                 "open_issues": 1,
                 "owner": "gaoxiang12",
                 "repo": "ga-wm",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "vla",
                   "world-action-model"
@@ -2855,7 +2855,7 @@
                 "open_issues": 0,
                 "owner": "weiqi-zhang",
                 "repo": "AEON",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-10-24T18:45:45.795Z"
@@ -3368,7 +3368,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Implementation of WAMotor: Accelerating World Action Models via Speculative Inference under Dual Nonuniform Denoising Dynamics. https://arxiv.org/abs/2611.25413",
+                "description": "[https://arxiv.org/abs/2611.25413] Implementation of WAMotor: Accelerating World Action Models via Speculative Inference under Dual Nonuniform Denoising Dynamics.",
                 "homepage": null,
                 "id": 1461187232,
                 "language": "Python",
@@ -3776,7 +3776,7 @@
                 "open_issues": 14,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12473,
+                "stars": 12483,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3794,16 +3794,47 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-04T05:02:53Z",
-                "open_issues": 88,
+                "open_issues": 90,
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 4026,
+                "stars": 4029,
                 "topics": [
                   "artificial-intelligence",
                   "general",
                   "jax",
                   "minecraft",
                   "reinforcement-learning",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-08-29T00:32:35.403Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [Paper",
+              "description": "Tencent-Hunyuan/HunyuanWorld-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels with Hunyuan3D World Model",
+                "homepage": "https://3d.hunyuan.tencent.com/sceneTo3D",
+                "id": 1022300160,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-04-15T17:27:25Z",
+                "open_issues": 36,
+                "owner": "Tencent-Hunyuan",
+                "repo": "HunyuanWorld-1.0",
+                "stars": 2998,
+                "topics": [
+                  "3d",
+                  "3d-generation",
+                  "aigc",
+                  "hunyuan3d",
+                  "image-to-3d",
+                  "scene-generation",
+                  "text-to-3d",
+                  "world-model",
                   "world-models"
                 ]
               },
@@ -3825,7 +3856,7 @@
                 "open_issues": 47,
                 "owner": "SkyworkAI",
                 "repo": "Matrix-Game",
-                "stars": 2995,
+                "stars": 2997,
                 "topics": [
                   "genie",
                   "interactive-video",
@@ -3835,37 +3866,6 @@
                   "real-time",
                   "video-generation",
                   "world-model"
-                ]
-              },
-              "first_seen": "2026-08-29T00:32:35.403Z"
-            },
-            {
-              "node_type": "item",
-              "title": "HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels. [Paper",
-              "description": "Tencent-Hunyuan/HunyuanWorld-1.0",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels with Hunyuan3D World Model",
-                "homepage": "https://3d.hunyuan.tencent.com/sceneTo3D",
-                "id": 1022300160,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-04-15T17:27:25Z",
-                "open_issues": 36,
-                "owner": "Tencent-Hunyuan",
-                "repo": "HunyuanWorld-1.0",
-                "stars": 2994,
-                "topics": [
-                  "3d",
-                  "3d-generation",
-                  "aigc",
-                  "hunyuan3d",
-                  "image-to-3d",
-                  "scene-generation",
-                  "text-to-3d",
-                  "world-model",
-                  "world-models"
                 ]
               },
               "first_seen": "2026-08-29T00:32:35.403Z"
@@ -3886,7 +3886,7 @@
                 "open_issues": 1,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2913,
+                "stars": 2932,
                 "topics": [
                   "agent",
                   "infra",
@@ -4039,7 +4039,7 @@
                 "open_issues": 19,
                 "owner": "AgibotTech",
                 "repo": "Genie-Envisioner-V1",
-                "stars": 592,
+                "stars": 593,
                 "topics": []
               },
               "first_seen": "2026-10-25T18:59:58.525Z"
@@ -5844,7 +5844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:33:02.874Z",
+    "last_updated": "2026-11-28T00:00:21.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
